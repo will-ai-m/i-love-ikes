@@ -9,14 +9,18 @@ A near-complete catalog of every named sandwich sold by **Ike's Love & Sandwiche
 
 Ike's is famous for a menu that reportedly spans hundreds of combinations, but no single master list is published anywhere — the flagship website shows only ~30 items, and the rest live on individual store ordering pages (many of them regional or single-store exclusives). This repo reconstructs the full picture by scraping every location.
 
+## Live site
+
+**→ [will-ai-m.github.io/i-love-ikes](https://will-ai-m.github.io/i-love-ikes/)** — an interactive, searchable catalog of all 768 sandwiches, filterable by protein group and diet (meat / vegan / vegetarian). Built from the data below.
+
 ## Files
 
 | File | What it is |
 |------|-----------|
+| [`index.html`](index.html) | The live catalog site (self-contained; loads the JSON below) |
 | [`SANDWICHES_BY_PROTEIN.md`](SANDWICHES_BY_PROTEIN.md) | Human-readable list, grouped by protein |
 | [`data/ikes_sandwiches.json`](data/ikes_sandwiches.json) | Structured data (name, number, ingredients, protein group, store count) |
 | [`data/ikes_sandwiches.csv`](data/ikes_sandwiches.csv) | Same data as CSV |
-| [`ikes_super.html`](ikes_super.html) | Self-contained interactive explorer — searchable and filterable, works offline |
 
 ## Data fields
 

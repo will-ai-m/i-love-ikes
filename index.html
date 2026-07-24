@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="An unofficial fan-made catalog of every named sandwich at Ike's Love & Sandwiches — 768 sandwiches from 116 store menus, searchable and filterable by protein.">
+<title>Ike's Sandwich Catalog — 768 Sandwiches</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%A5%AA</text></svg>">
+<style>
+  :root{
+    --red:#D6202B; --red-deep:#A9151E; --gold:#E8A13A; --gold-deep:#C9821B;
+    --cream:#FFF7EA; --paper:#FFFDF8; --ink:#241C15; --ink2:#6A5F52; --ink3:#9C9384;
+    --line:rgba(36,28,21,.12); --line2:rgba(36,28,21,.22);
+    --veg:#4B7A2E; --veg-bg:#4B7A2E14; --vegan:#2E7A6A; --vegan-bg:#2E7A6A14;
+    --meat:#B4472F; --meat-bg:#B4472F12;
+    --shadow:0 1px 2px rgba(36,28,21,.06),0 8px 24px rgba(36,28,21,.06);
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--cream); color:var(--ink);
+    font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--red-deep);text-decoration:none}
+  a:hover{text-decoration:underline}
+
+  /* ---- Header ---- */
+  header.site{
+    position:sticky; top:0; z-index:30;
+    background:var(--red); color:#fff;
+    border-bottom:3px solid var(--gold);
+  }
+  .bar{max-width:1180px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:14px}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:-.01em;font-size:19px}
+  .brand .mark{font-size:24px;line-height:1;transform:translateY(1px)}
+  .pill-unofficial{
+    font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;
+    background:rgba(255,255,255,.16);color:#fff;padding:4px 9px;border-radius:999px;white-space:nowrap;
+  }
+  .bar .spacer{flex:1}
+  .bar a.gh{color:#fff;opacity:.92;font-size:14px;font-weight:600}
+
+  /* ---- Hero ---- */
+  .hero{max-width:1180px;margin:0 auto;padding:44px 20px 24px;text-align:center}
+  .hero h1{
+    margin:0 0 10px;font-size:clamp(32px,6vw,54px);line-height:1.02;letter-spacing:-.025em;
+    font-weight:850;color:var(--ink);
+  }
+  .hero h1 .accent{color:var(--red)}
+  .hero .lede{max-width:640px;margin:0 auto;color:var(--ink2);font-size:clamp(15px,2vw,18px)}
+  .stats{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:26px auto 0;max-width:760px}
+  .stat{
+    flex:1 1 150px;background:var(--paper);border:1px solid var(--line);border-radius:14px;
+    padding:16px 14px;box-shadow:var(--shadow);
+  }
+  .stat .n{font-size:30px;font-weight:850;letter-spacing:-.03em;color:var(--red-deep);line-height:1}
+  .stat .l{margin-top:5px;font-size:12.5px;color:var(--ink2);text-transform:uppercase;letter-spacing:.05em;font-weight:600}
+
+  /* ---- Controls ---- */
+  .controls{position:sticky;top:52px;z-index:20;background:var(--cream);
+    border-bottom:1px solid var(--line);backdrop-filter:saturate(1.1) blur(2px)}
+  .controls-inner{max-width:1180px;margin:0 auto;padding:14px 20px 12px}
+  .row1{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+  .search{position:relative;flex:1 1 320px;min-width:220px}
+  .search input{
+    width:100%;padding:11px 14px 11px 40px;border:1.5px solid var(--line2);border-radius:11px;
+    background:var(--paper);font-size:15px;color:var(--ink);
+  }
+  .search input:focus{outline:none;border-color:var(--red);box-shadow:0 0 0 3px var(--meat-bg)}
+  .search .ico{position:absolute;left:13px;top:50%;transform:translateY(-50%);opacity:.5;font-size:15px}
+  select{
+    padding:11px 34px 11px 13px;border:1.5px solid var(--line2);border-radius:11px;background:var(--paper);
+    font-size:14px;font-weight:600;color:var(--ink);cursor:pointer;
+    appearance:none;-webkit-appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%236A5F52' d='M1 1l5 5 5-5'/%3E%3C/svg%3E");
+    background-repeat:no-repeat;background-position:right 13px center;
+  }
+  .diet{display:inline-flex;border:1.5px solid var(--line2);border-radius:11px;overflow:hidden}
+  .diet button{
+    border:0;background:var(--paper);padding:11px 14px;font-size:13.5px;font-weight:700;color:var(--ink2);
+    cursor:pointer;border-right:1px solid var(--line)
+  }
+  .diet button:last-child{border-right:0}
+  .diet button.on{background:var(--ink);color:#fff}
+  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .chip{
+    border:1.5px solid var(--line2);background:var(--paper);color:var(--ink2);
+    padding:6px 12px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--red)}
+  .chip.on{background:var(--red);border-color:var(--red);color:#fff}
+  .chip .c{opacity:.65;font-weight:700;margin-left:5px}
+  .chip.on .c{opacity:.85}
+
+  /* ---- Grid ---- */
+  main{max-width:1180px;margin:0 auto;padding:20px 20px 60px}
+  .resultbar{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:6px 2px 16px;flex-wrap:wrap}
+  .resultbar .count{font-size:14px;color:var(--ink2);font-weight:600}
+  .resultbar .clear{font-size:13px;font-weight:600;color:var(--red-deep);cursor:pointer;background:none;border:0;padding:0}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px}
+  .card{
+    background:var(--paper);border:1px solid var(--line);border-radius:15px;padding:16px 16px 15px;
+    box-shadow:var(--shadow);display:flex;flex-direction:column;transition:transform .12s ease,box-shadow .12s ease;
+    border-top:3px solid var(--gold);
+  }
+  .card:hover{transform:translateY(-2px);box-shadow:0 2px 4px rgba(36,28,21,.08),0 14px 30px rgba(36,28,21,.1)}
+  .card.diet-vegan{border-top-color:var(--vegan)}
+  .card.diet-veg{border-top-color:var(--veg)}
+  .card.diet-meat{border-top-color:var(--meat)}
+  .ctop{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+  .num{font-size:12px;font-weight:800;color:var(--gold-deep);letter-spacing:.02em}
+  .ctop .fill{flex:1}
+  .tag{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.04em;padding:3px 8px;border-radius:999px}
+  .tag.meat{color:var(--meat);background:var(--meat-bg)}
+  .tag.veg{color:var(--veg);background:var(--veg-bg)}
+  .tag.vegan{color:var(--vegan);background:var(--vegan-bg)}
+  .card h3{margin:0 0 4px;font-size:18px;line-height:1.15;letter-spacing:-.015em;font-weight:800}
+  .group{font-size:12.5px;color:var(--ink3);font-weight:600;margin-bottom:9px}
+  .ingr{font-size:14px;color:var(--ink2);line-height:1.45;flex:1}
+  .ingr.none{font-style:italic;color:var(--ink3)}
+  .cfoot{margin-top:12px;display:flex;align-items:center;gap:8px}
+  .pop{flex:1;height:6px;background:var(--line);border-radius:999px;overflow:hidden}
+  .pop span{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--red));border-radius:999px}
+  .popn{font-size:11.5px;color:var(--ink3);font-weight:600;white-space:nowrap}
+  .empty{text-align:center;padding:70px 20px;color:var(--ink2)}
+  .empty .big{font-size:40px;margin-bottom:10px}
+
+  /* ---- Footer ---- */
+  footer{background:var(--ink);color:#E9E1D4;margin-top:20px}
+  .foot-inner{max-width:1180px;margin:0 auto;padding:40px 20px 46px;display:grid;grid-template-columns:1.4fr 1fr;gap:32px}
+  footer h4{margin:0 0 10px;font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--gold)}
+  footer p{margin:0 0 10px;font-size:14px;line-height:1.6;color:#C9C0B1}
+  footer a{color:#F3D9A6}
+  footer ul{margin:0;padding:0;list-style:none;font-size:14px;line-height:2}
+  .disclaimer{border-top:1px solid rgba(255,255,255,.12);margin-top:8px;padding:18px 20px;text-align:center;
+    font-size:12.5px;color:#9C9284;max-width:1180px;margin-left:auto;margin-right:auto}
+  @media(max-width:640px){.foot-inner{grid-template-columns:1fr;gap:24px}.controls{top:50px}}
+  @media(max-width:420px){.bar .brand{font-size:17px}}
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="bar">
+    <div class="brand"><span class="mark">🥪</span><span>Ike's Sandwich Catalog</span></div>
+    <span class="pill-unofficial">Unofficial fan project</span>
+    <span class="spacer"></span>
+    <a class="gh" href="https://github.com/will-ai-m/i-love-ikes" target="_blank" rel="noopener">Source & data ↗</a>
+  </div>
+</header>
+
+<section class="hero">
+  <h1>Every <span class="accent">Ike's</span> sandwich, in one place.</h1>
+  <p class="lede">Ike's Love &amp; Sandwiches spreads its menu across individual store ordering pages — no single master list exists. So I pulled all 116 US location menus and merged them. Here's the whole catalog.</p>
+  <div class="stats">
+    <div class="stat"><div class="n" id="s-total">768</div><div class="l">Unique sandwiches</div></div>
+    <div class="stat"><div class="n">116</div><div class="l">Store menus merged</div></div>
+    <div class="stat"><div class="n">20</div><div class="l">Protein groups</div></div>
+    <div class="stat"><div class="n">Jul&nbsp;2026</div><div class="l">Data pulled</div></div>
+  </div>
+</section>
+
+<div class="controls">
+  <div class="controls-inner">
+    <div class="row1">
+      <label class="search">
+        <span class="ico">🔍</span>
+        <input id="q" type="search" placeholder="Search by name or ingredient — try “avocado”, “pesto”, “Halsey”…" autocomplete="off">
+      </label>
+      <div class="diet" id="diet">
+        <button data-diet="all" class="on">All</button>
+        <button data-diet="meat">Meat</button>
+        <button data-diet="vegan">Vegan</button>
+        <button data-diet="veg">Vegetarian</button>
+      </div>
+      <select id="sort">
+        <option value="pop">Most widely carried</option>
+        <option value="name">Name (A–Z)</option>
+        <option value="num">Menu number</option>
+        <option value="group">Protein group</option>
+      </select>
+    </div>
+    <div class="chips" id="chips"></div>
+  </div>
+</div>
+
+<main>
+  <div class="resultbar">
+    <span class="count" id="count">Loading…</span>
+    <button class="clear" id="clear" hidden>Clear filters ✕</button>
+  </div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  <div class="foot-inner">
+    <div>
+      <h4>How this was made</h4>
+      <p>Ike's online ordering menus (<code>oxb.pxsweb.com</code> / <code>orderexperience.net</code>) were pulled one location at a time and merged, deduplicated by sandwich name. Protein grouping is derived from each item's first-listed ingredient, so multi-meat combos sit under their lead protein.</p>
+      <p>Every Ike's sandwich comes hot on Dutch Crunch with dirty sauce, lettuce &amp; tomato by default, and most meat builds can be made vegan on request. The popularity bar shows how many store menus carry each item — a proxy for core vs. regional exclusives.</p>
+    </div>
+    <div>
+      <h4>Get the data</h4>
+      <ul>
+        <li><a href="data/ikes_sandwiches.json">ikes_sandwiches.json</a></li>
+        <li><a href="data/ikes_sandwiches.csv">ikes_sandwiches.csv</a></li>
+        <li><a href="README.md">README &amp; method</a></li>
+        <li><a href="https://github.com/will-ai-m/i-love-ikes">GitHub repo ↗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="disclaimer">
+    Fan-made reference. Menu content belongs to Ike's Love &amp; Sandwiches. Not affiliated with or endorsed by Ike's. Data as of the pull date — check the store for current availability &amp; pricing.
+  </div>
+</footer>
+
+<script>
+(function(){
+  var grid=document.getElementById('grid'), countEl=document.getElementById('count'),
+      chipsEl=document.getElementById('chips'), qEl=document.getElementById('q'),
+      sortEl=document.getElementById('sort'), dietEl=document.getElementById('diet'),
+      clearEl=document.getElementById('clear');
+  var ALL=[], MAXPOP=1;
+  var state={q:'',diet:'all',group:null,sort:'pop'};
+
+  function dietOf(g){
+    if(/^Vegan/i.test(g)) return 'vegan';
+    if(/^Vegetarian/i.test(g)) return 'veg';
+    return 'meat';
+  }
+  var DIET_LABEL={meat:'Meat',veg:'Veg',vegan:'Vegan'};
+
+  fetch('data/ikes_sandwiches.json').then(function(r){return r.json();}).then(function(d){
+    ALL=d.sandwiches.map(function(s){
+      return {
+        number:s.number||'', name:s.name||'Unnamed',
+        group:s.protein_group||'Other',
+        ingredients:s.ingredients||'',
+        pop:s.locations_count||0,
+        diet:dietOf(s.protein_group||''),
+        _n:(s.name||'').toLowerCase(),
+        _i:(s.ingredients||'').toLowerCase()
+      };
+    });
+    MAXPOP=ALL.reduce(function(m,s){return Math.max(m,s.pop);},1);
+    document.getElementById('s-total').textContent=ALL.length;
+    buildChips(d.group_counts||{});
+    render();
+  }).catch(function(e){
+    countEl.textContent='Could not load data.';
+    grid.innerHTML='<div class="empty"><div class="big">😕</div>Failed to load the sandwich data.</div>';
+  });
+
+  function buildChips(counts){
+    var groups=Object.keys(counts).sort(function(a,b){return counts[b]-counts[a];});
+    chipsEl.innerHTML='';
+    groups.forEach(function(g){
+      var b=document.createElement('button');
+      b.className='chip'; b.dataset.group=g;
+      b.innerHTML='';
+      b.appendChild(document.createTextNode(g));
+      var c=document.createElement('span'); c.className='c'; c.textContent=counts[g];
+      b.appendChild(c);
+      b.addEventListener('click',function(){
+        state.group=(state.group===g)?null:g;
+        [].forEach.call(chipsEl.children,function(x){x.classList.toggle('on',x.dataset.group===state.group);});
+        render();
+      });
+      chipsEl.appendChild(b);
+    });
+  }
+
+  qEl.addEventListener('input',function(){state.q=qEl.value.trim().toLowerCase();render();});
+  sortEl.addEventListener('change',function(){state.sort=sortEl.value;render();});
+  dietEl.addEventListener('click',function(e){
+    var b=e.target.closest('button'); if(!b)return;
+    state.diet=b.dataset.diet;
+    [].forEach.call(dietEl.children,function(x){x.classList.toggle('on',x===b);});
+    render();
+  });
+  clearEl.addEventListener('click',function(){
+    state={q:'',diet:'all',group:null,sort:sortEl.value};
+    qEl.value='';
+    [].forEach.call(dietEl.children,function(x){x.classList.toggle('on',x.dataset.diet==='all');});
+    [].forEach.call(chipsEl.children,function(x){x.classList.remove('on');});
+    render();
+  });
+
+  function filtered(){
+    return ALL.filter(function(s){
+      if(state.diet!=='all' && s.diet!==state.diet) return false;
+      if(state.group && s.group!==state.group) return false;
+      if(state.q && s._n.indexOf(state.q)<0 && s._i.indexOf(state.q)<0 && String(s.number).indexOf(state.q)<0) return false;
+      return true;
+    });
+  }
+  function sortList(list){
+    var s=state.sort;
+    return list.sort(function(a,b){
+      if(s==='name') return a.name.localeCompare(b.name);
+      if(s==='num') return (parseInt(a.number)||1e9)-(parseInt(b.number)||1e9);
+      if(s==='group') return a.group.localeCompare(b.group)||b.pop-a.pop;
+      return b.pop-a.pop || a.name.localeCompare(b.name);
+    });
+  }
+
+  function render(){
+    var list=sortList(filtered());
+    var active=state.q||state.group||state.diet!=='all';
+    clearEl.hidden=!active;
+    countEl.textContent=list.length+' '+(list.length===1?'sandwich':'sandwiches')
+      + (state.group?' · '+state.group:'') + (state.diet!=='all'?' · '+DIET_LABEL[state.diet]:'');
+
+    if(!list.length){
+      grid.innerHTML='<div class="empty"><div class="big">🥲</div>No sandwiches match. Try clearing a filter.</div>';
+      return;
+    }
+    var frag=document.createDocumentFragment();
+    list.forEach(function(s){
+      var card=document.createElement('div');
+      card.className='card diet-'+s.diet;
+
+      var top=document.createElement('div'); top.className='ctop';
+      var num=document.createElement('span'); num.className='num';
+      num.textContent=s.number?('#'+s.number):'—';
+      var fill=document.createElement('span'); fill.className='fill';
+      var tag=document.createElement('span'); tag.className='tag '+s.diet;
+      tag.textContent=s.diet==='vegan'?'Vegan':(s.diet==='veg'?'Vegetarian':'Meat');
+      top.appendChild(num); top.appendChild(fill); top.appendChild(tag);
+
+      var h=document.createElement('h3'); h.textContent=s.name;
+      var grp=document.createElement('div'); grp.className='group'; grp.textContent=s.group;
+      var ing=document.createElement('div');
+      ing.className='ingr'+(s.ingredients?'':' none');
+      ing.textContent=s.ingredients||'Ingredients not listed';
+
+      var foot=document.createElement('div'); foot.className='cfoot';
+      var pop=document.createElement('div'); pop.className='pop';
+      var bar=document.createElement('span');
+      bar.style.width=Math.max(6,Math.round(s.pop/MAXPOP*100))+'%';
+      pop.appendChild(bar);
+      var pn=document.createElement('span'); pn.className='popn';
+      pn.textContent=s.pop+' menus';
+      pn.title='Appears on '+s.pop+' store menus';
+      foot.appendChild(pop); foot.appendChild(pn);
+
+      card.appendChild(top); card.appendChild(h); card.appendChild(grp);
+      card.appendChild(ing); card.appendChild(foot);
+      frag.appendChild(card);
+    });
+    grid.innerHTML='';
+    grid.appendChild(frag);
+  }
+})();
+</script>
+</body>
+</html>
