@@ -1,0 +1,5427 @@
+{
+  "source": "Ike's Love & Sandwiches online ordering menus (all 116 US locations)",
+  "pulled": "2026-07-23",
+  "total": 768,
+  "protein_groups": [
+    "Halal chicken",
+    "Fried chicken",
+    "Chicken (other)",
+    "Turkey",
+    "Roast beef",
+    "Steak & beef",
+    "Pastrami",
+    "Ham",
+    "Salami",
+    "Meatball",
+    "Bacon",
+    "Seafood",
+    "Sausage / hot link",
+    "Vegan - chicken",
+    "Vegan - turkey",
+    "Vegan - steak",
+    "Vegan - meatball",
+    "Vegan - bacon",
+    "Vegan - other",
+    "Vegetarian (no meat)"
+  ],
+  "group_counts": {
+    "Halal chicken": 72,
+    "Fried chicken": 56,
+    "Chicken (other)": 2,
+    "Turkey": 72,
+    "Roast beef": 33,
+    "Steak & beef": 61,
+    "Pastrami": 33,
+    "Ham": 19,
+    "Salami": 7,
+    "Meatball": 25,
+    "Bacon": 13,
+    "Seafood": 19,
+    "Sausage / hot link": 2,
+    "Vegan - chicken": 135,
+    "Vegan - turkey": 59,
+    "Vegan - steak": 27,
+    "Vegan - meatball": 30,
+    "Vegan - bacon": 17,
+    "Vegan - other": 4,
+    "Vegetarian (no meat)": 82
+  },
+  "sandwiches": [
+    {
+      "number": "929",
+      "name": "HALSEY",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Italian Dressing, Avocado, Provolone",
+      "locations_count": 181
+    },
+    {
+      "number": "405",
+      "name": "ERIN COSCARELLI",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Dirty Dressing, Purple Slaw, Avocado, Pepper Jack",
+      "locations_count": 105
+    },
+    {
+      "number": "111",
+      "name": "MENAGE A TROIS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Honey Mustard, BBQ Sauce, Real Honey, Pepper Jack, Swiss, Cheddar",
+      "locations_count": 105
+    },
+    {
+      "number": "99",
+      "name": "WE'RE JUST FRIENDS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Avocado, Zesty Orange Glaze, Pepper Jack",
+      "locations_count": 104
+    },
+    {
+      "number": "1999",
+      "name": "HEY NOW, YOU'RE AN ALLSTAR- Created With Smash Mouth",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Red Pesto, Sriracha, Wasabi Mayo, Pepper Jack",
+      "locations_count": 102
+    },
+    {
+      "number": "106",
+      "name": "THE NNEKANATOR - Created With Nneka Ogwumike",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",
+      "locations_count": 102
+    },
+    {
+      "number": "1",
+      "name": "ELVIS KIETH",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Teriyaki, Wasabi Mayo, Swiss",
+      "locations_count": 101
+    },
+    {
+      "number": "9",
+      "name": "[NAME OF THE GIRL I'M DATING]",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Honey Mustard, Avocado, Pepper Jack",
+      "locations_count": 98
+    },
+    {
+      "number": "30",
+      "name": "BACKSTABBER",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Creamy Caesar, Marinated Artichoke Hearts, Provolone",
+      "locations_count": 97
+    },
+    {
+      "number": "6",
+      "name": "HOT MOMMA HUDA",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Buffalo Wing Sauce, Ranch, Provolone",
+      "locations_count": 78
+    },
+    {
+      "number": "0.5",
+      "name": "SPIFFY TIFFY",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Pesto, Mushrooms, Avocado, Pepper Jack, Provolone",
+      "locations_count": 18
+    },
+    {
+      "number": "49",
+      "name": "THE 49ER",
+      "protein_group": "Halal chicken",
+      "ingredients": "Halal Chicken, Buffalo Wing Sauce, Honey Mustard, Gouda",
+      "locations_count": 15
+    },
+    {
+      "number": "76",
+      "name": "M.I.L.F",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Stuffed Jalapeno Poppers, Buffalo Wing Sauce, Ranch",
+      "locations_count": 14
+    },
+    {
+      "number": "51",
+      "name": "RANDY JOHNSON",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Southwest Pesto, Mushrooms, Pepper Jack",
+      "locations_count": 12
+    },
+    {
+      "number": "44",
+      "name": "ROBIN WILLIAMS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Italian Dressing, Mushrooms, Pepper Jack",
+      "locations_count": 12
+    },
+    {
+      "number": "10",
+      "name": "STEVE NASH",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Marinara, Provolone",
+      "locations_count": 12
+    },
+    {
+      "number": "16",
+      "name": "JAKE THE SNAKE",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Asian Sesame Dressing, Avocado, Provolone",
+      "locations_count": 10
+    },
+    {
+      "number": "7",
+      "name": "PIZZLE",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Ranch, Cheddar",
+      "locations_count": 9
+    },
+    {
+      "number": "176",
+      "name": "COUGAR",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Buffalo Wing Sauce, Ranch, Mozzarella Sticks",
+      "locations_count": 8
+    },
+    {
+      "number": "10",
+      "name": "RUM RUM",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Marinara, Provolone",
+      "locations_count": 8
+    },
+    {
+      "number": "107",
+      "name": "IF I WERE CUTE!",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Mozzarella Sticks, Pesto, Ranch, Cheddar",
+      "locations_count": 7
+    },
+    {
+      "number": "4",
+      "name": "LIZZY'S LIPS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Italian Dressing, Pepper Jack",
+      "locations_count": 7
+    },
+    {
+      "number": "30",
+      "name": "SILICON VALLEY",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Creamy Caesar, Marinated Artichoke Hearts, Provolone",
+      "locations_count": 7
+    },
+    {
+      "number": "96",
+      "name": "VIKINGS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 7
+    },
+    {
+      "number": "12",
+      "name": "ANDREW LUCK",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Italian Dressing, Avocado, Gouda",
+      "locations_count": 6
+    },
+    {
+      "number": "17",
+      "name": "BULLDOGS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 6
+    },
+    {
+      "number": "182",
+      "name": "MICKELSON",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",
+      "locations_count": 6
+    },
+    {
+      "number": "11",
+      "name": "MOZZARELLA'S BIG CHEESE",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Honey Mustard, Real Honey, Provolone",
+      "locations_count": 6
+    },
+    {
+      "number": "17",
+      "name": "MUSTANGS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 6
+    },
+    {
+      "number": "182",
+      "name": "PHIL MICKELSON",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",
+      "locations_count": 6
+    },
+    {
+      "number": "427",
+      "name": "ALARIC",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Green Chiles, Ranch, Cheddar",
+      "locations_count": 5
+    },
+    {
+      "number": "82",
+      "name": "NOT TONIGHT I HAVE A HEADACHE",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, BBQ Sauce, Cheddar",
+      "locations_count": 5
+    },
+    {
+      "number": "66",
+      "name": "DAMN STRAIGHT",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Mozzarella Sticks, Marinara",
+      "locations_count": 4
+    },
+    {
+      "number": "518",
+      "name": "JEREMY'S FISH & CHIPS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Yellow BBQ Sauce, Mozzarella Sticks, Jalapeno Chips",
+      "locations_count": 4
+    },
+    {
+      "number": "10",
+      "name": "CURTIS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Marinara, Provolone",
+      "locations_count": 3
+    },
+    {
+      "number": "16",
+      "name": "16TH & MARKET",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Asian Sesame Dressing, Avocado, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "110",
+      "name": "DON'T F' WITH E. K.",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Teriyaki, Wasabi Mayo, Mushrooms, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "312",
+      "name": "JOE NAMATH",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Asian Sesame Dressing, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "17",
+      "name": "MCCARRAN",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "17",
+      "name": "SANCHEZ COLLEGE PREP",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "106",
+      "name": "THE NNEKANATOR",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "17",
+      "name": "TIMBER WOLF",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "17",
+      "name": "TOP GUN",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "789",
+      "name": "YAEL UNIVERSITY",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Real Honey, Honey Mustard, BBQ Sauce, Pepper Jack, Swiss, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "17",
+      "name": "AARON ECKHART",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "443",
+      "name": "BECCA GROSS HEARTS BECCA GROSS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, BBQ Sauce, Sriracha, Cream Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "BISHOP RANCH",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "773",
+      "name": "BLOND BOMBER (Fremont Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Ike's Spicy Wing Sauce, Real Honey, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "BOBCAT",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "BULLDOG",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "576",
+      "name": "CHARLOTTE KENSINGTON (Fresno Campus Pointe Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Ike's Buffalo French Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "1229",
+      "name": "DESERT ROSE",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Honey Mustard, Habanero, Purple Slaw, Avocado, Cheddar, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "431",
+      "name": "FESTUS EZELI",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Real Honey, Habanero, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "FRISBIE",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "524",
+      "name": "G-EAZY",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Red Pesto, Green Pesto, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "90",
+      "name": "GET OVER IT",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Honey Mustard, Avocado, Mozzarella Sticks",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "GOLDEN BEAR",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "599",
+      "name": "GRAFFITI PETEY (Modesto Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Ike's Sweet Wing Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "HILLCREST",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "452",
+      "name": "IT'S NOT ME IT'S YOU",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Zesty Orange Glaze, Mozzarella Sticks, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "733",
+      "name": "JGL (Sherman Oaks Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Ike's Mango Habanero Teriyaki, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "MC HAMMER",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "96",
+      "name": "MILLS VIKINGS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "16",
+      "name": "MONTANA",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Bacon, Asian Sesame Dressing, Avocado, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "795",
+      "name": "SUMMERTIME IN THE LBC (LBX Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Ike's Strong Beach Sauce, Beer-Battered Onion Rings, Cream Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "THE GAEL",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "701",
+      "name": "THE GM (Fountain Valley Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Ike's Spicy Teriyaki, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "144",
+      "name": "THE PALIN (Salinas Exclusive)",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Chunky Blue Cheese Dressing, Buffalo Wing Sauce, Mozzarella Sticks",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "VAQUEROS",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "17",
+      "name": "WASHINGTON PARK",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "411",
+      "name": "WHAT HAPPENS AT IKE'S STAYS AT IKE'S",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal), Real Honey, Honey Mustard, BBQ Sauce, Avocado, Pepper Jack, Swiss, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "8675309",
+      "name": "ZIVITY",
+      "protein_group": "Halal chicken",
+      "ingredients": "Chicken (Halal) , Salami (Beef), Pesto, Honey Mustard, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "98",
+      "name": "JAYMEE SIREWICH",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Yellow BBQ Sauce, Ranch, Pepper Jack",
+      "locations_count": 105
+    },
+    {
+      "number": "422",
+      "name": "BEAST MODE",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Bacon, Spicy Beast Mode BBQ Sauce, Cheddar",
+      "locations_count": 103
+    },
+    {
+      "number": "201",
+      "name": "ADAM RICHMAN",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ham, Pesto, Real Honey, Avocado, Swiss",
+      "locations_count": 102
+    },
+    {
+      "number": "1010",
+      "name": "KP NASTY- Created With Kelsey Plum",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, BBQ Sauce, Honey Mustard, Purple Slaw, French Dressing, Cheddar",
+      "locations_count": 101
+    },
+    {
+      "number": "1337",
+      "name": "MICHAEL CLIFFORD'S SIDEQUEST SANDWICH",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Yellow BBQ Sauce, BBQ Sauce, Zesty Orange Glaze, Real Honey, Voodoo Chips, Pepper Jack",
+      "locations_count": 101
+    },
+    {
+      "number": "500",
+      "name": "ARASH MARKAZI",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Purple Slaw, Wasabi Mayo, Honey Mustard, Cheddar",
+      "locations_count": 16
+    },
+    {
+      "number": "126",
+      "name": "MARK APPEL",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Honey Mustard, BBQ Sauce, Real Honey, Pepper Jack, Swiss, Cheddar",
+      "locations_count": 13
+    },
+    {
+      "number": "2020",
+      "name": "GONZO's GAME WINNER",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ham, Bacon, Real Honey, Avocado, Mozzarella Sticks",
+      "locations_count": 11
+    },
+    {
+      "number": "340",
+      "name": "HARRISON PARMES",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Marinara, Provolone",
+      "locations_count": 11
+    },
+    {
+      "number": "390",
+      "name": "WONDER WOMAN",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Honey Mustard, Pepper Jack",
+      "locations_count": 8
+    },
+    {
+      "number": "148",
+      "name": "MRS ROBINSON",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Buffalo Wing Sauce, Ranch, Provolone",
+      "locations_count": 6
+    },
+    {
+      "number": "1219",
+      "name": "SPARTAN NATION",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Zesty Orange Glaze, BBQ Sauce, Honey Mustard, Pepper Jack",
+      "locations_count": 6
+    },
+    {
+      "number": "139",
+      "name": "ANCHOR MAN",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Purple Slaw, American",
+      "locations_count": 5
+    },
+    {
+      "number": "399",
+      "name": "PANDA PANDA PANDA",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Zesty Orange Glaze, American",
+      "locations_count": 5
+    },
+    {
+      "number": "704",
+      "name": "BETH TROUTMAN",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Buffalo Wing Sauce, Ranch, Beer-Battered Onion Rings, Pepper Jack",
+      "locations_count": 4
+    },
+    {
+      "number": "481",
+      "name": "FRIDAY THE 13th",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Mango Habanero, Ranch, Pepper Jack",
+      "locations_count": 4
+    },
+    {
+      "number": "901",
+      "name": "ACHILLES",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Teriyaki, Wasabi Mayo, Sriracha, Gouda",
+      "locations_count": 3
+    },
+    {
+      "number": "190",
+      "name": "KELLY KAPOWSKI",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Honey Mustard, Avocado, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "1989",
+      "name": "ALAMO ELEMENTRY",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, BBQ Sauce, Mushrooms, Mozzarella Sticks",
+      "locations_count": 2
+    },
+    {
+      "number": "814",
+      "name": "BIG CAT",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Bacon, Mozzarella Sticks, Honey, Avocado",
+      "locations_count": 2
+    },
+    {
+      "number": "475",
+      "name": "FREDDY KRUEGER",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Mango Habanero, Honey Mustard, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "612",
+      "name": "MR. LUCKY",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Bacon, Italian Dressing, Avocado, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "213",
+      "name": "NATE DOGG (Long Beach Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Habanero BBQ, American",
+      "locations_count": 2
+    },
+    {
+      "number": "426",
+      "name": "STEAM ROLLER",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Honey Mustard, Pesto",
+      "locations_count": 2
+    },
+    {
+      "number": "336",
+      "name": "[YOUR SORORITY OR FRAT]",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Dirty Dressing, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "32",
+      "name": "BAKESALE",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ranch, American",
+      "locations_count": 1
+    },
+    {
+      "number": "746",
+      "name": "BLACKHAWK (Pleasanton Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Purple Slaw, Ike's Spicy Sycamore Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "586",
+      "name": "CAN I DRINK YOU A BUY? (Great Hills Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Orange Buffalo BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "393",
+      "name": "CARDINAL DIRECTION",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Honey Mustard, Sriracha, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "738",
+      "name": "CHANGE OF PACE (Arrowhead Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Bacon, Ike's Peoria BBQ Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "553",
+      "name": "COOL KIDS (Chino Exclusive )",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Wasabi Buffalo Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "587",
+      "name": "COUNTING BLUE CARS (Santa Barbara Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Neon Orange Delicious Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "548",
+      "name": "DIRE WOLF (Reno UNR Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Pizza Pesto, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "515",
+      "name": "FLORIBUNDA (Burlingame Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's B-Game Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "367",
+      "name": "GIRLFRIEND STEALER",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Marinated Artichoke Hearts, Creamy Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "439",
+      "name": "GOLDEN CANNONBALL (Dublin Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Sweet Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "616",
+      "name": "JIM PLUNKETT (Skyport Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Sweet Horseradish, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "744",
+      "name": "JOAN GIRARDI (El Segundo Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Second Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "542",
+      "name": "JOHN RITTER (Burbank Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Wasabi Honey Mustard, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "559",
+      "name": "LEELOO (Oakland Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Horseradish Wing Sauce, Purple Slaw, American",
+      "locations_count": 1
+    },
+    {
+      "number": "189",
+      "name": "LEX LUTHOR",
+      "protein_group": "Fried chicken",
+      "ingredients": "(Serves 2-4) Fried Chicken, Chicken Fried Steak, Steak, Mozzarella Sticks, French Dressing, American",
+      "locations_count": 1
+    },
+    {
+      "number": "375",
+      "name": "LIZZIE MCGUIRE",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Garlic & Herb Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "851",
+      "name": "ONE TAKE CHARLIE (Culver City Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Southwest Pesto Ranch, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "498",
+      "name": "PHOENIX RACEWAY (Avondale Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Bacon, Ike's Cool Ranch Buffalo, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "532",
+      "name": "PLANT THIS! (The Plant Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Turkey, Ike's G.E. Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "596",
+      "name": "ROOM 107 (Davis Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Aggie Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "626",
+      "name": "ROWDY GOWDY",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Honey Mustard, Pesto, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "537",
+      "name": "SHATTUCK (Berkeley Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Golden Bear Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "594",
+      "name": "SILVER SOX (Reno Summit Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Orange Wasabi Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "404",
+      "name": "SOUTHERN WESPOLALITY",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Marinara, BBQ Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "874",
+      "name": "THE CRAZY CHICKEN (Costa Mesa Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Loco Chicken Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "621",
+      "name": "THE ROS",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ranch, Zesty Orange Glaze, Real Honey, Purple Slaw",
+      "locations_count": 1
+    },
+    {
+      "number": "507",
+      "name": "THE SUN DEVIL (Tempe ASU Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Sun Devil Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "979",
+      "name": "THE TENTACLE",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Avocado, Ike's Mango Orange Mustard, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "566",
+      "name": "THE TILLER (Tustin Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Jalapeno Relish, American",
+      "locations_count": 1
+    },
+    {
+      "number": "511",
+      "name": "WILLOW (Concord Exclusive)",
+      "protein_group": "Fried chicken",
+      "ingredients": "Fried Chicken, Ike's Spicy Willow Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "",
+      "name": "CHICKEN STRIPS",
+      "protein_group": "Chicken (other)",
+      "ingredients": "3 chicken tenders served with your choice up to 2 of sauces",
+      "locations_count": 102
+    },
+    {
+      "number": "146",
+      "name": "JON PWS (Burlingame Exclusive)",
+      "protein_group": "Chicken (other)",
+      "ingredients": "Chicken Pot Stickers, Zesty Orange Glaze, Purple Slaw",
+      "locations_count": 1
+    },
+    {
+      "number": "5577",
+      "name": "JEFF GARCIA",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Avocado, Ranch, Honey Mustard, Cheddar",
+      "locations_count": 105
+    },
+    {
+      "number": "18",
+      "name": "MATT CAIN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Roast Beef, Salami (Beef), Godfather Sauce, Provolone",
+      "locations_count": 105
+    },
+    {
+      "number": "2797",
+      "name": "ROCKIN' ROENICK",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Chicken (Halal), Bacon, Red Pesto, Honey Mustard, Sriracha, Real Honey, Gouda",
+      "locations_count": 105
+    },
+    {
+      "number": "68",
+      "name": "CHASE OTTNEY IS HELLA SEXY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Provolone",
+      "locations_count": 103
+    },
+    {
+      "number": "34",
+      "name": "THE HUNTER PENCE",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",
+      "locations_count": 103
+    },
+    {
+      "number": "65",
+      "name": "JIM ROME",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Red Pesto, Avocado, Cheddar",
+      "locations_count": 101
+    },
+    {
+      "number": "25",
+      "name": "BARRY BONDS",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Swiss",
+      "locations_count": 100
+    },
+    {
+      "number": "75",
+      "name": "BARRY Z.",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, Provolone",
+      "locations_count": 94
+    },
+    {
+      "number": "118",
+      "name": "DA VINCI",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Salami (Beef), Italian Dressing, Provolone",
+      "locations_count": 91
+    },
+    {
+      "number": "19",
+      "name": "GOING HOME FOR THANKSGIVING",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Cranberry, Sriracha, Cheddar",
+      "locations_count": 55
+    },
+    {
+      "number": "6262",
+      "name": "LOGAN WEBB",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Beer-Battered Onion Rings, Godfather Sauce, Teriyaki, Avocado, Pepper Jack, Cheddar",
+      "locations_count": 31
+    },
+    {
+      "number": "55",
+      "name": "LINCECUM",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Bacon, Avocado, Provolone",
+      "locations_count": 13
+    },
+    {
+      "number": "512",
+      "name": "TONY HAWK",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Honey Mustard, Avocado, Provolone",
+      "locations_count": 12
+    },
+    {
+      "number": "43",
+      "name": "GIANCARLO MY SON",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Cream Cheese, Pesto, Cucumbers, Avocado",
+      "locations_count": 10
+    },
+    {
+      "number": "341",
+      "name": "JEREMY AFFELDT",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Roast Beef, Pastrami, Salami (Beef), Italian Dressing, Avocado, Provolone",
+      "locations_count": 10
+    },
+    {
+      "number": "262",
+      "name": "MARSHALL'S CAJUN CLUB- Created With Marshall Faulk",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Dirty Ranch, Cheddar, American",
+      "locations_count": 10
+    },
+    {
+      "number": "125",
+      "name": "TERRELL DAVIS",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Avocado, Swiss",
+      "locations_count": 10
+    },
+    {
+      "number": "333",
+      "name": "STEPHAN JENKINS",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Pesto, Grilled Tomatoes, Provolone",
+      "locations_count": 9
+    },
+    {
+      "number": "319",
+      "name": "RAWSON THURBER",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Cranberry, Pepper Jack",
+      "locations_count": 8
+    },
+    {
+      "number": "714",
+      "name": "AARON NUNEZ",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Green Chiles, Pepper Jack",
+      "locations_count": 7
+    },
+    {
+      "number": "320",
+      "name": "LINSANITY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Godfather Sauce, Avocado, Voodoo Heat Chips, Provolone",
+      "locations_count": 7
+    },
+    {
+      "number": "19",
+      "name": "TONY GWYNN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Cranberry, Sriracha, Cheddar",
+      "locations_count": 7
+    },
+    {
+      "number": "943",
+      "name": "STEVEN PRESSFIELD",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Salami (Beef), Godfather Sauce, Sriracha, Swiss",
+      "locations_count": 6
+    },
+    {
+      "number": "417",
+      "name": "YOUR FAVORITE HO",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Red Pesto, Avocado, Mushrooms, Pepper Jack",
+      "locations_count": 6
+    },
+    {
+      "number": "125",
+      "name": "756",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Avocado, Swiss",
+      "locations_count": 3
+    },
+    {
+      "number": "35",
+      "name": "BRANDON CRAWFORD",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ranch, Avocado, Swiss",
+      "locations_count": 3
+    },
+    {
+      "number": "942",
+      "name": "GIL MADE NJ?",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Salami (Beef), Bacon, Godfather, Ranch, Voodoo Heat Chips, Provolone",
+      "locations_count": 3
+    },
+    {
+      "number": "89",
+      "name": "LET'S GO GIANTS!",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Mushrooms, Avocado, Swiss",
+      "locations_count": 3
+    },
+    {
+      "number": "15",
+      "name": "PRIDE OF CASTRO",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Provolone",
+      "locations_count": 3
+    },
+    {
+      "number": "345",
+      "name": "STEPHEN HAWKING",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Zesty Orange Glaze, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "75",
+      "name": "B. WALSH",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "75",
+      "name": "BARRY ZITO",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "195",
+      "name": "CAT WOMAN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Honey Mustard, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "1123",
+      "name": "COPERNICUS",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Red Pesto, Spinach, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "777",
+      "name": "DAN ASHLEY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, (Light) Godfather, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "159",
+      "name": "FAKE HUNDRED DOLLAR BILLS, Y'ALL",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Pesto, Cream Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "26",
+      "name": "JERIES' BIG MEAT SANDWICH",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Roast Beef, Pastrami, Salami (Beef), Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "947",
+      "name": "KELLYBELLY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Mushrooms, Steak Sauce, Avocado, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "25",
+      "name": "KERRI WALSH",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "438",
+      "name": "PIONEERS",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Bacon, Strawberry Preserves, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "191",
+      "name": "TED DANSON",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Purple Slaw, French Dressing, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "333",
+      "name": "ALICE GRECZYN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Pesto, Grilled Tomatoes, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "437",
+      "name": "BACON-SIDE OF YOU",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Pesto, Grilled Tomatoes, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "958",
+      "name": "BOB BRADLEY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Red Pesto, Ranch, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "408",
+      "name": "CHRIS WONDOLOWSKI",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Salami (Beef), Godfather Sauce, Habanero, Avocado, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "68",
+      "name": "Chase Ottney Super Meal Deal",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey and Provolone Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "1125",
+      "name": "DR. JOHN DEMARTINI",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Zesty Orange Glaze, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "638",
+      "name": "GOLDEN BOY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Avocado, Strawberry Preserves, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "1850",
+      "name": "GOLDEN STATE OF MIND (Polk St. Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Peppadew Peppers, Cream Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "164",
+      "name": "GRIFFSTICK",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Roast Beef, Salami (Beef), Bacon, Griff Sauce, Avocado",
+      "locations_count": 1
+    },
+    {
+      "number": "894",
+      "name": "HALE-WOLF (Corona Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Bacon, Ike's Lemon Citrus Sauce, Swiss, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "409",
+      "name": "HUGH HEFNER",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Roast Beef, Godfather Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "34",
+      "name": "HUNTER PENCE",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "232",
+      "name": "JEANETTE POHLEN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Pastrami, Bacon, Honey Mustard, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "25",
+      "name": "JOHN ELWAY",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "121",
+      "name": "JOSE CANSECO",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Creamy Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "822",
+      "name": "JUICEMAN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, BBQ Sauce, Red Pesto, Cheddar, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "255",
+      "name": "JUNIOR SEAU (Hillcrest Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Roast Beef, Bacon, Ike's Seau Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "545",
+      "name": "LIMERICK (San Ramon Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Ike's Honey Habanero, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "348",
+      "name": "MANRESA (Hillsdale Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Roast Beef, Dirty Mustard, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "218",
+      "name": "MATT CAIN: WORLD CHAMPIONSHIP EDITION",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Roast Beef, Salami (Beef), Godfather Sauce, Mozzarella Stick, Beer-Battered Onion Rings, Avocado, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "881",
+      "name": "MY JOCKEY (Marina Del Rey Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Salami (Beef), Ike's Port Ballona Buffalo Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "434",
+      "name": "NOLAN RYAN",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Bacon, Avocado, Mozzarella Sticks",
+      "locations_count": 1
+    },
+    {
+      "number": "347",
+      "name": "PHIL HELMUTH",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, Asian Sesame Dressing, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "440",
+      "name": "RAPPIN' 4-TAY'S PLAY'S PLAYAZ CLUB (Polk St. Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Peppadew Peppers, Spinach, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "827.1",
+      "name": "RKITYCAT (San Leandro Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Fried Zucchini, Ike's Bay Fair Pesto, Ranch, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "64",
+      "name": "ROBERT LOUIS STEVENSON (Monterey Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Ike's Red Pepper Pesto, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "574",
+      "name": "ROBIN HOOD (Westgate Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Ike's Green Chile Aioli, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "394",
+      "name": "THE CONTESSA",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, Honey Mustard, French Dressing, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "2502",
+      "name": "THE MOY THE BETTER",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Avocado, Mushrooms, Red Pesto, Ranch, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "852",
+      "name": "WHAT'S MY AGE AGAIN (Poway Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Bacon, Avocado, Ike's Paguay Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "551",
+      "name": "WILSON'S HOTEL (Vacaville Exclusive)",
+      "protein_group": "Turkey",
+      "ingredients": "Turkey, Ham, Ike's Pesto Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "150",
+      "name": "DIRTY REUBEN",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Dirty Dressing, Purple Slaw, American",
+      "locations_count": 93
+    },
+    {
+      "number": "155",
+      "name": "NACHO BOY SUPREME",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Mushrooms, Avocado, Swiss",
+      "locations_count": 28
+    },
+    {
+      "number": "5",
+      "name": "NACHO BOY",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Mushrooms, Avocado, Swiss",
+      "locations_count": 16
+    },
+    {
+      "number": "142",
+      "name": "TILLMAN",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Mushrooms, Mozzarella Sticks",
+      "locations_count": 16
+    },
+    {
+      "number": "700",
+      "name": "ALICE COOPER'S SOLID ROCK",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, French Dressing, Swiss",
+      "locations_count": 8
+    },
+    {
+      "number": "1011",
+      "name": "DYLAN MCKAY",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Dirty Dressing, American",
+      "locations_count": 8
+    },
+    {
+      "number": "242",
+      "name": "PHIL'ER UP KC BBQ",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, BBQ Sauce, Cheddar",
+      "locations_count": 8
+    },
+    {
+      "number": "95",
+      "name": "THAT'S HELLA TRUE",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Marinated Artichoke Hearts, Provolone",
+      "locations_count": 7
+    },
+    {
+      "number": "135",
+      "name": "BRUCE WAYNE",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Steak Sauce, Swiss",
+      "locations_count": 4
+    },
+    {
+      "number": "45",
+      "name": "PATRICK MARLEAU",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Creamy Horseradish, Sriracha, Provolone",
+      "locations_count": 4
+    },
+    {
+      "number": "74",
+      "name": "GO A'S",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Godfather Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "45",
+      "name": "AL DAVIS",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Creamy Horseradish, Sriracha, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "477",
+      "name": "CASTLE ISABEL (HIGHLANDS RANCH EXCLUSIVE)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Creamy Honey BBQ, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "113",
+      "name": "CODY ROSS",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Pesto, Avocado, American",
+      "locations_count": 1
+    },
+    {
+      "number": "797",
+      "name": "DIRTY D (Brentwood Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Ike's Mango Honey BBQ Sauce, Purple Slaw, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "133",
+      "name": "EASTWOOD",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Yellow BBQ, Beer-Battered Onion Rings, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "891",
+      "name": "ELIZABETH IMBRIE (Brentwood Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Ike's Mango Honey BBQ Sauce, Purple Slaw, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "383",
+      "name": "FEAR & LOATHING (Salinas Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Chunky Blue Cheese Dressing",
+      "locations_count": 1
+    },
+    {
+      "number": "987",
+      "name": "HOLLYWOO (Hollywood Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Turkey, Ike's Sweet Sticky BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "882",
+      "name": "IKE'S PEAK (COLORADO SPRINGS EXCLUSIVE)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Turkey, Salami, Tangy Italian Dressing, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "589",
+      "name": "JIMMY & CHRISTY (Sunset Valley Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Ike's Flaming BBQ Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "200",
+      "name": "KRYPTONITE",
+      "protein_group": "Roast beef",
+      "ingredients": "(Serves 2-4) Roast Beef, Pastrami, Turkey, Ham, Salami (Beef), Bacon, Mozzarella Sticks, Stuffed Jalapeno Poppers, Beer-Battered Onion Rings, Pesto, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "326",
+      "name": "LARRY PAGE & I HAVE THE SAME BIRTHDAY, SO I BASICALLY INVENTED GOOGLE TOO. (Mountain View Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Ike's Foxfire Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "768",
+      "name": "PRO JOE (Carson Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Ike's Carson Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "590",
+      "name": "RUNNING BRUSHY (Cedar Park Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Ike's SF BBQ Sauce, Green Chiles, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "861",
+      "name": "SMELLS LIKE TINO SPIRIT (Cupertino Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Mushrooms, Ike's Dark Horse Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "941",
+      "name": "SOARING HEIGHTS - HEIGHTS EXCLUSIVE",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Pastrami, Pinkerton BBQ Glaze, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "74",
+      "name": "THE DIAMONDBACK",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Godfather Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "816",
+      "name": "THE HOUSTON SAM - HOUSTON EXCLUSIVE",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Pastrami, Pinkerton BBQ Aioli, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "556",
+      "name": "THE STRUCTURE OF MAGIC (Santa Cruz Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Ike's Boardwalk Mustard, French Dressing, American",
+      "locations_count": 1
+    },
+    {
+      "number": "552",
+      "name": "TRIATHLON (San Diego Midway Exclusive)",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Turkey, Ike's Spicy Red Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "860",
+      "name": "TUCKNASTY",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "1818",
+      "name": "WILD BILL",
+      "protein_group": "Roast beef",
+      "ingredients": "Roast Beef, Bacon, Buffalo Wing Sauce, BBQ Sauce, Cream Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "240",
+      "name": "MADISON BUMGARNER",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Yellow BBQ Sauce, (Light) Habanero, Pepper Jack, American",
+      "locations_count": 105
+    },
+    {
+      "number": "2",
+      "name": "HOLLYWOULD'S SF CHEESESTEAK",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Mushrooms, Provolone",
+      "locations_count": 104
+    },
+    {
+      "number": "957",
+      "name": "THE DAMON BRUCE",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Steak Sauce, Beer-Battered Onion Rings, Provolone",
+      "locations_count": 103
+    },
+    {
+      "number": "2929",
+      "name": "J MAC- Created With Ja'Quan McMillian",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Godfather Sauce, Dirty Dressing, American, Provolone",
+      "locations_count": 101
+    },
+    {
+      "number": "840",
+      "name": "MILLENNIAL FALCONS",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",
+      "locations_count": 26
+    },
+    {
+      "number": "349",
+      "name": "THE SABERCAT",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Bacon, Yellow BBQ, Ranch, Cheddar",
+      "locations_count": 17
+    },
+    {
+      "number": "3003",
+      "name": "EKELER'S SANDWICH",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Wasabi Mayo, Godfather Sauce, Pepper Jack",
+      "locations_count": 11
+    },
+    {
+      "number": "40",
+      "name": "FORTY?!",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ranch, Cheddar",
+      "locations_count": 11
+    },
+    {
+      "number": "65.5",
+      "name": "XR4TI",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Bacon, BBQ Sauce, Honey Mustard, Onion Rings, Cheddar",
+      "locations_count": 11
+    },
+    {
+      "number": "722",
+      "name": "TREBEK",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Dirty Dressing, Pepper Jack",
+      "locations_count": 10
+    },
+    {
+      "number": "346",
+      "name": "JOHN WAYNE",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Dirty Dressing, American",
+      "locations_count": 9
+    },
+    {
+      "number": "1208",
+      "name": "COUGAR DEN",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Real Honey, Honey Mustard, BBQ Sauce, Pepper Jack, Swiss, Cheddar",
+      "locations_count": 6
+    },
+    {
+      "number": "782",
+      "name": "DARK LANTERN",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Bacon, Godfather Sauce, Green Chiles, Gouda",
+      "locations_count": 6
+    },
+    {
+      "number": "181",
+      "name": "WOLVERINE",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Honey Mustard, Mango Habanero, Pepper Jack",
+      "locations_count": 6
+    },
+    {
+      "number": "140",
+      "name": "40-YEAR-OLD VIRGIN",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Marinara, Ranch, Mozzarella Sticks",
+      "locations_count": 4
+    },
+    {
+      "number": "79",
+      "name": "SHAWN MICHAELS",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Bacon, Extra Dirty Sauce, Mozzarella Sticks",
+      "locations_count": 4
+    },
+    {
+      "number": "157",
+      "name": "GREEN LANTERN",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Green Chiles, Godfather Sauce, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "381",
+      "name": "JAMES HOWLETT",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Bacon, Honey Mustard, Mango Habanero, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "741",
+      "name": "LOFRESNO NEAL",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Real Honey, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "444",
+      "name": "BEAR HUG",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Bacon, Mushrooms, Stuffed Jalapeno Poppers, Extra Dirty Sauce",
+      "locations_count": 2
+    },
+    {
+      "number": "940",
+      "name": "COLT HEARTED",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Dirty Dressing, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "37",
+      "name": "FOXY BOXY",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Creamy Horseradish, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "339",
+      "name": "JAMES BAHN",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Sriracha, Cucumbers, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "840",
+      "name": "MILLENIAL FALCON",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "911",
+      "name": "MOBILE CRISIS #23",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Strawberry Preserves, Wasabi Mayo, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "840",
+      "name": "SCREAMING EAGLE",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "464",
+      "name": "TEMPETATION",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ranch, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "780",
+      "name": "A.L. MURPHY (Menifee Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ike's Spicy Sweet Wasabi Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "282",
+      "name": "ALEEF NAVIDAD (Stonestown Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Fried Cheese Bites, Mushrooms",
+      "locations_count": 1
+    },
+    {
+      "number": "67",
+      "name": "BAD SANTA",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Marinara, Pesto, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "759",
+      "name": "BOBBY GILBERT (Gilbert Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Bacon, Ike's Honey Island Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "790",
+      "name": "BROKEN WING (Legacy Village Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Desert Dream Chipotle, Purple Slaw, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "640",
+      "name": "BURT REYNOLDS (Santa Clara Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ike's Santa Clara BBQ, American",
+      "locations_count": 1
+    },
+    {
+      "number": "740",
+      "name": "CALL ME SLURRICANE (Vallejo Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Valley Joe Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "578",
+      "name": "CHECKPOINT EAGLE (Sunnyvale Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Orange Tomato Pesto, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "540",
+      "name": "CRAZY, STUPID LOVE (Emeryville Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Sweet Ranch, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "791",
+      "name": "DWHITING (Lake Forest Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Sweet Pepper Glaze, Purple Slaw, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "890",
+      "name": "FIGURE IT OUT (Roseville Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's 16 Sauce, Avocado, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "944",
+      "name": "FOLLOW YOU DOWN (Desert Ridge Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Desert BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "1504",
+      "name": "GRANT PINKERTON (HOUSTON EXCLUSIVE)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Pinkerton Brisket, Pastrami, BBQ Aioli, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "672",
+      "name": "HANNIE CALDER (La Jolla Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ike's Seuss Sauce, Fries, American",
+      "locations_count": 1
+    },
+    {
+      "number": "739",
+      "name": "HATTIE M. (CENTRAL PARK EXCLUSIVE)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Mile High Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "581",
+      "name": "HAYWOOD'S CHICKEN FRIED CHEESESTEAK (Hayward Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Orange Wasabi Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "781",
+      "name": "HOLLYWOOD'S HOUSTON CHEESESTEAK - HOUSTON EXCLUSIVE",
+      "protein_group": "Steak & beef",
+      "ingredients": "Pinkerton's Brisket (Non-Halal) Steak, Grilled Mushrooms, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "419",
+      "name": "KEENO'S LUNCHBOX SPECIAL",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Zesty Orange Glaze, Avocado, Fries",
+      "locations_count": 1
+    },
+    {
+      "number": "953",
+      "name": "LA CONFIDENTIAL (DTLA Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Beer-Battered Onion Rings, Ike's Million Island Dressing, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "774",
+      "name": "LANCE HARBOR (Georgetown Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ike's Red Poppy Sauce, Fries, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "303",
+      "name": "LIL' MAC",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Mozzarella Sticks, French Dressing, American",
+      "locations_count": 1
+    },
+    {
+      "number": "287",
+      "name": "MAC DRE",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Steak Sauce, Purple Slaw, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "2014",
+      "name": "MADISON BUMGARNER: WORLD CHAMPIONSHIP EDITION",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Yellow BBQ Sauce, (Light) Habanero, Beer-Battered Onion Rings, Purple Slaw, Avocado, American, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "912",
+      "name": "MOTHER OF PHOENIX (Camelback Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's 5C Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "767",
+      "name": "MUELLER, MUELLER (Mueller Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Creamy Orange Buffalo Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "857",
+      "name": "NOT SO CURSED ANTIQUES (Del Mar Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ike's AVA Sauce, Beer-Battered Onion Rings, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "293",
+      "name": "OLD EL CERRITO (El Cerrito Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Pumpsie's BBQ Ranch, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "883",
+      "name": "PFLUGERSCHNITZEL (Pflugerville Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Pfeastmode Mustard, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "673",
+      "name": "POLLIWOG (Manhattan Beach Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Manhattan Beach BBQ Sauce, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "676",
+      "name": "SAFARI SURFIN' (Huntington Beach Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Double H Sauce, Real Honey, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "563",
+      "name": "SAM BASS (Round Rock Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Creamy Habanero, American",
+      "locations_count": 1
+    },
+    {
+      "number": "482",
+      "name": "SPOCK (Walnut Creek Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Chicken Fried Steak, Ike's Southwest Pesto, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "745",
+      "name": "THE AIRDROME (Monrovia Exclusive)",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Ike's Creamy Pesto, French Fries, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "778",
+      "name": "YES I AM",
+      "protein_group": "Steak & beef",
+      "ingredients": "Steak, Mack Sauce, Beer-Bettered Onion Rings, Purple Slaw, American",
+      "locations_count": 1
+    },
+    {
+      "number": "2242",
+      "name": "CAM BRINK",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Purple Slaw, Buffalo Wing Sauce, Zesty Orange Glaze, Wasabi Mayo, Avocado, American, Pepper Jack, Extra Dirty Sauce",
+      "locations_count": 101
+    },
+    {
+      "number": "",
+      "name": "ULTIMATE FIGHTING FORREST- Created With Forrest Griffin",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Godfather, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",
+      "locations_count": 95
+    },
+    {
+      "number": "91.5",
+      "name": "IKE'S REUBEN",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Mack Sauce, Purple Slaw, Gouda",
+      "locations_count": 66
+    },
+    {
+      "number": "91",
+      "name": "PAUL REUBEN",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Purple Slaw, French Dressing, Swiss",
+      "locations_count": 41
+    },
+    {
+      "number": "97",
+      "name": "PASTRAMI-CHARMED LIFE",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Purple Slaw, Honey Mustard, Pepper Jack",
+      "locations_count": 8
+    },
+    {
+      "number": "688",
+      "name": "THE LAST DINOSAUR (COLORADO EXCLUSIVE)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Chipotle Sauce, Pepper Jack",
+      "locations_count": 6
+    },
+    {
+      "number": "",
+      "name": "ULTIMATE FIGHTING FORREST - Created With Forrest Griffin",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",
+      "locations_count": 6
+    },
+    {
+      "number": "24",
+      "name": "SAY HEY",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Swiss",
+      "locations_count": 4
+    },
+    {
+      "number": "562",
+      "name": "DIRTBAGS (Long Beach Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Habanero BBQ, Purple Slaw, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "57",
+      "name": "TED ROBINSON",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "124",
+      "name": "660",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Avocado, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "770",
+      "name": "BURRITO BETRAYAL (Mission Valley Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Salami (Beef), Fries, Ike's Friar Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "561",
+      "name": "CAPTAIN CARL (Northridge Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Fire Island Dressing, Purple Slaw, American",
+      "locations_count": 1
+    },
+    {
+      "number": "397",
+      "name": "CLEMSON TIGERS",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Wasabi Mayo, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "593",
+      "name": "FRANK LLOYD WRIGHT (Scottsdale Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Flower Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "397",
+      "name": "GO TIGERS",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Wasabi Mayo, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "999",
+      "name": "HOT JARVI-Q",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Salami (Beef), BBQ Sauce, Sriracha, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "995",
+      "name": "I WILL STEAL YOU BACK (Alma School Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Mesa City Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "530",
+      "name": "JULIA GULIA",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Honey Mustard, Habanero, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "557",
+      "name": "NEED FOR SPEED (Bakersfield Marketplace Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Mango Habanero Wing Sauce, Purple Slaw, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "4040",
+      "name": "PATINO D's",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Honey Mustard, Swiss, Pepperjack",
+      "locations_count": 1
+    },
+    {
+      "number": "742",
+      "name": "RITTENHOUSE (Queen Creek Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Ike's Horseshoe BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "1848",
+      "name": "RIVER CITY REUBEN (Arden Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Sutter Slaw, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "604",
+      "name": "TELEGRAPH (Berkeley Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ham, Ike's Golden Bear Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "591",
+      "name": "THE BEE (Sacramento Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Hornet Sauce, Purple Slaw, American",
+      "locations_count": 1
+    },
+    {
+      "number": "513",
+      "name": "THE ROCKWELL (Daly City Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Madden Sauce, Purple Slaw, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "504",
+      "name": "THE THUNDERBIRD (Tempe South Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Thunderbird Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "641",
+      "name": "TOM TERRIFIC (Fresno Palmdon Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Tangy Spicy BBQ Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "527",
+      "name": "TR'S ROUGH RIDER (Phoenix Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ike's Buffalo Fry Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "24",
+      "name": "TRITONS",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "365",
+      "name": "ULTIMATE WARRIOR",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Bacon, Mushrooms, Avocado, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "850",
+      "name": "VICTORY LAP",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Mushrooms, Pesto, Godfather, Pepper jack",
+      "locations_count": 1
+    },
+    {
+      "number": "916",
+      "name": "YOLO (COUNTY) (Davis Exclusive)",
+      "protein_group": "Pastrami",
+      "ingredients": "Pastrami, Ham, Ike's Aggie Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "668",
+      "name": "TURKEY, TURKEY!",
+      "protein_group": "Ham",
+      "ingredients": "Your choice of ham or turkey and American cheese",
+      "locations_count": 102
+    },
+    {
+      "number": "63",
+      "name": "HELLA FAT BASTARD",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Mozzarella Sticks, Extra Dirty Sauce, American",
+      "locations_count": 82
+    },
+    {
+      "number": "129",
+      "name": "RANDY HAHN",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Cheddar",
+      "locations_count": 13
+    },
+    {
+      "number": "21",
+      "name": "REGGIE JACKSON",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 6
+    },
+    {
+      "number": "33",
+      "name": "AL BUNDY",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Salami, French Dressing, Avocado, Gouda",
+      "locations_count": 3
+    },
+    {
+      "number": "21",
+      "name": "TEDDY BALLGAME",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 3
+    },
+    {
+      "number": "46",
+      "name": "THE KUIP",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Salami (Beef), Mack Sauce, Cheddar, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "433",
+      "name": "DAMN BUNDYS",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Salami (Beef), Bacon, French Dressing, Avocado, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "21",
+      "name": "ACALANES",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "554",
+      "name": "ANGEL MY ANGEL",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Pastrami, French Dressing, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "555",
+      "name": "DIMAGGIO",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Honey Mustard, American",
+      "locations_count": 1
+    },
+    {
+      "number": "21",
+      "name": "EYE OF THE TIGERS",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "21",
+      "name": "FAT BASTARD",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "94",
+      "name": "KING HIPPO",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Stuffed Jalapeno Poppers, Extra Dirty Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "131",
+      "name": "MATERIAL BOY",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Honey Mustard, Mushrooms, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "20",
+      "name": "PARADISE FOUND",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Pineapple, Marinara, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "970",
+      "name": "RAM BAM THANK YOU MA'AM (FORT COLLINS EXCLUSIVE)",
+      "protein_group": "Ham",
+      "ingredients": "Bacon, Ham, Salami, FoCo French, Smoked Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "21",
+      "name": "TED WILLIAMS",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "21",
+      "name": "THE GRIZZLY",
+      "protein_group": "Ham",
+      "ingredients": "Ham, Bacon, Extra Dirty Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "601",
+      "name": "NINJA TURTLE",
+      "protein_group": "Salami",
+      "ingredients": "The best pizza (sandwich) you'll ever try: Salami (Beef), Marinara, Dirty Sauce and Provolone",
+      "locations_count": 102
+    },
+    {
+      "number": "343",
+      "name": "CABLE CAR",
+      "protein_group": "Salami",
+      "ingredients": "Salami, Bacon, Provolone Cheese",
+      "locations_count": 4
+    },
+    {
+      "number": "360",
+      "name": "ANDRE SOG WARD",
+      "protein_group": "Salami",
+      "ingredients": "Salami (Beef), Pesto, Creamy Caesar, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "460",
+      "name": "SAL'S GRAND SALAMI SANDWICH",
+      "protein_group": "Salami",
+      "ingredients": "Salami (Beef), Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "227",
+      "name": "LARRY ELLISON",
+      "protein_group": "Salami",
+      "ingredients": "Salami (Beef), Bacon, Avocado, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "459",
+      "name": "SALAMI CHARMED LIFE",
+      "protein_group": "Salami",
+      "ingredients": "Salami (Beef), Bacon, Godfather Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "502",
+      "name": "SPEED CITY (DTSJ Exclusive)",
+      "protein_group": "Salami",
+      "ingredients": "Salami (Beef), Ike's Incredible Hulk Sauce, Purple Slaw, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "84",
+      "name": "LUIGI",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Stuffed Jalapeno Poppers",
+      "locations_count": 27
+    },
+    {
+      "number": "23",
+      "name": "MJ",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Pepper Jack",
+      "locations_count": 18
+    },
+    {
+      "number": "8",
+      "name": "STEVE YOUNG",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Bacon, Marinara, Pepper Jack",
+      "locations_count": 18
+    },
+    {
+      "number": "85",
+      "name": "MARIO",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Mozzarella Sticks",
+      "locations_count": 12
+    },
+    {
+      "number": "168",
+      "name": "ALEX SMITH",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Ranch, Marinara, Pepper Jack",
+      "locations_count": 10
+    },
+    {
+      "number": "123",
+      "name": "JOKER",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Fried Zucchini, Red Pesto, Ranch",
+      "locations_count": 7
+    },
+    {
+      "number": "185",
+      "name": "VERNON DAVIS",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Ranch, Mozzarella Sticks",
+      "locations_count": 7
+    },
+    {
+      "number": "4949",
+      "name": "THE SENIOR- Created With Michael Chiklis",
+      "protein_group": "Meatball",
+      "ingredients": "All Beef Meatballs, Salami (Beef), Ham, Pesto, Provolone",
+      "locations_count": 6
+    },
+    {
+      "number": "86",
+      "name": "KING KOOPA",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",
+      "locations_count": 5
+    },
+    {
+      "number": "87",
+      "name": "LEGEND OF ZELDA",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Fried Zucchini, Pepper Jack",
+      "locations_count": 5
+    },
+    {
+      "number": "93",
+      "name": "BIG LEE-BOWSKI",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Bacon, Mozzarella Sticks, Red Pesto, Ranch, Habanero",
+      "locations_count": 4
+    },
+    {
+      "number": "86",
+      "name": "KOOPA",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",
+      "locations_count": 3
+    },
+    {
+      "number": "846",
+      "name": "ZAMPERINI",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Fries, Ike's Golden BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "899",
+      "name": "BEN DOVER",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Artichoke Hearts, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "683",
+      "name": "BUY YOUR OWN DAM RUG!",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Red Pesto, Ranch, Mozzarella Sticks",
+      "locations_count": 1
+    },
+    {
+      "number": "748",
+      "name": "DOIN' TIME (Westminster Exclusive)",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Beer-Battered Onion Rings, Ike's Goldenwest BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "483",
+      "name": "ERNEST GOES TO JAIL",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Bacon, Red Pesto, Ranch, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "785",
+      "name": "HARVEST MOON HUNTER (LONGMONT EXCLUSIVE)",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, French Fries, Prospect Pesto, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "836",
+      "name": "HEY BERNARDO (Pinole Exclusive)",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Ike's Perky Pesto, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "1396",
+      "name": "JARED THE GALLERIA OF MEATBALLS",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Bacon, BBQ, Sriracha, Beer-Battered Onion Rings, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "184",
+      "name": "METROID",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Beer-Battered Onion Rings, Marinara",
+      "locations_count": 1
+    },
+    {
+      "number": "888",
+      "name": "SWEDISH HOUSE MAFIA",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Godfather, Cranberry, Sriracha, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "23",
+      "name": "THE CATCH",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Marinara, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "583",
+      "name": "THE WEDGE (Newport Beach Exclusive)",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Ike's Red Ranch, Cucumbers",
+      "locations_count": 1
+    },
+    {
+      "number": "546",
+      "name": "WINCHESTER MYSTERY HOUSE (Santana Row Exclusive)",
+      "protein_group": "Meatball",
+      "ingredients": "All-Beef Meatballs, Ike's Mango Habanero Caesar, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "151",
+      "name": "BUDDY KITTY",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Dirty Dressing, Avocado, Pepper Jack",
+      "locations_count": 16
+    },
+    {
+      "number": "3",
+      "name": "MAYOOSE'S CA-BLT",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Avocado, Provolone",
+      "locations_count": 6
+    },
+    {
+      "number": "167",
+      "name": "SMASH MOUTH",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Cream Cheese, Provolone",
+      "locations_count": 5
+    },
+    {
+      "number": "804",
+      "name": "THE SAVANNY",
+      "protein_group": "Bacon",
+      "ingredients": "Breaded Eggplant, Bacon, Marinara, Ranch, Pepper Jack",
+      "locations_count": 5
+    },
+    {
+      "number": "1112",
+      "name": "AIN'T NOTHING BUT A MR. G THING BABY",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Mushrooms, Real Honey, Swiss",
+      "locations_count": 3
+    },
+    {
+      "number": "380",
+      "name": "THE LAST KISS",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Honey Mustard, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "783",
+      "name": "ANDRE REED",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Buffalo Wing Sauce, Lettuce, Tomato, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "597",
+      "name": "BY GEORGE! (Berkeley Exclusive)",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Ike's Golden Bear Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "138",
+      "name": "CHASED & CONFUSED",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Flaming Hot Cheetos, Stuffed Jalapeno Poppers, Ranch, Red Pesto",
+      "locations_count": 1
+    },
+    {
+      "number": "115",
+      "name": "KEVIN BACON",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Lettuce, Tomato, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "687",
+      "name": "MALLORY (Woodland Hills Exclusive)",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Ike's Mango Habanero Buffalo, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "827.2",
+      "name": "MAY$E",
+      "protein_group": "Bacon",
+      "ingredients": "Double Bacon, Avocado, Extra Dirty Sauce, Asian Sesame Dressing, Sriracha",
+      "locations_count": 1
+    },
+    {
+      "number": "872",
+      "name": "MAYSE, IN A COOL HAT, MAKING LEMONADE (Stonestown Exclusive)",
+      "protein_group": "Bacon",
+      "ingredients": "Bacon, Fried Cheese Bites",
+      "locations_count": 1
+    },
+    {
+      "number": "526",
+      "name": "HOWIE EAT IT",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Godfather Sauce, Pepper Jack",
+      "locations_count": 132
+    },
+    {
+      "number": "325",
+      "name": "AMUNA'S TUNA",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Red Pesto, Grilled Tomatoes, Cheddar",
+      "locations_count": 82
+    },
+    {
+      "number": "14",
+      "name": "CHIPPER'S FAVE",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Avocado, American",
+      "locations_count": 13
+    },
+    {
+      "number": "128",
+      "name": "TONY STARK",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Provolone",
+      "locations_count": 5
+    },
+    {
+      "number": "13",
+      "name": "PAPA SAM",
+      "protein_group": "Seafood",
+      "ingredients": "Wild Salmon Burger, Provolone",
+      "locations_count": 3
+    },
+    {
+      "number": "56",
+      "name": "NACHO GIRL",
+      "protein_group": "Seafood",
+      "ingredients": "Wild Salmon Burger, Mushrooms, Avocado, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "316",
+      "name": "SHANNON ROWBURY",
+      "protein_group": "Seafood",
+      "ingredients": "Wild Salmon Burger, Teriyaki, Wasabi Mayo, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "29",
+      "name": "BUDDY'S FAVE",
+      "protein_group": "Seafood",
+      "ingredients": "Lobster Salad, American",
+      "locations_count": 1
+    },
+    {
+      "number": "674",
+      "name": "CASTILE (Sorrento Valley Exclusive)",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Ike's Basil Pepper Pesto, Avocado, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "696",
+      "name": "CRYSTAL COVE (Newport Beach Exclusive)",
+      "protein_group": "Seafood",
+      "ingredients": "Wild Salmon Burger, Ike's Red Ranch",
+      "locations_count": 1
+    },
+    {
+      "number": "14",
+      "name": "FLIPPER",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Avocado, American",
+      "locations_count": 1
+    },
+    {
+      "number": "14",
+      "name": "FRED SAVAGE",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Avocado, American",
+      "locations_count": 1
+    },
+    {
+      "number": "802",
+      "name": "HOLLYWOULD'S SURF & TURF",
+      "protein_group": "Seafood",
+      "ingredients": "Dirty Lobster Salad, Steak, Mushrooms, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "256",
+      "name": "NACHO GIRL SUPREME",
+      "protein_group": "Seafood",
+      "ingredients": "Wild Salmon Burger, Bacon, Mushrooms, Avocado, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "351",
+      "name": "NOAH LOWRY",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Bacon, American, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "757",
+      "name": "PHAROAH'S GERFILTERFISH",
+      "protein_group": "Seafood",
+      "ingredients": "Salmon Burger, Teriyaki, Wasabi Mayo, Light Habanero, Sriracha, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "128",
+      "name": "SORRY CHARLIE",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "465",
+      "name": "SQUARE ONE",
+      "protein_group": "Seafood",
+      "ingredients": "Tuna, Red Pesto, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "613",
+      "name": "STAND BY ME (Burbank Exclusive)",
+      "protein_group": "Seafood",
+      "ingredients": "Wild Salmon Burger, Ike's Wasabi Honey Mustard, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "122",
+      "name": "IKE'S RED HOT SOARING SAUSAGE",
+      "protein_group": "Sausage / hot link",
+      "ingredients": "Hot Link, Marinara, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "22",
+      "name": "WILL THE THRILL",
+      "protein_group": "Sausage / hot link",
+      "ingredients": "Hot Link (Halal), Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "301",
+      "name": "VEGAN HANDSOME OWL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Teriyaki, Wasabi Mayo, Vegan Cheese",
+      "locations_count": 106
+    },
+    {
+      "number": "315",
+      "name": "VEGAN BONNIE-JILL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Marinated Artichoke Hearts, Sriracha, Marinara",
+      "locations_count": 105
+    },
+    {
+      "number": "414",
+      "name": "VEGAN LITACANRANA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Teriyaki, Wasabi Mayo, Mushrooms, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "299",
+      "name": "VEGAN MEL-LO KITTY",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Zesty Orange Glaze, Avocado, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "301",
+      "name": "HANDSOME OWL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Teriyaki, Wasabi Mayo, Swiss",
+      "locations_count": 104
+    },
+    {
+      "number": "892",
+      "name": "VEGAN PIRATES OR PILATES?",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",
+      "locations_count": 104
+    },
+    {
+      "number": "",
+      "name": "VEGAN CHICK'N NUGGETS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "10 pieces of vegan chicken, with your choice of up to 2 sauces",
+      "locations_count": 102
+    },
+    {
+      "number": "205",
+      "name": "VEGAN PUMPKIN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Pesto, Mushrooms, Avocado, Pepper Jack, Vegan Cheese",
+      "locations_count": 99
+    },
+    {
+      "number": "1122",
+      "name": "VEGAN TAILOR'S BOOTY",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Zesty Orange Glaze, Yellow BBQ Sauce, Vegan Cheese",
+      "locations_count": 98
+    },
+    {
+      "number": "210",
+      "name": "VEGAN TERMINATORS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Marinara, Vegan Cheese",
+      "locations_count": 94
+    },
+    {
+      "number": "298",
+      "name": "JAYMEETLESS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Yellow BBQ Sauce, Ranch, Pepper Jack",
+      "locations_count": 89
+    },
+    {
+      "number": "204",
+      "name": "VEGAN SABRINA'S SMILE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Italian Dressing, Vegan Cheese",
+      "locations_count": 87
+    },
+    {
+      "number": "849",
+      "name": "VEGAN TOROS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Yellow BBQ Sauce, BBQ Sauce, Vegan Cheese",
+      "locations_count": 76
+    },
+    {
+      "number": "892",
+      "name": "PIRATES OR PILATES?",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Mushrooms, Zesty Orange Glaze, Pepper Jack",
+      "locations_count": 57
+    },
+    {
+      "number": "315",
+      "name": "BONNIE-JILL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Marinated Artichoke Hearts, Marinara, Sriracha",
+      "locations_count": 51
+    },
+    {
+      "number": "206",
+      "name": "MOBILE MAMA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Ranch, Provolone",
+      "locations_count": 48
+    },
+    {
+      "number": "1122",
+      "name": "TAILOR'S BOOTY",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Zesty Orange Glaze, Yellow BBQ Sauce, Pepper Jack, Provolone",
+      "locations_count": 37
+    },
+    {
+      "number": "249",
+      "name": "GO KINGS!",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Honey Mustard, Gouda",
+      "locations_count": 21
+    },
+    {
+      "number": "249",
+      "name": "GO SHARKS!",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Honey Mustard, Gouda",
+      "locations_count": 21
+    },
+    {
+      "number": "299",
+      "name": "MEL-LO KITTY",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Zesty Orange Glaze, Avocado, Pepper Jack",
+      "locations_count": 20
+    },
+    {
+      "number": "414",
+      "name": "LITACANRANA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Teriyaki, Wasabi Mayo, Mushrooms, Swiss",
+      "locations_count": 15
+    },
+    {
+      "number": "550",
+      "name": "KEENO SUAVE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Mushrooms, Asian Sesame, Avocado, Pepper Jack",
+      "locations_count": 13
+    },
+    {
+      "number": "311",
+      "name": "LOVE TRIANGLE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Honey Mustard, Real Honey, Pepper Jack, Swiss, Cheddar",
+      "locations_count": 13
+    },
+    {
+      "number": "246",
+      "name": "JAMES & THE GIANT PEACH",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Yellow BBQ Sauce, Cheddar",
+      "locations_count": 12
+    },
+    {
+      "number": "276",
+      "name": "JESSICA RABBIT",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffao Wing Sauce, Ranch, Stuffed Jalapeno Poppers",
+      "locations_count": 11
+    },
+    {
+      "number": "217",
+      "name": "WILDCAT",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 10
+    },
+    {
+      "number": "230",
+      "name": "BRUTUS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Creamy Caesar, Marinated Artichoke Hearts, Provolone",
+      "locations_count": 9
+    },
+    {
+      "number": "246",
+      "name": "VEGAN JAMES & THE GIANT PEACH",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Yellow BBQ Sauce, Vegan Cheese",
+      "locations_count": 9
+    },
+    {
+      "number": "476",
+      "name": "NO PLACE LIKE HOME",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Buffalo Wing Sauce, Ranch, Gouda",
+      "locations_count": 8
+    },
+    {
+      "number": "300",
+      "name": "VEGAN TOM BRADY",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Italian Dressing, Mushrooms, Avocado, Vegan Cheese",
+      "locations_count": 8
+    },
+    {
+      "number": "217",
+      "name": "VEGAN WILDCAT",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 8
+    },
+    {
+      "number": "205",
+      "name": "PUMPKIN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Pesto, Mushrooms, Avocado, Pepper Jack, Provolone",
+      "locations_count": 7
+    },
+    {
+      "number": "206",
+      "name": "XXX-TINA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Ranch, Provolone",
+      "locations_count": 7
+    },
+    {
+      "number": "251",
+      "name": "EXTRATERRESTRIAL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Southwest Pesto, Mushrooms, Pepper Jack",
+      "locations_count": 6
+    },
+    {
+      "number": "127",
+      "name": "LOS LOVOS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Veggie Bacon, Honey Mustard, Avocado, Pepper Jack",
+      "locations_count": 6
+    },
+    {
+      "number": "627",
+      "name": "TYRAWR!",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Veggie Bacon, Buffalo Wing Sauce, Ranch, Gouda",
+      "locations_count": 6
+    },
+    {
+      "number": "210",
+      "name": "TERMINATORS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Marinara, Provolone",
+      "locations_count": 5
+    },
+    {
+      "number": "217",
+      "name": "WOLFPACK",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 5
+    },
+    {
+      "number": "209",
+      "name": "BLIND DATE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Honey Mustard, Avocado, Pepper Jack",
+      "locations_count": 4
+    },
+    {
+      "number": "204",
+      "name": "SABRINA'S SMILE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Italian Dressing, Pepper Jack",
+      "locations_count": 4
+    },
+    {
+      "number": "296",
+      "name": "THE PANTHER",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 4
+    },
+    {
+      "number": "296",
+      "name": "PANTHERS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "235",
+      "name": "THE TIME TRAVELER'S WIFE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Zesty Orange Glaze, Provolone",
+      "locations_count": 3
+    },
+    {
+      "number": "298",
+      "name": "VEGAN JAYMEETLESS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Yellow BBQ Sauce, Vegan Cheese",
+      "locations_count": 3
+    },
+    {
+      "number": "217",
+      "name": "VEGAN WOLFPACK",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 3
+    },
+    {
+      "number": "210",
+      "name": "DON JUAN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Marinara, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "849",
+      "name": "EL TORO",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Yellow BBQ Sauce, BBQ Sauce, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "449",
+      "name": "FORGETTING SARAH MARSHALL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Ranch, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "217",
+      "name": "GREAT AMERICA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "296",
+      "name": "HOLY NAME PANTHERS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "428",
+      "name": "I'M A RAINBOW TOO",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Ranch, Provolone, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "217",
+      "name": "JANIS JOPLIN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "458",
+      "name": "MS. KRABAPPEL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Ranch, Mozzarella Sticks",
+      "locations_count": 2
+    },
+    {
+      "number": "491",
+      "name": "MURPHY JACK (CENTRAL PARK EXCLUSIVE)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Mile High Sauce, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "296",
+      "name": "SPARTANS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "210",
+      "name": "VEGAN DON JUAN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Marinara, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "849",
+      "name": "VEGAN EL TORO",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Yellow BBQ Sauce, BBQ Sauce, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "217",
+      "name": "VEGAN GREAT AMERICA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "217",
+      "name": "VEGAN JANIS JOPLIN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "206",
+      "name": "VEGAN MOBILE MOMMA",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "292",
+      "name": "VEGAN PIRATES OF THE CARIBBEAN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Zesty Orange Glaze, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "235",
+      "name": "VEGAN THE TIME TRAVELER'S WIFE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Zesty Orange Glaze, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "679",
+      "name": "A SANDWICH CALLED QUEST (El Segundo Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Second Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "717",
+      "name": "ALICE INOUE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ranch, Cucumber, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "217",
+      "name": "BANANA SLUG",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "658",
+      "name": "BARBETTE (Round Rock Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Creamy Habanero, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "694",
+      "name": "BATTLE BORN DERBY DEMONS (Reno Summit Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Orange Wasabi Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "149",
+      "name": "BULLS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Real Bacon, Yellow BBQ, BBQ Sauce, Buffalo Wing Sauce, Mozzarella Sticks",
+      "locations_count": 1
+    },
+    {
+      "number": "868",
+      "name": "CAMELBACK (Camelback Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's 5C Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "798",
+      "name": "COLDWATER (Avondale Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Cool Ranch Buffalo, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "395",
+      "name": "CONCORD PAVILION (Concord Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Spicy Willow Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "998",
+      "name": "CRAZY/PSYCHO/CHAMPAGNE (Roseville Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's 16 Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "758",
+      "name": "DESERT RIDGE (Desert Ridge Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Desert BBQ Sauce, Purple Slaw, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "257",
+      "name": "EL CERRITO PLACE (El Cerrito Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Pumpsie's BBQ Ranch, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "217",
+      "name": "EVERETT MIDDLE SCHOOL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "488",
+      "name": "FUN HOUSE (Manhattan Beach Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Manhattan Beach BBQ Sauce, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "837",
+      "name": "GLEN OF THE ALDERS (Lake Forest Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Sweet Pepper Glaze, Purple Slaw, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "678",
+      "name": "HAY HAY HAY (Gilbert Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Veggie Bacon, Ike's Honey Island Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "296",
+      "name": "JACKRABBITS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "923",
+      "name": "JEFFREY'S HUNGRY LIKE THE WOLFE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Zesty Orange Glaze, Avocado, VooDoo Chips, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "1244",
+      "name": "JOHNNY IGAZ",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Marinara, Buffalo Wing Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "1116",
+      "name": "JUDSON DRIVE (Mountain View Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Foxfire Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "508",
+      "name": "KATE SPADE (Tempe ASU Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Sun Devil Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "516",
+      "name": "KOHL MANSION (Burlingame Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's B-Game Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "889",
+      "name": "LOU BROWN (Costa Mesa Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Loco Chicken Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "653",
+      "name": "MARE ISLAND (Vallejo Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Valley Joe Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "648",
+      "name": "MARGE SIMPSON (Salinas Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Buffalo Wing Sauce, Ike's Chunky Blue Cheese Dressing",
+      "locations_count": 1
+    },
+    {
+      "number": "735",
+      "name": "MARY ASHLEY (Sherman Oaks Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Mango Habanero Teriyaki, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "217",
+      "name": "NATALIE WOOD",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "838",
+      "name": "NEWTONARDS (Arrowhead Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Purple Slaw, Ike's Peoria BBQ Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "292",
+      "name": "PIRATES OF THE CARIBBEAN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Zesty Orange Glaze, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "966",
+      "name": "PLOWMAN (Pflugerville Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Pfeastmode Mustard, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "637",
+      "name": "ROADRUNNER (Fresno Palmdon Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Tangy Spicy BBQ Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "862",
+      "name": "SANDRAC (Legacy Village Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Desert Dream Chipotle, Purple Slaw, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "938",
+      "name": "SHANE LIZARD",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Marinara, Real Honey, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "960",
+      "name": "STRAIGHT FROM THE HEART (Marina Del Rey Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Port Ballona Buffalo Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "832",
+      "name": "SUNNY CAME HOME (Mueller Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Creamy Orange Buffalo Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "489",
+      "name": "SUNNYBROOK FARM (Pleasanton Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Purple Slaw, Ike's Spicy Sycamore Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "645",
+      "name": "SUSAN MURPHY (Modesto Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Sweet Wing Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "539",
+      "name": "TALBERT (Fountain Valley Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Spicy Teriyaki, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "951",
+      "name": "THE AVIATOR (Culver City Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Southwest Pesto Ranch, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "296",
+      "name": "THE BRONCO",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "296",
+      "name": "THE BRUIN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "644",
+      "name": "THE DARK PHONIEX (Oakland Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Horseradish Wing Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "509",
+      "name": "THE MURPH (Hillcrest Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Marinated Artichoke Hearts, Ike's Seau Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "296",
+      "name": "THE SPARTAN",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Red Pesto, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "698",
+      "name": "THE UNBEATABLE SQUIRREL GIRL (Santa Clara Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Santa Clara BBQ, American",
+      "locations_count": 1
+    },
+    {
+      "number": "983",
+      "name": "THREE-LEGGED WILLIE (Georgetown Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Veggie Bacon, Ike's Red Poppy Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "849",
+      "name": "TOROS",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Buffalo Wing Sauce, Yellow BBQ Sauce, BBQ Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "679",
+      "name": "VEGAN A SANDWICH CALLED QUEST (El Segundo Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Second Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "217",
+      "name": "VEGAN BANANA SLUG",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "658",
+      "name": "VEGAN BARBETTE (Round Rock Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Creamy Habanero, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "694",
+      "name": "VEGAN BATTLE BORN DERBY DEMONS (Reno Summit Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Orange Wasabi Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "868",
+      "name": "VEGAN CAMELBACK (Camelback Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's 5C Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "395",
+      "name": "VEGAN CONCORD PAVILION (Concord Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Spicy Willow Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "998",
+      "name": "VEGAN CRAZY/PSYCHO/CHAMPAGNE (Roseville Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's 16 Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "758",
+      "name": "VEGAN DESERT RIDGE (Desert Ridge Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Desert BBQ Sauce, Purple Slaw, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "217",
+      "name": "VEGAN EVERETT MIDDLE SCHOOL",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "837",
+      "name": "VEGAN GLEN OF THE ALDERS (Lake Forest Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Sweet Pepper Glaze, Purple Slaw, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "923",
+      "name": "VEGAN JEFFREY'S HUNGRY LIKE THE WOLFE",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Zesty Orange Glaze, Avocado, VooDoo Chips, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "1244",
+      "name": "VEGAN JOHNNY IGAZ",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Marinara, Buffalo Wing Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "735",
+      "name": "VEGAN MARY ASHLEY (Sherman Oaks Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Mango Habanero Teriyaki, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "217",
+      "name": "VEGAN NATALIE WOOD",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "838",
+      "name": "VEGAN NEWTONARDS (Arrowhead Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Purple Slaw, Ike's Peoria BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "892",
+      "name": "VEGAN PIRATES OR PILATES",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "637",
+      "name": "VEGAN ROADRUNNER (Fresno Palmdon Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Tangy Spicy BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "204",
+      "name": "VEGAN SABRINA SMILES",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Italian Dressing, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "960",
+      "name": "VEGAN STRAIGHT FROM THE HEART (Marina Del Rey Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Port Ballona Buffalo Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "832",
+      "name": "VEGAN SUNNY CAME HOME (Mueller Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Creamy Orange Buffalo Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "489",
+      "name": "VEGAN SUNNYBROOK FARM (Pleasanton Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Purple Slaw, Ike's Spicy Sycamore Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "539",
+      "name": "VEGAN TALBERT (Fountain Valley Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Spicy Teriyaki, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "693",
+      "name": "VEGAN WE'RE NOT NORMAL (Great Hills Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Orange Buffalo BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "639",
+      "name": "VEGAN WHAT'S POPPING?! (Fresno Campus Pointe Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Buffalo French Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "693",
+      "name": "WE'RE NOT NORMAL (Great Hills Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Fried Chicken, Ike's Orange Buffalo BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "639",
+      "name": "WHAT'S POPPING?! (Fresno Campus Pointe Exclusive)",
+      "protein_group": "Vegan - chicken",
+      "ingredients": "Vegan Chicken, Ike's Buffalo French Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "291",
+      "name": "VEGAN PEE WEE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Purple Slaw, French Dressing, Vegan Cheese",
+      "locations_count": 106
+    },
+    {
+      "number": "219",
+      "name": "VEGAN FALL'ING FOR IKE'S",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Cranberry, Sriracha, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "202",
+      "name": "VEGAN GRAMPS",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Mushrooms, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "275",
+      "name": "VEGAN KIRK RUETER",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Avocado, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "291",
+      "name": "PEE WEE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Purple Slaw, French Dressing, Swiss",
+      "locations_count": 102
+    },
+    {
+      "number": "219",
+      "name": "FALL'ING FOR IKE'S",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Cranberry, Sriracha, Cheddar",
+      "locations_count": 99
+    },
+    {
+      "number": "233",
+      "name": "VEGAN BUD BUNDY",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, French, Avocado, Vegan Cheese",
+      "locations_count": 97
+    },
+    {
+      "number": "982",
+      "name": "VEGAN PURPLE GOBLIN",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, BBQ Sauce, Mushrooms, Vegan Cheese",
+      "locations_count": 95
+    },
+    {
+      "number": "202",
+      "name": "GRAMPS",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Mushrooms, Provolone",
+      "locations_count": 72
+    },
+    {
+      "number": "275",
+      "name": "KIRK RUETER",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Avocado, Provolone",
+      "locations_count": 10
+    },
+    {
+      "number": "208",
+      "name": "VEGAN GREEN GOBLIN",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, BBQ Sauce, Vegan Cheese",
+      "locations_count": 10
+    },
+    {
+      "number": "208",
+      "name": "GREEN GOBLIN",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, BBQ Sauce, Cheddar",
+      "locations_count": 8
+    },
+    {
+      "number": "289",
+      "name": "WARRIORS",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Veggie Bacon, Mushrooms, Avocado, Swiss",
+      "locations_count": 8
+    },
+    {
+      "number": "231",
+      "name": "ROBB NEN",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Godfather Sauce, Provolone",
+      "locations_count": 5
+    },
+    {
+      "number": "982",
+      "name": "PURPLE GOBLIN",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, BBQ Sauce, Mushrooms, Cheddar",
+      "locations_count": 4
+    },
+    {
+      "number": "936",
+      "name": "LOVE IS BLIND",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Zesty Orange Glaze, Pepper Jack",
+      "locations_count": 3
+    },
+    {
+      "number": "936",
+      "name": "VEGAN LOVE IS BLIND",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Zesty Orange Glaze, Vegan Cheese",
+      "locations_count": 3
+    },
+    {
+      "number": "297",
+      "name": "BENT",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Purple Slaw, Honey Mustard, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "233",
+      "name": "BUD BUNDY",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, French, Avocado, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "258",
+      "name": "CHAIRRY",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Red Pesto, French Dressing, Purple Slaw, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "166",
+      "name": "EARTH ANGEL",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Mushrooms, Yellow BBQ Sauce, Purple Slaw, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "233",
+      "name": "FRESH PRINCE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, French, Avocado, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "1548",
+      "name": "GIORDANO BRUNO",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Red Pesto, Spinach, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "289",
+      "name": "GS WARRIORS",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Veggie Bacon, Mushrooms, Avocado, Swiss",
+      "locations_count": 2
+    },
+    {
+      "number": "166",
+      "name": "VEGAN EARTH ANGEL",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Mushrooms, Yellow BBQ Sauce, Purple Slaw, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "519",
+      "name": "@JUSTINEASTBAY",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Avocado, Real Honey, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "584",
+      "name": "A.P. GIANNINI (Skyport Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Sweet Horseradish, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "544",
+      "name": "AMADOR (San Ramon Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Honey Habanero, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "996",
+      "name": "BEN JOVI",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Purple Slaw, Dirty Dressing, Creole Onion Chips, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "350",
+      "name": "BIG ADVENTURE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Dirty Dressing, Purple Slaw, American",
+      "locations_count": 1
+    },
+    {
+      "number": "636",
+      "name": "BUS RILEY (Chino Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Wasabi Buffalo Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "964",
+      "name": "CIRCLE CITY (Corona Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Lemon Citrus Sauce, Swiss, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "934",
+      "name": "DAVID ROSE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Mack Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "642",
+      "name": "DOOWOP (Bakersfield Marketplace Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Mango Habanero Wing Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "7680",
+      "name": "ELLEN SCRIPPS (La Jolla Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Veggie Bacon, Ike's Seuss Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "1849",
+      "name": "GRETA & GOLD (Arden Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Sutter Slaw, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "656",
+      "name": "HIGGINS (Sunset Valley Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Flaming BBQ Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "992",
+      "name": "IGUANA (Downtown San Jose Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Veggie Bacon, Ike's Hulk Sauce, Purple Slaw, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "456",
+      "name": "JAVALE MCGEE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Wasabi Mayo, BBQ Sauce, Avocado",
+      "locations_count": 1
+    },
+    {
+      "number": "514",
+      "name": "JOHN DALY (Daly City Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Madden Sauce, Purple Slaw, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "655",
+      "name": "ORANGEDALE (Scottsdale Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Flower Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "219",
+      "name": "POCAHONTAS",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Cranberry Sauce, Sriracha, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "784",
+      "name": "PRESTON'S DYNAMITE (FORT COLLINS EXCLUSIVE)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, FoCo French, Avocado, Smoked Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "787",
+      "name": "ROCKIN' ROBIN (Woodland Hills Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Purple Slaw, Ike's Mango Habanero Buffalo, American",
+      "locations_count": 1
+    },
+    {
+      "number": "275",
+      "name": "SALLY RIDE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Avocado, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "231",
+      "name": "SUNKEN DIAMOND",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Godfather Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "519",
+      "name": "VEGAN @JUSTINEASTBAY",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Avocado, Real Honey, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "636",
+      "name": "VEGAN BUS RILEY (Chino Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Wasabi Buffalo Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "964",
+      "name": "VEGAN CIRCLE CITY (Corona Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Lemon Citrus Sauce, Swiss, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "233",
+      "name": "VEGAN FRESH PRINCE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, French, Avocado, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "656",
+      "name": "VEGAN HIGGINS (Sunset Valley Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Flaming BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "456",
+      "name": "VEGAN JAVALE MCGEE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Wasabi Mayo, BBQ Sauce, Avocado",
+      "locations_count": 1
+    },
+    {
+      "number": "514",
+      "name": "VEGAN JOHN DALY (Daly City Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Ike's Madden Sauce, Purple Slaw, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "219",
+      "name": "VEGAN POCAHONTAS",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Cranberry Sauce, Sriracha, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "895",
+      "name": "VEGAN PRESTON'S DYNAMITE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, FoCo French, Avocado, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "787",
+      "name": "VEGAN ROCKIN' ROBIN (Woodland Hills Exclusive)",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Purple Slaw, Ike's Mango Habanero Buffalo, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "275",
+      "name": "VEGAN SALLY RIDE",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Avocado, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "220",
+      "name": "VEGAN WAIKIKI",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Pineapple, Marinara, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "220",
+      "name": "WAIKIKI",
+      "protein_group": "Vegan - turkey",
+      "ingredients": "Vegan Turkey, Pineapple, Marinara, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "750",
+      "name": "VEGAN HADES",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Yellow BBQ Sauce, Habanero, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "600",
+      "name": "VEGAN PERSEPHONE",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Yellow BBQ Sauce, Mushrooms, Vegan Cheese",
+      "locations_count": 105
+    },
+    {
+      "number": "750",
+      "name": "HADES",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Yellow BBQ Sauce, Habanero, Gouda",
+      "locations_count": 51
+    },
+    {
+      "number": "600",
+      "name": "PERSEPHONE",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Yellow BBQ Sauce, Mushrooms, Gouda",
+      "locations_count": 46
+    },
+    {
+      "number": "632",
+      "name": "HELEN KELLER",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Beer-Battered Onion Rings, BBQ Sauce, American",
+      "locations_count": 41
+    },
+    {
+      "number": "833",
+      "name": "EMMA",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Steak Sauce, Beer-Battered Onion Rings, Provolone",
+      "locations_count": 14
+    },
+    {
+      "number": "991",
+      "name": "THE TOOLMAN (COLORADO EXCLUSIVE)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Yellow BBQ, Mushrooms, Smoked Gouda",
+      "locations_count": 6
+    },
+    {
+      "number": "564",
+      "name": "DAY OFF (Long Beach Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Habanero BBQ, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "564",
+      "name": "VEGAN DAY OFF (Long Beach Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's BBQ Habanero, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "993",
+      "name": "AIN'T NO FUN (DTLA Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Million Island Dressing, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "697",
+      "name": "CLUCK RANCH (Cedar Park Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's SF BBQ Sauce, Green Chiles, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "856",
+      "name": "CUSCO (Mission Valley Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Veggie Bacon, Fries, Ike's Friar Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "633",
+      "name": "DUCK DODGERS (Westgate Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Green Chili Aioli, Beer-Battered Onion Rings, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "760",
+      "name": "ELEANOR IS GONE (Carson Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Carson Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "839",
+      "name": "HOW HIGH THE MOON (Monrovia Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Creamy Pesto, Fries, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "657",
+      "name": "JOAN DIDION (Sacramento Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Hornet Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "854",
+      "name": "LOVELY PHYLLIS (Menifee Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Spicy Sweet Wasabi Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "568",
+      "name": "NEAL CASSIDY (Hillsdale Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Dirty Mustard, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "792",
+      "name": "OZ (Hollywood Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Sweet Sticky BBQ Sauce, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "631",
+      "name": "PRINCESS BUTTERCUP (San Diego Midway Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Spicy Red Caesar, American",
+      "locations_count": 1
+    },
+    {
+      "number": "662",
+      "name": "ROBERT WOODROW WILSON - HEIGHTS EXCLUSIVE",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Brisket, Pinkerton BBQ Glaze, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "682",
+      "name": "TORREY PINE (Del Mar Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's AVA Sauce, Beer-Battered Onion Rings, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "993",
+      "name": "VEGAN AIN'T NO FUN (DTLA Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Million Island Dressing, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "854",
+      "name": "VEGAN LOVELY PHYLLIS (Menifee Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Spicy Sweet Wasabi Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "792",
+      "name": "VEGAN OZ (Hollywood Exclusive)",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Ike's Sweet Sticky BBQ Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "244",
+      "name": "VEGAN ZENOBIA",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Hummus",
+      "locations_count": 1
+    },
+    {
+      "number": "244",
+      "name": "ZENOBIA",
+      "protein_group": "Vegan - steak",
+      "ingredients": "Vegan Steak, Hummus",
+      "locations_count": 1
+    },
+    {
+      "number": "70",
+      "name": "VEGAN MEATLESS MIKE",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Vegan Cheese",
+      "locations_count": 106
+    },
+    {
+      "number": "70",
+      "name": "MEATLESS MIKE",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Pepper Jack",
+      "locations_count": 105
+    },
+    {
+      "number": "670",
+      "name": "MEATWAD",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Provolone",
+      "locations_count": 102
+    },
+    {
+      "number": "170",
+      "name": "VEGAN NOT SO SLOPPY IKE",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, BBQ Sauce, Vegan Cheese",
+      "locations_count": 102
+    },
+    {
+      "number": "2802",
+      "name": "VEGAN MITCH THE ROCK RICHMOND",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Mushrooms, Marinara, BBQ Sauce, Avocado",
+      "locations_count": 97
+    },
+    {
+      "number": "170",
+      "name": "NOT SO SLOPPY IKE",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, BBQ Sauce, Cheddar",
+      "locations_count": 21
+    },
+    {
+      "number": "267",
+      "name": "ERNEST SAVES CHRISTMAS",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Red Pesto, Green Pesto, Pepper Jack",
+      "locations_count": 7
+    },
+    {
+      "number": "223",
+      "name": "HEATH LEDGER",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Red Pesto, Ranch, Fried Zucchini",
+      "locations_count": 6
+    },
+    {
+      "number": "8383",
+      "name": "WILLIE GAULT",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Chicken, Vegan Meatballs, Zesty Orange Glaze, Yellow BBQ Sauce, Purple Slaw",
+      "locations_count": 3
+    },
+    {
+      "number": "283",
+      "name": "DESPERATELY SEEKING SUSAN",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Red Pesto, Ranch, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "245",
+      "name": "FOOD TITAN",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "(SERVES 2-4) Vegan Fried Chicken, Vegan Chicken, Vegan Meatballs, Veggie Bacon, Yellow BBQ Sauce, Buffalo Wing Sauce, Gouda",
+      "locations_count": 2
+    },
+    {
+      "number": "386",
+      "name": "KISS ME I'M EILISH",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Fries, Mushrooms, Ike's Golden BBQ Sauce",
+      "locations_count": 2
+    },
+    {
+      "number": "387",
+      "name": "LINK",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Fried Zucchini, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "186",
+      "name": "SON OF SAMUS",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Beer-Battered Onion Rings, Marinara",
+      "locations_count": 2
+    },
+    {
+      "number": "387",
+      "name": "THE ADVENTURE OF LINK",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Fried Zuchinni, Pepper Jack",
+      "locations_count": 2
+    },
+    {
+      "number": "386",
+      "name": "VEGAN KISS ME I'M EILISH",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Fries, Mushrooms, Ike's Golden BBQ Sauce",
+      "locations_count": 2
+    },
+    {
+      "number": "8383",
+      "name": "VEGAN WILLIE GAULT",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Chicken, Vegan Meatballs, Zesty Orange Glaze, Yellow BBQ Sauce, Purple Slaw",
+      "locations_count": 2
+    },
+    {
+      "number": "388",
+      "name": "VENI VIDI AVICII",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Godfather Sauce, Cranberry, Sriracha, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "736",
+      "name": "CORNMEAL (Pinole Exclusive)",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Ike's Perky Pesto, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "385",
+      "name": "EVELYN IS NOT REAL",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Avocado, Jalapeno Chips, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "821",
+      "name": "MOBRO'S TACO",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Southwest Pesto, Avocado, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "786",
+      "name": "PENELOPE SPHEERIS (Westminster Exclusive)",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Beer-Battered Onion Rings, Ike's Goldenwest BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "686",
+      "name": "PICKET POST CREEK (Queen Creek Exclusive)",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Ike's Horseshoe BBQ Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "870",
+      "name": "ROTHERWOOD (HIGHLANDS RANCH EXCLUSIVE)",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Creamy Honey BBQ, Purple Slaw, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "268",
+      "name": "TECMO BOWL",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Ranch, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "595",
+      "name": "THE LASERS (Santana Row Exclusive)",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Ike's Mango Habanero Caesar, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "843",
+      "name": "TWO CANS FOR SAM",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Mack Sauce, Beer-Battered Onion Rings, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "385",
+      "name": "VEGAN EVELYN IS NOT REAL",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Marinara, Avocado, Jalapeno Chips, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "821",
+      "name": "VEGAN MOBRO'S TACOS",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Southwest Sauce , Avocado, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "686",
+      "name": "VEGAN PICKET POST CREEK (Queen Creek Exclusive)",
+      "protein_group": "Vegan - meatball",
+      "ingredients": "Vegan Meatballs, Ike's Horseshoe BBQ Sauce, Vgean Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "250",
+      "name": "PRISSY PRESLEY",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Lettuce, Tomatoes, Dirty Dressing, Pepper Jack",
+      "locations_count": 92
+    },
+    {
+      "number": "239",
+      "name": "SNEAKY KITTY",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Lettuce, Tomato, American",
+      "locations_count": 76
+    },
+    {
+      "number": "450",
+      "name": "PUSS IN BOOTS",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Green Chiles, Ranch, Cheddar",
+      "locations_count": 8
+    },
+    {
+      "number": "241",
+      "name": "TRINITY",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Mozzarella Sticks, Avocado",
+      "locations_count": 3
+    },
+    {
+      "number": "203",
+      "name": "PURPLE B'S VEGGIE CA-BLT",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Avocado, Provolone",
+      "locations_count": 2
+    },
+    {
+      "number": "549",
+      "name": "ADRIENNE RICH (Santa Cruz Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Ike's Boardwalk Mustard, American",
+      "locations_count": 1
+    },
+    {
+      "number": "845",
+      "name": "BIXBY'S DELIGHT (LBX Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Ike's Strong Beach Sauce, Cream Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "474",
+      "name": "BRENT'S (Northridge Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Ike's Fire Island Dressing, Lettuce, Tomato, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "893",
+      "name": "DANIEL WEBSTER (Alma School Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Lettuce, Tomato, Ike's Mesa City Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "177",
+      "name": "DOCTOR POPULAR",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Ham, Veggie Bacon, Wasabi Mayo, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "506",
+      "name": "I DREAM OF JENNIE (Tempe South Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Ike's Thunderbird Sauce, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "794",
+      "name": "PIX ME (Emeryville Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Avocado, Ike's Sweet Ranch, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "203",
+      "name": "PURPLE BEE",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Avocado, Lettuce, Tomatoes, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "978",
+      "name": "RICH TONY",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Mozzarella Sticks, Red Pesto, Ranch, Avocado",
+      "locations_count": 1
+    },
+    {
+      "number": "734",
+      "name": "SHUT THE CHUCK UP (Downtown Phoenix Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Ike's Buffalo Fry Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "931",
+      "name": "THE CITY IN THE COUNTY (Poway Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Avocado, Ike's Paguay Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "654",
+      "name": "TONY THE DUCK (Sunnyvale Exclusive)",
+      "protein_group": "Vegan - bacon",
+      "ingredients": "Veggie Bacon, Ike's Orange Tomato Pesto, Cream Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "254B",
+      "name": "VEGAN MACK DADDY",
+      "protein_group": "Vegan - other",
+      "ingredients": "Vegan Meatloaf, Vegan Mack Slaw, Vegan Cheese",
+      "locations_count": 93
+    },
+    {
+      "number": "254B",
+      "name": "KROC",
+      "protein_group": "Vegan - other",
+      "ingredients": "Vegan Meatloaf, Mack Slaw, American",
+      "locations_count": 6
+    },
+    {
+      "number": "254B",
+      "name": "MACK DADDY",
+      "protein_group": "Vegan - other",
+      "ingredients": "Vegan Meatloaf, Mack Slaw, American",
+      "locations_count": 4
+    },
+    {
+      "number": "",
+      "name": "GET DIGGIE WITH IT",
+      "protein_group": "Vegan - other",
+      "ingredients": "Vegan Bulgogi, Mushrooms, Yellow BBQ Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "61",
+      "name": "VEGAN SOMETIMES I'M A VEGETARIAN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Marinated Artichoke Hearts, Mushrooms, Pesto, Vegan Cheese",
+      "locations_count": 106
+    },
+    {
+      "number": "61",
+      "name": "SOMETIMES I'M A VEGETARIAN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Marinated Artichoke Hearts, Mushrooms, Pesto, Provolone",
+      "locations_count": 105
+    },
+    {
+      "number": "304",
+      "name": "CHESTER THE CHEETAH",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Grilled Cheese (Choose up to 4 kinds of cheese!)",
+      "locations_count": 102
+    },
+    {
+      "number": "172",
+      "name": "VEGAN TOAD",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Marinara, Avocado, Vegan Cheese",
+      "locations_count": 99
+    },
+    {
+      "number": "895",
+      "name": "CLUELESS",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Avocado, Red Pesto, Cheddar",
+      "locations_count": 94
+    },
+    {
+      "number": "361",
+      "name": "VEGANSAURUS",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Marinated Artichoke Hearts, Vegan Cheese",
+      "locations_count": 45
+    },
+    {
+      "number": "173",
+      "name": "GLADIATOR",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Creamy Caesar, Provolone",
+      "locations_count": 39
+    },
+    {
+      "number": "171",
+      "name": "JEREMY STOPPELMAN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Pesto, Habanero, Grilled Tomatoes, Provolone",
+      "locations_count": 27
+    },
+    {
+      "number": "71",
+      "name": "STEVE JOBS",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Pesto, Ranch, Provolone",
+      "locations_count": 14
+    },
+    {
+      "number": "265",
+      "name": "READING RAINBOW",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Red Pesto, Avocado, Cheddar",
+      "locations_count": 11
+    },
+    {
+      "number": "72",
+      "name": "STUPID EGGPLANT",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Marinara, Provolone",
+      "locations_count": 9
+    },
+    {
+      "number": "36",
+      "name": "[YOUR FAVORITE DISNEY CHARACTER]",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Avocado, Pesto, Cream Cheese",
+      "locations_count": 9
+    },
+    {
+      "number": "161",
+      "name": "VEGAN VEG NEWS",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Pesto, Vegan Cheese",
+      "locations_count": 8
+    },
+    {
+      "number": "272",
+      "name": "YOSHI",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Marinara, Mozzarella Sticks",
+      "locations_count": 8
+    },
+    {
+      "number": "73",
+      "name": "LYNDA CARTER",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, French Dressing, Avocado, Gouda",
+      "locations_count": 7
+    },
+    {
+      "number": "296",
+      "name": "GO BRONCOS",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 6
+    },
+    {
+      "number": "172",
+      "name": "TOAD",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Marinara, Avocado, Provolone",
+      "locations_count": 6
+    },
+    {
+      "number": "36",
+      "name": "[YOUR FAVORITE SESAME ST CHARACTER]",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Avocado, Pesto, Cream Cheese",
+      "locations_count": 6
+    },
+    {
+      "number": "547",
+      "name": "HERMIONE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Zesty Orange Glaze, Cucumber, Provolone",
+      "locations_count": 5
+    },
+    {
+      "number": "42",
+      "name": "RONNIE LOTT",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Green Chiles, Godfather Sauce, Cheddar",
+      "locations_count": 5
+    },
+    {
+      "number": "161",
+      "name": "VEG NEWS",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Pesto, Provolone",
+      "locations_count": 5
+    },
+    {
+      "number": "302",
+      "name": "VEGAN STRAWBERRY GIRL",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Asian Sesame Dressing, Vegan Cheese",
+      "locations_count": 5
+    },
+    {
+      "number": "625",
+      "name": "MOMO'S NO NO",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Almond Butter, Cranberry Sauce, Provolone",
+      "locations_count": 4
+    },
+    {
+      "number": "261",
+      "name": "SHREK",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Ranch, Pesto, Provolone",
+      "locations_count": 4
+    },
+    {
+      "number": "302",
+      "name": "STRAWBERRY GIRL",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Lettuce, Tomatoes, Asian Sesame Dressing, Provolone",
+      "locations_count": 4
+    },
+    {
+      "number": "36",
+      "name": "VEGAN [YOUR FAVORITE DISNEY CHARACTER]",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Vegan Cheese, Pesto, Cucumbers, Avocado",
+      "locations_count": 4
+    },
+    {
+      "number": "36",
+      "name": "VEGAN [YOUR FAVORITE SESAME ST. CHARACTER]",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Vegan Cheese, Pesto, Cucumbers, Avocado",
+      "locations_count": 4
+    },
+    {
+      "number": "36",
+      "name": "VEGAN [FAVORITE PEANUTS CHARACTER]",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Vegan Cheese, Pesto, Cucumbers, Avocado",
+      "locations_count": 3
+    },
+    {
+      "number": "909",
+      "name": "CHEESY KWEEN CK",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 2
+    },
+    {
+      "number": "42",
+      "name": "JACKIE ROBINSON",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Green Chiles, Godfather Sauce, Cheddar",
+      "locations_count": 2
+    },
+    {
+      "number": "956",
+      "name": "MILE-O (DOWNTOWN EXCLUSIVE)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 2
+    },
+    {
+      "number": "909",
+      "name": "VEGAN CHEESY KWEEN CK",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 2
+    },
+    {
+      "number": "547",
+      "name": "VEGAN HERMIONE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Zesty Orange Glaze, Cucumber, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "625",
+      "name": "VEGAN MOMO'S NO NO",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Almond Butter, Cranberry Sauce, Vegan Cheese",
+      "locations_count": 2
+    },
+    {
+      "number": "36",
+      "name": "[FAVORITE PEANUTS CHARACTER]",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cream Cheese, Pesto, Cucumbers, Avocado",
+      "locations_count": 2
+    },
+    {
+      "number": "897",
+      "name": "AJALY (Torrance Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Avocado, Ike's Mango Orange Mustard, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "538",
+      "name": "ALIVE WITH PLEASURE (Newport Beach Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Beer-Battered Onion Rings, Ike's Red Ranch, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "72",
+      "name": "ALRIGHT, ALRIGHT HERE'S YOUR STUPID EGGPLANT SANDWICH",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Marinara, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "711",
+      "name": "ALYSSA'S AFTER SCHOOL SPECIAL",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 1
+    },
+    {
+      "number": "517",
+      "name": "AMERICAN DAD (Burlingame Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Ike's B-Game Sauce, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "572",
+      "name": "CALIFORNICATION (The Plant Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's G.E. Sauce, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "247",
+      "name": "CARMEN SANDIEGO",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cream Cheese, Cucumber, Honey Mustard",
+      "locations_count": 1
+    },
+    {
+      "number": "909",
+      "name": "CHEESY KWEEN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Grilled Cheese (Up to 4 Kinds!!), Avocado",
+      "locations_count": 1
+    },
+    {
+      "number": "761",
+      "name": "CO CO GOOSE (COLORADO SPRINGS EXCLUSIVE)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Avocado, Grilled Mushrooms, Tangy Italian, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "994",
+      "name": "DINGER (DOWNTOWN EXCLUSIVE)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 1
+    },
+    {
+      "number": "207",
+      "name": "DISCO! DISCO!",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Hummus, Cucumbers",
+      "locations_count": 1
+    },
+    {
+      "number": "567",
+      "name": "EGGPLANT WIZARD (Reno UNR Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Pizza Pesto, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "865",
+      "name": "GO GO GOOSE (Sorrento Valley Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Avocado, Ike's Basil Pepper Pesto, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "989",
+      "name": "I-FILES (Berkeley Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Golden Bear Sauce, Avocado, Cheddar",
+      "locations_count": 1
+    },
+    {
+      "number": "573",
+      "name": "JAN! JAN! JAN! (Burbank Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Wasabi Honey Mustard, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "984",
+      "name": "LADY JAYE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 1
+    },
+    {
+      "number": "216",
+      "name": "LUTHER BURBANK",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Pesto, Grilled Tomatoes, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "216",
+      "name": "Luthor Burbank - Super Meal Deal",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Green Pesto, Grilled Tomatoes, Provolone Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "592",
+      "name": "MARCONI (Tustin Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cream Cheese, Cucumbers, Jalapeno Relish",
+      "locations_count": 1
+    },
+    {
+      "number": "835",
+      "name": "MURRY'S SCHOOLHOUSE (Dublin Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Sweet Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "844",
+      "name": "PACIFIC CITY (Huntington Beach Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Double H Sauce, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "73",
+      "name": "PEG BUNDY",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, French Dressing, Avocado, Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "432",
+      "name": "PICNIC DAY (Davis Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Ike's Aggie Sauce, American",
+      "locations_count": 1
+    },
+    {
+      "number": "224",
+      "name": "PONCH & JOHN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Salted Potato Chips, American",
+      "locations_count": 1
+    },
+    {
+      "number": "946",
+      "name": "ROBO QB (San Leandro Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Bay Fair Pesto, Ranch, Avocado, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "667",
+      "name": "ROMEO'S JULIET (Santa Barbara Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Ike's Neon Orange Delicious Sauce, Spinach, Pepper Jack",
+      "locations_count": 1
+    },
+    {
+      "number": "972",
+      "name": "SKIPPER (Stonestown Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Fried Cheese Bites, Pesto",
+      "locations_count": 1
+    },
+    {
+      "number": "873",
+      "name": "ST. VRAIN'S SANDO (LONGMONT EXCLUSIVE)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Prospect Pesto, Avocado, Smoked Gouda",
+      "locations_count": 1
+    },
+    {
+      "number": "981",
+      "name": "SUPER HUNT BROS. (Hayward Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Grilled Tomatoes, Ike's Orange Wasabi Sauce, Swiss",
+      "locations_count": 1
+    },
+    {
+      "number": "302",
+      "name": "TANGERINE GIRL",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Asian Sesame Dressing, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "212",
+      "name": "THE AGGIE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Garden Burger, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "1981",
+      "name": "THE GREAT ALETE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 1
+    },
+    {
+      "number": "711",
+      "name": "VEGAN ALYSSA'S AFTER SCHOOL SPECIAL",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 1
+    },
+    {
+      "number": "909",
+      "name": "VEGAN CHEESY KWEEN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Vegan Cheese, Avocado",
+      "locations_count": 1
+    },
+    {
+      "number": "761",
+      "name": "VEGAN CO CO GOOSE (COLORADO SPRINGS EXCLUSIVE)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Avocado, Grilled Mushrooms, Tangy Italian, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "994",
+      "name": "VEGAN DINGER (DOWNTOWN EXCLUSIVE)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "",
+      "locations_count": 1
+    },
+    {
+      "number": "207",
+      "name": "VEGAN DISCO! DISCO!",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Hummus, Cucumbers",
+      "locations_count": 1
+    },
+    {
+      "number": "592",
+      "name": "VEGAN MARCONI (Tustin Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Vegan Cheese, Cucumbers, Jalapeno Relish",
+      "locations_count": 1
+    },
+    {
+      "number": "224",
+      "name": "VEGAN PONCH & JOHN",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Salted Potato Chips, American",
+      "locations_count": 1
+    },
+    {
+      "number": "667",
+      "name": "VEGAN ROMEO'S JULIET (Santa Barbara Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Ike's Neon Orange Delicious Sauce, Spinach, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "981",
+      "name": "VEGAN SUPER HUNT BROS. (Hayward Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Grilled Tomatoes, Ike's Orange Wasabi Sauce, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "302",
+      "name": "VEGAN TANGERINE GIRL",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cucumbers, Asian Sesame Dressing, Vegan Cheese",
+      "locations_count": 1
+    },
+    {
+      "number": "137",
+      "name": "VEGAN WINNIE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Vegan Cheese, Zesty Orange Glaze, Cucumbers",
+      "locations_count": 1
+    },
+    {
+      "number": "766",
+      "name": "WALLY POND (Fremont Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Spicy Wing Sauce, Real Honey, Gouda. 1210 cal]",
+      "locations_count": 1
+    },
+    {
+      "number": "671",
+      "name": "WILD ORIGNAL OBJECT ZOOM (Vacaville Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Breaded Eggplant, Ike's Pesto Caesar, Provolone",
+      "locations_count": 1
+    },
+    {
+      "number": "137",
+      "name": "WINNIE",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Cream Cheese, Zesty Orange Glaze, Cucumbers",
+      "locations_count": 1
+    },
+    {
+      "number": "229",
+      "name": "ZOIDBERG (Monterey Exclusive)",
+      "protein_group": "Vegetarian (no meat)",
+      "ingredients": "Mushrooms, Ike's Red Pepper Pesto, Honey Mustard, Provolone",
+      "locations_count": 1
+    }
+  ]
+}
