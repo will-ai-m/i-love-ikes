@@ -1,7 +1,7 @@
 {
   "source": "Ike's Love & Sandwiches online ordering menus (all 116 US locations)",
   "pulled": "2026-07-23",
-  "total": 768,
+  "total": 757,
   "protein_groups": [
     "Halal chicken",
     "Fried chicken",
@@ -25,26 +25,26 @@
     "Vegetarian (no meat)"
   ],
   "group_counts": {
-    "Halal chicken": 72,
+    "Halal chicken": 69,
     "Fried chicken": 56,
     "Chicken (other)": 2,
-    "Turkey": 72,
+    "Turkey": 70,
     "Roast beef": 33,
-    "Steak & beef": 61,
-    "Pastrami": 33,
+    "Steak & beef": 60,
+    "Pastrami": 32,
     "Ham": 19,
     "Salami": 7,
-    "Meatball": 25,
+    "Meatball": 24,
     "Bacon": 13,
     "Seafood": 19,
     "Sausage / hot link": 2,
-    "Vegan - chicken": 135,
+    "Vegan - chicken": 133,
     "Vegan - turkey": 59,
     "Vegan - steak": 27,
     "Vegan - meatball": 30,
     "Vegan - bacon": 17,
     "Vegan - other": 4,
-    "Vegetarian (no meat)": 82
+    "Vegetarian (no meat)": 81
   },
   "sandwiches": [
     {
@@ -87,7 +87,7 @@
       "name": "THE NNEKANATOR - Created With Nneka Ogwumike",
       "protein_group": "Halal chicken",
       "ingredients": "Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",
-      "locations_count": 102
+      "locations_count": 104
     },
     {
       "number": "1",
@@ -227,14 +227,7 @@
       "name": "BULLDOGS",
       "protein_group": "Halal chicken",
       "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
-      "locations_count": 6
-    },
-    {
-      "number": "182",
-      "name": "MICKELSON",
-      "protein_group": "Halal chicken",
-      "ingredients": "Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",
-      "locations_count": 6
+      "locations_count": 7
     },
     {
       "number": "11",
@@ -255,7 +248,7 @@
       "name": "PHIL MICKELSON",
       "protein_group": "Halal chicken",
       "ingredients": "Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",
-      "locations_count": 6
+      "locations_count": 12
     },
     {
       "number": "427",
@@ -328,13 +321,6 @@
       "locations_count": 2
     },
     {
-      "number": "106",
-      "name": "THE NNEKANATOR",
-      "protein_group": "Halal chicken",
-      "ingredients": "Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",
-      "locations_count": 2
-    },
-    {
       "number": "17",
       "name": "TIMBER WOLF",
       "protein_group": "Halal chicken",
@@ -386,13 +372,6 @@
     {
       "number": "17",
       "name": "BOBCAT",
-      "protein_group": "Halal chicken",
-      "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
-      "locations_count": 1
-    },
-    {
-      "number": "17",
-      "name": "BULLDOG",
       "protein_group": "Halal chicken",
       "ingredients": "Chicken (Halal), BBQ Sauce, Cheddar",
       "locations_count": 1
@@ -990,7 +969,7 @@
       "name": "THE HUNTER PENCE",
       "protein_group": "Turkey",
       "ingredients": "Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",
-      "locations_count": 103
+      "locations_count": 104
     },
     {
       "number": "65",
@@ -1011,7 +990,7 @@
       "name": "BARRY Z.",
       "protein_group": "Turkey",
       "ingredients": "Turkey, Avocado, Provolone",
-      "locations_count": 94
+      "locations_count": 96
     },
     {
       "number": "118",
@@ -1175,13 +1154,6 @@
       "locations_count": 2
     },
     {
-      "number": "75",
-      "name": "BARRY ZITO",
-      "protein_group": "Turkey",
-      "ingredients": "Turkey, Avocado, Provolone",
-      "locations_count": 2
-    },
-    {
       "number": "195",
       "name": "CAT WOMAN",
       "protein_group": "Turkey",
@@ -1319,13 +1291,6 @@
       "name": "HUGH HEFNER",
       "protein_group": "Turkey",
       "ingredients": "Turkey, Roast Beef, Godfather Sauce, Provolone",
-      "locations_count": 1
-    },
-    {
-      "number": "34",
-      "name": "HUNTER PENCE",
-      "protein_group": "Turkey",
-      "ingredients": "Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",
       "locations_count": 1
     },
     {
@@ -1725,7 +1690,7 @@
       "name": "MILLENNIAL FALCONS",
       "protein_group": "Steak & beef",
       "ingredients": "Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",
-      "locations_count": 26
+      "locations_count": 28
     },
     {
       "number": "349",
@@ -1851,13 +1816,6 @@
       "name": "JAMES BAHN",
       "protein_group": "Steak & beef",
       "ingredients": "Steak, Sriracha, Cucumbers, Pepper Jack",
-      "locations_count": 2
-    },
-    {
-      "number": "840",
-      "name": "MILLENIAL FALCON",
-      "protein_group": "Steak & beef",
-      "ingredients": "Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",
       "locations_count": 2
     },
     {
@@ -2128,10 +2086,10 @@
     },
     {
       "number": "",
-      "name": "ULTIMATE FIGHTING FORREST- Created With Forrest Griffin",
+      "name": "ULTIMATE FIGHTING FORREST - Created With Forrest Griffin",
       "protein_group": "Pastrami",
-      "ingredients": "Pastrami, Godfather, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",
-      "locations_count": 95
+      "ingredients": "Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",
+      "locations_count": 101
     },
     {
       "number": "91.5",
@@ -2159,13 +2117,6 @@
       "name": "THE LAST DINOSAUR (COLORADO EXCLUSIVE)",
       "protein_group": "Pastrami",
       "ingredients": "Pastrami, Ike's Chipotle Sauce, Pepper Jack",
-      "locations_count": 6
-    },
-    {
-      "number": "",
-      "name": "ULTIMATE FIGHTING FORREST - Created With Forrest Griffin",
-      "protein_group": "Pastrami",
-      "ingredients": "Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",
       "locations_count": 6
     },
     {
@@ -2593,7 +2544,7 @@
       "name": "KING KOOPA",
       "protein_group": "Meatball",
       "ingredients": "All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",
-      "locations_count": 5
+      "locations_count": 8
     },
     {
       "number": "87",
@@ -2608,13 +2559,6 @@
       "protein_group": "Meatball",
       "ingredients": "All-Beef Meatballs, Bacon, Mozzarella Sticks, Red Pesto, Ranch, Habanero",
       "locations_count": 4
-    },
-    {
-      "number": "86",
-      "name": "KOOPA",
-      "protein_group": "Meatball",
-      "ingredients": "All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",
-      "locations_count": 3
     },
     {
       "number": "846",
@@ -2985,7 +2929,7 @@
       "name": "VEGAN PIRATES OR PILATES?",
       "protein_group": "Vegan - chicken",
       "ingredients": "Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",
-      "locations_count": 104
+      "locations_count": 105
     },
     {
       "number": "",
@@ -3027,7 +2971,7 @@
       "name": "VEGAN SABRINA'S SMILE",
       "protein_group": "Vegan - chicken",
       "ingredients": "Vegan Chicken, Italian Dressing, Vegan Cheese",
-      "locations_count": 87
+      "locations_count": 88
     },
     {
       "number": "849",
@@ -3814,24 +3758,10 @@
       "locations_count": 1
     },
     {
-      "number": "892",
-      "name": "VEGAN PIRATES OR PILATES",
-      "protein_group": "Vegan - chicken",
-      "ingredients": "Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",
-      "locations_count": 1
-    },
-    {
       "number": "637",
       "name": "VEGAN ROADRUNNER (Fresno Palmdon Exclusive)",
       "protein_group": "Vegan - chicken",
       "ingredients": "Vegan Fried Chicken, Ike's Tangy Spicy BBQ Sauce, Vegan Cheese",
-      "locations_count": 1
-    },
-    {
-      "number": "204",
-      "name": "VEGAN SABRINA SMILES",
-      "protein_group": "Vegan - chicken",
-      "ingredients": "Vegan Chicken, Italian Dressing, Vegan Cheese",
       "locations_count": 1
     },
     {
@@ -4924,7 +4854,7 @@
       "name": "STUPID EGGPLANT",
       "protein_group": "Vegetarian (no meat)",
       "ingredients": "Breaded Eggplant, Marinara, Provolone",
-      "locations_count": 9
+      "locations_count": 10
     },
     {
       "number": "36",
@@ -5106,13 +5036,6 @@
       "name": "ALIVE WITH PLEASURE (Newport Beach Exclusive)",
       "protein_group": "Vegetarian (no meat)",
       "ingredients": "Beer-Battered Onion Rings, Ike's Red Ranch, Cheddar",
-      "locations_count": 1
-    },
-    {
-      "number": "72",
-      "name": "ALRIGHT, ALRIGHT HERE'S YOUR STUPID EGGPLANT SANDWICH",
-      "protein_group": "Vegetarian (no meat)",
-      "ingredients": "Breaded Eggplant, Marinara, Provolone",
       "locations_count": 1
     },
     {

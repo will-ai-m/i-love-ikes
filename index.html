@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="An unofficial fan-made catalog of every named sandwich at Ike's Love & Sandwiches — 768 sandwiches from 116 store menus, searchable and filterable by protein.">
-<title>Ike's Sandwich Catalog — 768 Sandwiches</title>
+<meta name="description" content="An unofficial fan-made catalog of every named sandwich at Ike's Love & Sandwiches — 757 sandwiches from all 116 store menus, searchable and filterable by protein, diet, and any ingredient.">
+<title>Ike's Sandwich Catalog — 757 Sandwiches</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%A5%AA</text></svg>">
 <style>
   :root{
@@ -60,7 +60,7 @@
   /* ---- Controls ---- */
   .controls{position:sticky;top:52px;z-index:20;background:var(--cream);
     border-bottom:1px solid var(--line);backdrop-filter:saturate(1.1) blur(2px)}
-  .controls-inner{max-width:1180px;margin:0 auto;padding:14px 20px 12px}
+  .controls-inner{max-width:1180px;margin:0 auto;padding:14px 20px 12px;position:relative}
   .row1{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
   .search{position:relative;flex:1 1 320px;min-width:220px}
   .search input{
@@ -83,15 +83,55 @@
   }
   .diet button:last-child{border-right:0}
   .diet button.on{background:var(--ink);color:#fff}
-  .chips{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .fbtn{
+    display:inline-flex;align-items:center;gap:8px;padding:11px 14px;border:1.5px solid var(--line2);
+    border-radius:11px;background:var(--paper);font-size:14px;font-weight:700;color:var(--ink);cursor:pointer;
+  }
+  .fbtn:hover{border-color:var(--red)}
+  .fbtn .caret{font-size:10px;opacity:.6;transition:transform .15s ease}
+  .fbtn.open .caret{transform:rotate(180deg)}
+  .fbtn .badge{background:var(--red);color:#fff;font-size:11.5px;font-weight:800;border-radius:999px;padding:1px 7px;line-height:1.5}
   .chip{
     border:1.5px solid var(--line2);background:var(--paper);color:var(--ink2);
     padding:6px 12px;border-radius:999px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap;
   }
   .chip:hover{border-color:var(--red)}
-  .chip.on{background:var(--red);border-color:var(--red);color:#fff}
+  .chip.on,.chip.inc{background:var(--red);border-color:var(--red);color:#fff}
+  .chip.exc{background:var(--ink);border-color:var(--ink);color:#fff;text-decoration:line-through}
+  .chip.dim{opacity:.4}
   .chip .c{opacity:.65;font-weight:700;margin-left:5px}
-  .chip.on .c{opacity:.85}
+  .chip.on .c,.chip.inc .c,.chip.exc .c{opacity:.85}
+
+  /* ---- Filter drawer ---- */
+  .drawer{
+    position:absolute;left:20px;right:20px;top:calc(100% - 4px);z-index:40;
+    background:var(--paper);border:1px solid var(--line2);border-radius:14px;
+    box-shadow:0 2px 6px rgba(36,28,21,.08),0 18px 50px rgba(36,28,21,.22);
+    max-height:min(62vh,540px);overflow:auto;padding:16px 16px 6px;
+  }
+  .fsec{margin-bottom:16px}
+  .fsec h5{margin:0 0 8px;font-size:11.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink3);font-weight:800}
+  .fsec .wrap{display:flex;gap:8px;flex-wrap:wrap}
+  .ing-tools{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin:0 0 12px}
+  .ing-tools input{
+    flex:1 1 200px;min-width:160px;padding:9px 12px;border:1.5px solid var(--line2);border-radius:10px;
+    background:var(--cream);font-size:14px;color:var(--ink);
+  }
+  .ing-tools input:focus{outline:none;border-color:var(--red)}
+  .hint{font-size:12px;color:var(--ink3);font-weight:600}
+
+  /* ---- Active filter chips ---- */
+  .active-row{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}
+  .achip{
+    display:inline-flex;align-items:center;gap:6px;padding:5px 11px;border-radius:999px;
+    font-size:12.5px;font-weight:700;cursor:pointer;border:0;
+  }
+  .achip.grp{background:var(--gold);color:var(--ink)}
+  .achip.inc{background:var(--red);color:#fff}
+  .achip.exc{background:var(--ink);color:#fff}
+  .achip.exc .t{text-decoration:line-through}
+  .achip .x{opacity:.75;font-weight:800}
+  .achip:hover .x{opacity:1}
 
   /* ---- Grid ---- */
   main{max-width:1180px;margin:0 auto;padding:20px 20px 60px}
@@ -135,8 +175,19 @@
   footer ul{margin:0;padding:0;list-style:none;font-size:14px;line-height:2}
   .disclaimer{border-top:1px solid rgba(255,255,255,.12);margin-top:8px;padding:18px 20px;text-align:center;
     font-size:12.5px;color:#9C9284;max-width:1180px;margin-left:auto;margin-right:auto}
-  @media(max-width:640px){.foot-inner{grid-template-columns:1fr;gap:24px}.controls{top:50px}}
-  @media(max-width:420px){.bar .brand{font-size:17px}}
+  @media(max-width:640px){
+    .foot-inner{grid-template-columns:1fr;gap:24px}
+    .controls{top:50px}
+    .diet button{padding:11px 10px;font-size:12.5px}
+    .drawer{left:12px;right:12px;max-height:56vh}
+  }
+  @media(max-width:480px){
+    .pill-unofficial{display:none}
+    .bar{padding:10px 14px;gap:8px}
+    .bar .brand{font-size:16px}
+    .bar .brand .mark{font-size:20px}
+    .bar a.gh{font-size:13px;white-space:nowrap}
+  }
 </style>
 </head>
 <body>
@@ -154,7 +205,7 @@
   <h1>Every <span class="accent">Ike's</span> sandwich, in one place.</h1>
   <p class="lede">Ike's Love &amp; Sandwiches spreads its menu across individual store ordering pages — no single master list exists. So I pulled all 116 US location menus and merged them. Here's the whole catalog.</p>
   <div class="stats">
-    <div class="stat"><div class="n" id="s-total">768</div><div class="l">Unique sandwiches</div></div>
+    <div class="stat"><div class="n" id="s-total">757</div><div class="l">Unique sandwiches</div></div>
     <div class="stat"><div class="n">116</div><div class="l">Store menus merged</div></div>
     <div class="stat"><div class="n">20</div><div class="l">Protein groups</div></div>
     <div class="stat"><div class="n">Jul&nbsp;2026</div><div class="l">Data pulled</div></div>
@@ -180,8 +231,25 @@
         <option value="num">Menu number</option>
         <option value="group">Protein group</option>
       </select>
+      <button class="fbtn" id="fbtn" aria-expanded="false" aria-controls="drawer">
+        Filters <span class="badge" id="fbadge" hidden></span> <span class="caret">▼</span>
+      </button>
     </div>
-    <div class="chips" id="chips"></div>
+    <div class="active-row" id="active" hidden></div>
+    <div class="drawer" id="drawer" hidden>
+      <div class="fsec">
+        <h5>Protein group</h5>
+        <div class="wrap" id="chips"></div>
+      </div>
+      <div class="fsec">
+        <h5>Ingredients</h5>
+        <div class="ing-tools">
+          <input id="ing-q" type="search" placeholder="Find an ingredient…" autocomplete="off">
+          <span class="hint">Tap once = must have · tap again = must NOT have · third tap = off</span>
+        </div>
+        <div id="ing-secs"></div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -220,9 +288,12 @@
   var grid=document.getElementById('grid'), countEl=document.getElementById('count'),
       chipsEl=document.getElementById('chips'), qEl=document.getElementById('q'),
       sortEl=document.getElementById('sort'), dietEl=document.getElementById('diet'),
-      clearEl=document.getElementById('clear');
-  var ALL=[], MAXPOP=1;
-  var state={q:'',diet:'all',group:null,sort:'pop'};
+      clearEl=document.getElementById('clear'), fbtn=document.getElementById('fbtn'),
+      fbadge=document.getElementById('fbadge'), drawer=document.getElementById('drawer'),
+      activeEl=document.getElementById('active'), ingSecsEl=document.getElementById('ing-secs'),
+      ingQEl=document.getElementById('ing-q');
+  var ALL=[], MAXPOP=1, ING={}, ingChipEls={};
+  var state={q:'',diet:'all',group:null,sort:'pop',inc:{},exc:{}};
 
   function dietOf(g){
     if(/^Vegan/i.test(g)) return 'vegan';
@@ -231,8 +302,113 @@
   }
   var DIET_LABEL={meat:'Meat',veg:'Veg',vegan:'Vegan'};
 
+  /* Ingredient canonicalization: the store menus spell the same ingredient many
+     ways (typos, plurals, "(Serves 2-4)" prefixes). Map raw token -> canonical
+     key so the filter list stays clean. Underlying data is untouched. */
+  var SYN={
+    'halal chicken':'chicken (halal)',
+    '(serves 2-4) fried chicken':'fried chicken',
+    '(serves 2-4) roast beef':'roast beef',
+    '(serves 2-4) vegan fried chicken':'vegan fried chicken',
+    '10 pieces of vegan chicken':'vegan chicken',
+    '3 chicken tenders served with your choice up to 2 of sauces':'chicken tenders',
+    'all beef meatballs':'all-beef meatballs',
+    'salami':'salami (beef)',
+    "the best pizza (sandwich) you'll ever try: salami (beef)":'salami (beef)',
+    'real bacon':'bacon',
+    'double bacon':'bacon',
+    'salmon burger':'wild salmon burger',
+    'dirty lobster salad':'lobster salad',
+    'hot link (halal)':'hot link',
+    "pinkerton's brisket (non-halal) steak":'pinkerton brisket',
+    'grilled cheese (choose up to 4 kinds of cheese!)':'grilled cheese',
+    'grilled cheese (up to 4 kinds!!)':'grilled cheese',
+    'vgean cheese':'vegan cheese',
+    'provolone cheese':'provolone',
+    'pepperjack':'pepper jack',
+    'gouda. 1210 cal]':'gouda',
+    'mozzarella stick':'mozzarella sticks',
+    'godfather':'godfather sauce',
+    '(light) godfather':'godfather sauce',
+    'yellow bbq':'yellow bbq sauce',
+    'bbq':'bbq sauce',
+    'buffao wing sauce':'buffalo wing sauce',
+    'french':'french dressing',
+    'tangy italian':'tangy italian dressing',
+    'asian sesame':'asian sesame dressing',
+    'cranberry sauce':'cranberry',
+    'honey':'real honey',
+    'green pesto':'pesto',
+    "ike's southwest pesto":'southwest pesto',
+    "ike's southwest pesto ranch":'southwest pesto ranch',
+    "ike's chunky blue cheese dressing":'chunky blue cheese dressing',
+    "ike's dirty mustard":'dirty mustard',
+    "ike's green chili aioli":"ike's green chile aioli",
+    "ike's hulk sauce":"ike's incredible hulk sauce",
+    '(light) habanero':'habanero',
+    'light habanero':'habanero',
+    'artichoke hearts':'marinated artichoke hearts',
+    'cucumber':'cucumbers',
+    'tomato':'tomatoes',
+    'grilled mushrooms':'mushrooms',
+    'french fries':'fries',
+    'onion rings':'beer-battered onion rings',
+    'beer-bettered onion rings':'beer-battered onion rings',
+    'fried zuchinni':'fried zucchini'
+  };
+  /* Compound tokens that describe more than one ingredient */
+  var MULTI={
+    'turkey and provolone cheese':['turkey','provolone'],
+    'dirty sauce and provolone':['provolone'],
+    'your choice of ham or turkey and american cheese':['american']
+  };
+  var SKIP={'with your choice of up to 2 sauces':1};
+  var DISPLAY={'chicken tenders':'Chicken Tenders','grilled cheese':'Grilled Cheese'};
+
+  var CAT_PROTEIN=['chicken (halal)','fried chicken','vegan chicken','vegan fried chicken','chicken tenders',
+    'turkey','vegan turkey','ham','pastrami','roast beef','steak','chicken fried steak','vegan steak',
+    'pinkerton brisket','vegan brisket','vegan bulgogi','salami (beef)','all-beef meatballs','vegan meatballs',
+    'vegan meatloaf','bacon','veggie bacon','tuna','wild salmon burger','lobster salad','hot link',
+    'breaded eggplant','garden burger','grilled cheese'];
+  var CAT_CHEESE=['provolone','pepper jack','cheddar','swiss','gouda','smoked gouda','american','vegan cheese','cream cheese'];
+  var CAT_EXTRA=['mozzarella sticks','fried cheese bites','beer-battered onion rings','fries','stuffed jalapeno poppers',
+    'fried zucchini','jalapeno chips','voodoo chips','voodoo heat chips','creole onion chips','salted potato chips',
+    'flaming hot cheetos','chicken pot stickers'];
+  var CAT_PRODUCE=['avocado','mushrooms','cucumbers','lettuce','tomatoes','grilled tomatoes','spinach','green chiles',
+    'habanero','peppadew peppers','pineapple','purple slaw','mack slaw','vegan mack slaw',"ike's sutter slaw",
+    'marinated artichoke hearts','cranberry'];
+  var CATS=['Proteins & mains','Cheeses','Veggies & toppings','Crunchy extras','Sauces & spreads'];
+  function catOf(key){
+    if(CAT_PROTEIN.indexOf(key)>=0) return 'Proteins & mains';
+    if(CAT_CHEESE.indexOf(key)>=0) return 'Cheeses';
+    if(CAT_EXTRA.indexOf(key)>=0) return 'Crunchy extras';
+    if(CAT_PRODUCE.indexOf(key)>=0) return 'Veggies & toppings';
+    return 'Sauces & spreads';
+  }
+  function canonOf(tok){
+    var k=tok.trim().toLowerCase();
+    if(!k||SKIP[k]) return [];
+    if(MULTI[k]) return MULTI[k];
+    return [SYN[k]||k];
+  }
+  function titleCase(k){
+    return k.replace(/\b[a-z]/g,function(c){return c.toUpperCase();});
+  }
+
   fetch('data/ikes_sandwiches.json').then(function(r){return r.json();}).then(function(d){
+    var spellings={};
     ALL=d.sandwiches.map(function(s){
+      var set={};
+      (s.ingredients||'').split(',').forEach(function(tok){
+        var raw=tok.trim();
+        canonOf(raw).forEach(function(key){
+          set[key]=1;
+          if(raw.toLowerCase()===key){
+            spellings[key]=spellings[key]||{};
+            spellings[key][raw]=(spellings[key][raw]||0)+1;
+          }
+        });
+      });
       return {
         number:s.number||'', name:s.name||'Unnamed',
         group:s.protein_group||'Other',
@@ -240,12 +416,30 @@
         pop:s.locations_count||0,
         diet:dietOf(s.protein_group||''),
         _n:(s.name||'').toLowerCase(),
-        _i:(s.ingredients||'').toLowerCase()
+        _i:(s.ingredients||'').toLowerCase(),
+        _set:set
       };
     });
     MAXPOP=ALL.reduce(function(m,s){return Math.max(m,s.pop);},1);
+    ALL.forEach(function(s){
+      for(var key in s._set){
+        ING[key]=ING[key]||{total:0};
+        ING[key].total++;
+      }
+    });
+    for(var key in ING){
+      var best=DISPLAY[key]||null, bestN=0;
+      if(!best && spellings[key]){
+        for(var sp in spellings[key]){
+          if(spellings[key][sp]>bestN){best=sp;bestN=spellings[key][sp];}
+        }
+      }
+      ING[key].display=best||titleCase(key);
+      ING[key].cat=catOf(key);
+    }
     document.getElementById('s-total').textContent=ALL.length;
     buildChips(d.group_counts||{});
+    buildIngSections();
     render();
   }).catch(function(e){
     countEl.textContent='Could not load data.';
@@ -258,18 +452,79 @@
     groups.forEach(function(g){
       var b=document.createElement('button');
       b.className='chip'; b.dataset.group=g;
-      b.innerHTML='';
       b.appendChild(document.createTextNode(g));
       var c=document.createElement('span'); c.className='c'; c.textContent=counts[g];
       b.appendChild(c);
       b.addEventListener('click',function(){
         state.group=(state.group===g)?null:g;
-        [].forEach.call(chipsEl.children,function(x){x.classList.toggle('on',x.dataset.group===state.group);});
         render();
       });
       chipsEl.appendChild(b);
     });
   }
+
+  function buildIngSections(){
+    var byCat={};
+    Object.keys(ING).forEach(function(key){
+      var c=ING[key].cat;
+      byCat[c]=byCat[c]||[];
+      byCat[c].push(key);
+    });
+    ingSecsEl.innerHTML='';
+    CATS.forEach(function(cat){
+      var keys=byCat[cat];
+      if(!keys) return;
+      keys.sort(function(a,b){return ING[b].total-ING[a].total || ING[a].display.localeCompare(ING[b].display);});
+      var sec=document.createElement('div'); sec.className='fsec'; sec.dataset.cat=cat;
+      var h=document.createElement('h5'); h.textContent=cat+' ('+keys.length+')';
+      var wrap=document.createElement('div'); wrap.className='wrap';
+      keys.forEach(function(key){
+        var b=document.createElement('button');
+        b.className='chip'; b.dataset.key=key;
+        b.appendChild(document.createTextNode(ING[key].display));
+        var c=document.createElement('span'); c.className='c'; c.textContent=ING[key].total;
+        b.appendChild(c);
+        b.addEventListener('click',function(){
+          if(state.inc[key]){delete state.inc[key];state.exc[key]=1;}
+          else if(state.exc[key]){delete state.exc[key];}
+          else{state.inc[key]=1;}
+          render();
+        });
+        ingChipEls[key]=b;
+        wrap.appendChild(b);
+      });
+      sec.appendChild(h); sec.appendChild(wrap);
+      ingSecsEl.appendChild(sec);
+    });
+  }
+
+  /* Drawer open/close */
+  function setDrawer(open){
+    drawer.hidden=!open;
+    fbtn.classList.toggle('open',open);
+    fbtn.setAttribute('aria-expanded',open?'true':'false');
+  }
+  fbtn.addEventListener('click',function(){setDrawer(drawer.hidden);});
+  document.addEventListener('click',function(e){
+    if(!drawer.hidden && !drawer.contains(e.target) && !fbtn.contains(e.target)) setDrawer(false);
+  });
+  document.addEventListener('keydown',function(e){
+    if(e.key==='Escape' && !drawer.hidden) setDrawer(false);
+  });
+
+  /* In-drawer ingredient search */
+  ingQEl.addEventListener('input',function(){
+    var q=ingQEl.value.trim().toLowerCase();
+    [].forEach.call(ingSecsEl.children,function(sec){
+      var any=false;
+      [].forEach.call(sec.querySelectorAll('.chip'),function(ch){
+        var hit=!q || ING[ch.dataset.key].display.toLowerCase().indexOf(q)>=0;
+        ch.style.display=hit?'':'none';
+        if(hit) any=true;
+      });
+      sec.style.display=any?'':'none';
+    });
+  });
 
   qEl.addEventListener('input',function(){state.q=qEl.value.trim().toLowerCase();render();});
   sortEl.addEventListener('change',function(){state.sort=sortEl.value;render();});
@@ -280,10 +535,9 @@
     render();
   });
   clearEl.addEventListener('click',function(){
-    state={q:'',diet:'all',group:null,sort:sortEl.value};
+    state={q:'',diet:'all',group:null,sort:sortEl.value,inc:{},exc:{}};
     qEl.value='';
     [].forEach.call(dietEl.children,function(x){x.classList.toggle('on',x.dataset.diet==='all');});
-    [].forEach.call(chipsEl.children,function(x){x.classList.remove('on');});
     render();
   });
 
@@ -291,6 +545,8 @@
     return ALL.filter(function(s){
       if(state.diet!=='all' && s.diet!==state.diet) return false;
       if(state.group && s.group!==state.group) return false;
+      for(var k in state.inc){if(!s._set[k]) return false;}
+      for(var k2 in state.exc){if(s._set[k2]) return false;}
       if(state.q && s._n.indexOf(state.q)<0 && s._i.indexOf(state.q)<0 && String(s.number).indexOf(state.q)<0) return false;
       return true;
     });
@@ -305,12 +561,62 @@
     });
   }
 
+  function nFilters(){
+    return (state.group?1:0)+Object.keys(state.inc).length+Object.keys(state.exc).length;
+  }
+
+  function renderActive(){
+    activeEl.innerHTML='';
+    var any=false;
+    function achip(cls,label,strike,onRemove){
+      any=true;
+      var b=document.createElement('button'); b.className='achip '+cls;
+      var t=document.createElement('span'); t.className='t'; t.textContent=label;
+      var x=document.createElement('span'); x.className='x'; x.textContent='✕';
+      b.appendChild(t); b.appendChild(x);
+      b.title='Remove this filter';
+      b.addEventListener('click',onRemove);
+      activeEl.appendChild(b);
+    }
+    if(state.group) achip('grp',state.group,false,function(){state.group=null;render();});
+    Object.keys(state.inc).forEach(function(k){
+      achip('inc','✓ '+ING[k].display,false,function(){delete state.inc[k];render();});
+    });
+    Object.keys(state.exc).forEach(function(k){
+      achip('exc','no '+ING[k].display,true,function(){delete state.exc[k];render();});
+    });
+    activeEl.hidden=!any;
+  }
+
+  function syncFilterUI(list){
+    /* group chips */
+    [].forEach.call(chipsEl.children,function(x){x.classList.toggle('on',x.dataset.group===state.group);});
+    /* live ingredient counts within the current result set */
+    var live={};
+    list.forEach(function(s){for(var k in s._set){live[k]=(live[k]||0)+1;}});
+    for(var key in ingChipEls){
+      var b=ingChipEls[key], c=b.lastChild;
+      var isInc=!!state.inc[key], isExc=!!state.exc[key];
+      b.classList.toggle('inc',isInc);
+      b.classList.toggle('exc',isExc);
+      var n=live[key]||0;
+      c.textContent=isExc?'✕':n;
+      b.classList.toggle('dim',!isInc && !isExc && n===0);
+    }
+    var n=nFilters();
+    fbadge.hidden=n===0;
+    fbadge.textContent=n;
+    renderActive();
+  }
+
   function render(){
     var list=sortList(filtered());
-    var active=state.q||state.group||state.diet!=='all';
+    var active=state.q||state.diet!=='all'||nFilters()>0;
     clearEl.hidden=!active;
     countEl.textContent=list.length+' '+(list.length===1?'sandwich':'sandwiches')
-      + (state.group?' · '+state.group:'') + (state.diet!=='all'?' · '+DIET_LABEL[state.diet]:'');
+      + (state.group?' · '+state.group:'') + (state.diet!=='all'?' · '+DIET_LABEL[state.diet]:'')
+      + (Object.keys(state.inc).length+Object.keys(state.exc).length>0?' · ingredient filters on':'');
+    syncFilterUI(list);
 
     if(!list.length){
       grid.innerHTML='<div class="empty"><div class="big">🥲</div>No sandwiches match. Try clearing a filter.</div>';

@@ -4,7 +4,7 @@ number,name,protein_group,ingredients,locations_count
 111,MENAGE A TROIS,Halal chicken,"Chicken (Halal), Honey Mustard, BBQ Sauce, Real Honey, Pepper Jack, Swiss, Cheddar",105
 99,WE'RE JUST FRIENDS,Halal chicken,"Chicken (Halal), Avocado, Zesty Orange Glaze, Pepper Jack",104
 1999,"HEY NOW, YOU'RE AN ALLSTAR- Created With Smash Mouth",Halal chicken,"Chicken (Halal), Bacon, Red Pesto, Sriracha, Wasabi Mayo, Pepper Jack",102
-106,THE NNEKANATOR - Created With Nneka Ogwumike,Halal chicken,"Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",102
+106,THE NNEKANATOR - Created With Nneka Ogwumike,Halal chicken,"Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",104
 1,ELVIS KIETH,Halal chicken,"Chicken (Halal), Teriyaki, Wasabi Mayo, Swiss",101
 9,[NAME OF THE GIRL I'M DATING],Halal chicken,"Chicken (Halal), Honey Mustard, Avocado, Pepper Jack",98
 30,BACKSTABBER,Halal chicken,"Chicken (Halal), Creamy Caesar, Marinated Artichoke Hearts, Provolone",97
@@ -24,11 +24,10 @@ number,name,protein_group,ingredients,locations_count
 30,SILICON VALLEY,Halal chicken,"Chicken (Halal), Creamy Caesar, Marinated Artichoke Hearts, Provolone",7
 96,VIKINGS,Halal chicken,"Chicken (Halal), Red Pesto, Ranch, Pepper Jack",7
 12,ANDREW LUCK,Halal chicken,"Chicken (Halal), Bacon, Italian Dressing, Avocado, Gouda",6
-17,BULLDOGS,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",6
-182,MICKELSON,Halal chicken,"Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",6
+17,BULLDOGS,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",7
 11,MOZZARELLA'S BIG CHEESE,Halal chicken,"Chicken (Halal), Honey Mustard, Real Honey, Provolone",6
 17,MUSTANGS,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",6
-182,PHIL MICKELSON,Halal chicken,"Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",6
+182,PHIL MICKELSON,Halal chicken,"Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar",12
 427,ALARIC,Halal chicken,"Chicken (Halal), Green Chiles, Ranch, Cheddar",5
 82,NOT TONIGHT I HAVE A HEADACHE,Halal chicken,"Chicken (Halal), Bacon, BBQ Sauce, Cheddar",5
 66,DAMN STRAIGHT,Halal chicken,"Chicken (Halal), Mozzarella Sticks, Marinara",4
@@ -39,7 +38,6 @@ number,name,protein_group,ingredients,locations_count
 312,JOE NAMATH,Halal chicken,"Chicken (Halal), Bacon, Asian Sesame Dressing, Provolone",2
 17,MCCARRAN,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",2
 17,SANCHEZ COLLEGE PREP,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",2
-106,THE NNEKANATOR,Halal chicken,"Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda",2
 17,TIMBER WOLF,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",2
 17,TOP GUN,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",2
 789,YAEL UNIVERSITY,Halal chicken,"Chicken (Halal), Bacon, Real Honey, Honey Mustard, BBQ Sauce, Pepper Jack, Swiss, Cheddar",2
@@ -48,7 +46,6 @@ number,name,protein_group,ingredients,locations_count
 17,BISHOP RANCH,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",1
 773,BLOND BOMBER (Fremont Exclusive),Halal chicken,"Chicken (Halal), Ike's Spicy Wing Sauce, Real Honey, Gouda",1
 17,BOBCAT,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",1
-17,BULLDOG,Halal chicken,"Chicken (Halal), BBQ Sauce, Cheddar",1
 576,CHARLOTTE KENSINGTON (Fresno Campus Pointe Exclusive),Halal chicken,"Chicken (Halal), Ike's Buffalo French Sauce, American",1
 1229,DESERT ROSE,Halal chicken,"Chicken (Halal), BBQ Sauce, Honey Mustard, Habanero, Purple Slaw, Avocado, Cheddar, Pepper Jack",1
 431,FESTUS EZELI,Halal chicken,"Chicken (Halal), BBQ Sauce, Real Honey, Habanero, Cheddar",1
@@ -133,10 +130,10 @@ number,name,protein_group,ingredients,locations_count
 18,MATT CAIN,Turkey,"Turkey, Roast Beef, Salami (Beef), Godfather Sauce, Provolone",105
 2797,ROCKIN' ROENICK,Turkey,"Turkey, Chicken (Halal), Bacon, Red Pesto, Honey Mustard, Sriracha, Real Honey, Gouda",105
 68,CHASE OTTNEY IS HELLA SEXY,Turkey,"Turkey, Provolone",103
-34,THE HUNTER PENCE,Turkey,"Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",103
+34,THE HUNTER PENCE,Turkey,"Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",104
 65,JIM ROME,Turkey,"Turkey, Red Pesto, Avocado, Cheddar",101
 25,BARRY BONDS,Turkey,"Turkey, Bacon, Swiss",100
-75,BARRY Z.,Turkey,"Turkey, Avocado, Provolone",94
+75,BARRY Z.,Turkey,"Turkey, Avocado, Provolone",96
 118,DA VINCI,Turkey,"Turkey, Ham, Salami (Beef), Italian Dressing, Provolone",91
 19,GOING HOME FOR THANKSGIVING,Turkey,"Turkey, Cranberry, Sriracha, Cheddar",55
 6262,LOGAN WEBB,Turkey,"Turkey, Bacon, Beer-Battered Onion Rings, Godfather Sauce, Teriyaki, Avocado, Pepper Jack, Cheddar",31
@@ -160,7 +157,6 @@ number,name,protein_group,ingredients,locations_count
 15,PRIDE OF CASTRO,Turkey,"Turkey, Ham, Provolone",3
 345,STEPHEN HAWKING,Turkey,"Turkey, Bacon, Zesty Orange Glaze, Pepper Jack",3
 75,B. WALSH,Turkey,"Turkey, Avocado, Provolone",2
-75,BARRY ZITO,Turkey,"Turkey, Avocado, Provolone",2
 195,CAT WOMAN,Turkey,"Turkey, Honey Mustard, Pepper Jack",2
 1123,COPERNICUS,Turkey,"Turkey, Red Pesto, Spinach, Swiss",2
 777,DAN ASHLEY,Turkey,"Turkey, Avocado, (Light) Godfather, Provolone",2
@@ -181,7 +177,6 @@ number,name,protein_group,ingredients,locations_count
 164,GRIFFSTICK,Turkey,"Turkey, Roast Beef, Salami (Beef), Bacon, Griff Sauce, Avocado",1
 894,HALE-WOLF (Corona Exclusive),Turkey,"Turkey, Ham, Bacon, Ike's Lemon Citrus Sauce, Swiss, Cheddar",1
 409,HUGH HEFNER,Turkey,"Turkey, Roast Beef, Godfather Sauce, Provolone",1
-34,HUNTER PENCE,Turkey,"Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack",1
 232,JEANETTE POHLEN,Turkey,"Turkey, Pastrami, Bacon, Honey Mustard, Avocado, Pepper Jack",1
 25,JOHN ELWAY,Turkey,"Turkey, Bacon, Swiss",1
 121,JOSE CANSECO,Turkey,"Turkey, Bacon, Creamy Caesar, Provolone",1
@@ -238,7 +233,7 @@ number,name,protein_group,ingredients,locations_count
 2,HOLLYWOULD'S SF CHEESESTEAK,Steak & beef,"Steak, Mushrooms, Provolone",104
 957,THE DAMON BRUCE,Steak & beef,"Steak, Steak Sauce, Beer-Battered Onion Rings, Provolone",103
 2929,J MAC- Created With Ja'Quan McMillian,Steak & beef,"Steak, Godfather Sauce, Dirty Dressing, American, Provolone",101
-840,MILLENNIAL FALCONS,Steak & beef,"Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",26
+840,MILLENNIAL FALCONS,Steak & beef,"Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",28
 349,THE SABERCAT,Steak & beef,"Chicken Fried Steak, Bacon, Yellow BBQ, Ranch, Cheddar",17
 3003,EKELER'S SANDWICH,Steak & beef,"Steak, Wasabi Mayo, Godfather Sauce, Pepper Jack",11
 40,FORTY?!,Steak & beef,"Chicken Fried Steak, Ranch, Cheddar",11
@@ -257,7 +252,6 @@ number,name,protein_group,ingredients,locations_count
 940,COLT HEARTED,Steak & beef,"Chicken Fried Steak, Dirty Dressing, Pepper Jack",2
 37,FOXY BOXY,Steak & beef,"Steak, Creamy Horseradish, Gouda",2
 339,JAMES BAHN,Steak & beef,"Steak, Sriracha, Cucumbers, Pepper Jack",2
-840,MILLENIAL FALCON,Steak & beef,"Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",2
 911,MOBILE CRISIS #23,Steak & beef,"Chicken Fried Steak, Strawberry Preserves, Wasabi Mayo, Cheddar",2
 840,SCREAMING EAGLE,Steak & beef,"Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack",2
 464,TEMPETATION,Steak & beef,"Steak, Ranch, Cheddar",2
@@ -296,12 +290,11 @@ number,name,protein_group,ingredients,locations_count
 745,THE AIRDROME (Monrovia Exclusive),Steak & beef,"Steak, Ike's Creamy Pesto, French Fries, Pepper Jack",1
 778,YES I AM,Steak & beef,"Steak, Mack Sauce, Beer-Bettered Onion Rings, Purple Slaw, American",1
 2242,CAM BRINK,Pastrami,"Pastrami, Purple Slaw, Buffalo Wing Sauce, Zesty Orange Glaze, Wasabi Mayo, Avocado, American, Pepper Jack, Extra Dirty Sauce",101
-,ULTIMATE FIGHTING FORREST- Created With Forrest Griffin,Pastrami,"Pastrami, Godfather, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",95
+,ULTIMATE FIGHTING FORREST - Created With Forrest Griffin,Pastrami,"Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",101
 91.5,IKE'S REUBEN,Pastrami,"Pastrami, Mack Sauce, Purple Slaw, Gouda",66
 91,PAUL REUBEN,Pastrami,"Pastrami, Purple Slaw, French Dressing, Swiss",41
 97,PASTRAMI-CHARMED LIFE,Pastrami,"Pastrami, Purple Slaw, Honey Mustard, Pepper Jack",8
 688,THE LAST DINOSAUR (COLORADO EXCLUSIVE),Pastrami,"Pastrami, Ike's Chipotle Sauce, Pepper Jack",6
-,ULTIMATE FIGHTING FORREST - Created With Forrest Griffin,Pastrami,"Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar",6
 24,SAY HEY,Pastrami,"Pastrami, Bacon, Swiss",4
 562,DIRTBAGS (Long Beach Exclusive),Pastrami,"Pastrami, Ike's Habanero BBQ, Purple Slaw, Cheddar",2
 57,TED ROBINSON,Pastrami,"Pastrami, Provolone",2
@@ -362,10 +355,9 @@ number,name,protein_group,ingredients,locations_count
 123,JOKER,Meatball,"All-Beef Meatballs, Fried Zucchini, Red Pesto, Ranch",7
 185,VERNON DAVIS,Meatball,"All-Beef Meatballs, Marinara, Ranch, Mozzarella Sticks",7
 4949,THE SENIOR- Created With Michael Chiklis,Meatball,"All Beef Meatballs, Salami (Beef), Ham, Pesto, Provolone",6
-86,KING KOOPA,Meatball,"All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",5
+86,KING KOOPA,Meatball,"All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",8
 87,LEGEND OF ZELDA,Meatball,"All-Beef Meatballs, Marinara, Fried Zucchini, Pepper Jack",5
 93,BIG LEE-BOWSKI,Meatball,"All-Beef Meatballs, Bacon, Mozzarella Sticks, Red Pesto, Ranch, Habanero",4
-86,KOOPA,Meatball,"All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers",3
 846,ZAMPERINI,Meatball,"All-Beef Meatballs, Fries, Ike's Golden BBQ Sauce, Cheddar",2
 899,BEN DOVER,Meatball,"All-Beef Meatballs, Marinara, Artichoke Hearts, Provolone",1
 683,BUY YOUR OWN DAM RUG!,Meatball,"All-Beef Meatballs, Red Pesto, Ranch, Mozzarella Sticks",1
@@ -418,13 +410,13 @@ number,name,protein_group,ingredients,locations_count
 414,VEGAN LITACANRANA,Vegan - chicken,"Vegan Chicken, Teriyaki, Wasabi Mayo, Mushrooms, Vegan Cheese",105
 299,VEGAN MEL-LO KITTY,Vegan - chicken,"Vegan Chicken, Zesty Orange Glaze, Avocado, Vegan Cheese",105
 301,HANDSOME OWL,Vegan - chicken,"Vegan Chicken, Teriyaki, Wasabi Mayo, Swiss",104
-892,VEGAN PIRATES OR PILATES?,Vegan - chicken,"Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",104
+892,VEGAN PIRATES OR PILATES?,Vegan - chicken,"Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",105
 ,VEGAN CHICK'N NUGGETS,Vegan - chicken,"10 pieces of vegan chicken, with your choice of up to 2 sauces",102
 205,VEGAN PUMPKIN,Vegan - chicken,"Vegan Chicken, Pesto, Mushrooms, Avocado, Pepper Jack, Vegan Cheese",99
 1122,VEGAN TAILOR'S BOOTY,Vegan - chicken,"Vegan Fried Chicken, Zesty Orange Glaze, Yellow BBQ Sauce, Vegan Cheese",98
 210,VEGAN TERMINATORS,Vegan - chicken,"Vegan Chicken, Marinara, Vegan Cheese",94
 298,JAYMEETLESS,Vegan - chicken,"Vegan Fried Chicken, Yellow BBQ Sauce, Ranch, Pepper Jack",89
-204,VEGAN SABRINA'S SMILE,Vegan - chicken,"Vegan Chicken, Italian Dressing, Vegan Cheese",87
+204,VEGAN SABRINA'S SMILE,Vegan - chicken,"Vegan Chicken, Italian Dressing, Vegan Cheese",88
 849,VEGAN TOROS,Vegan - chicken,"Vegan Chicken, Buffalo Wing Sauce, Yellow BBQ Sauce, BBQ Sauce, Vegan Cheese",76
 892,PIRATES OR PILATES?,Vegan - chicken,"Vegan Chicken, Mushrooms, Zesty Orange Glaze, Pepper Jack",57
 315,BONNIE-JILL,Vegan - chicken,"Vegan Fried Chicken, Marinated Artichoke Hearts, Marinara, Sriracha",51
@@ -537,9 +529,7 @@ number,name,protein_group,ingredients,locations_count
 735,VEGAN MARY ASHLEY (Sherman Oaks Exclusive),Vegan - chicken,"Vegan Chicken, Ike's Mango Habanero Teriyaki, Vegan Cheese",1
 217,VEGAN NATALIE WOOD,Vegan - chicken,"Vegan Chicken, BBQ Sauce, Vegan Cheese",1
 838,VEGAN NEWTONARDS (Arrowhead Exclusive),Vegan - chicken,"Vegan Fried Chicken, Purple Slaw, Ike's Peoria BBQ Sauce, Vegan Cheese",1
-892,VEGAN PIRATES OR PILATES,Vegan - chicken,"Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese",1
 637,VEGAN ROADRUNNER (Fresno Palmdon Exclusive),Vegan - chicken,"Vegan Fried Chicken, Ike's Tangy Spicy BBQ Sauce, Vegan Cheese",1
-204,VEGAN SABRINA SMILES,Vegan - chicken,"Vegan Chicken, Italian Dressing, Vegan Cheese",1
 960,VEGAN STRAIGHT FROM THE HEART (Marina Del Rey Exclusive),Vegan - chicken,"Vegan Chicken, Ike's Port Ballona Buffalo Sauce, Vegan Cheese",1
 832,VEGAN SUNNY CAME HOME (Mueller Exclusive),Vegan - chicken,"Vegan Fried Chicken, Ike's Creamy Orange Buffalo Sauce, Vegan Cheese",1
 489,VEGAN SUNNYBROOK FARM (Pleasanton Exclusive),Vegan - chicken,"Vegan Fried Chicken, Purple Slaw, Ike's Spicy Sycamore Sauce, Vegan Cheese",1
@@ -695,7 +685,7 @@ number,name,protein_group,ingredients,locations_count
 171,JEREMY STOPPELMAN,Vegetarian (no meat),"Breaded Eggplant, Pesto, Habanero, Grilled Tomatoes, Provolone",27
 71,STEVE JOBS,Vegetarian (no meat),"Breaded Eggplant, Pesto, Ranch, Provolone",14
 265,READING RAINBOW,Vegetarian (no meat),"Red Pesto, Avocado, Cheddar",11
-72,STUPID EGGPLANT,Vegetarian (no meat),"Breaded Eggplant, Marinara, Provolone",9
+72,STUPID EGGPLANT,Vegetarian (no meat),"Breaded Eggplant, Marinara, Provolone",10
 36,[YOUR FAVORITE DISNEY CHARACTER],Vegetarian (no meat),"Cucumbers, Avocado, Pesto, Cream Cheese",9
 161,VEGAN VEG NEWS,Vegetarian (no meat),"Mushrooms, Pesto, Vegan Cheese",8
 272,YOSHI,Vegetarian (no meat),"Breaded Eggplant, Marinara, Mozzarella Sticks",8
@@ -722,7 +712,6 @@ number,name,protein_group,ingredients,locations_count
 36,[FAVORITE PEANUTS CHARACTER],Vegetarian (no meat),"Cream Cheese, Pesto, Cucumbers, Avocado",2
 897,AJALY (Torrance Exclusive),Vegetarian (no meat),"Breaded Eggplant, Avocado, Ike's Mango Orange Mustard, Swiss",1
 538,ALIVE WITH PLEASURE (Newport Beach Exclusive),Vegetarian (no meat),"Beer-Battered Onion Rings, Ike's Red Ranch, Cheddar",1
-72,"ALRIGHT, ALRIGHT HERE'S YOUR STUPID EGGPLANT SANDWICH",Vegetarian (no meat),"Breaded Eggplant, Marinara, Provolone",1
 711,ALYSSA'S AFTER SCHOOL SPECIAL,Vegetarian (no meat),,1
 517,AMERICAN DAD (Burlingame Exclusive),Vegetarian (no meat),"Mushrooms, Ike's B-Game Sauce, Pepper Jack",1
 572,CALIFORNICATION (The Plant Exclusive),Vegetarian (no meat),"Breaded Eggplant, Ike's G.E. Sauce, Provolone",1

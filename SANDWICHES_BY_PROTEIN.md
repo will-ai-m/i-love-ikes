@@ -1,9 +1,9 @@
 # Ike's sandwiches, by protein
 
-All 768 named sandwiches pulled from Ike's online ordering menus across all 116 US locations (2026-07-23), grouped by the meat or plant protein that leads each build.
+All 757 named sandwiches pulled from Ike's online ordering menus across all 116 US locations (2026-07-23), grouped by the meat or plant protein that leads each build.
 
 
-## Halal chicken (72)
+## Halal chicken (69)
 
 *All non-fried chicken at Ike's is halal.*
 
@@ -11,8 +11,8 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#405 ERIN COSCARELLI** — Chicken (Halal), Dirty Dressing, Purple Slaw, Avocado, Pepper Jack  _(core, 105 stores)_
 - **#111 MENAGE A TROIS** — Chicken (Halal), Honey Mustard, BBQ Sauce, Real Honey, Pepper Jack, Swiss, Cheddar  _(core, 105 stores)_
 - **#99 WE'RE JUST FRIENDS** — Chicken (Halal), Avocado, Zesty Orange Glaze, Pepper Jack  _(core, 104 stores)_
+- **#106 THE NNEKANATOR - Created With Nneka Ogwumike** — Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda  _(core, 104 stores)_
 - **#1999 HEY NOW, YOU'RE AN ALLSTAR- Created With Smash Mouth** — Chicken (Halal), Bacon, Red Pesto, Sriracha, Wasabi Mayo, Pepper Jack  _(core, 102 stores)_
-- **#106 THE NNEKANATOR - Created With Nneka Ogwumike** — Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda  _(core, 102 stores)_
 - **#1 ELVIS KIETH** — Chicken (Halal), Teriyaki, Wasabi Mayo, Swiss  _(core, 101 stores)_
 - **#9 [NAME OF THE GIRL I'M DATING]** — Chicken (Halal), Honey Mustard, Avocado, Pepper Jack  _(core, 98 stores)_
 - **#30 BACKSTABBER** — Chicken (Halal), Creamy Caesar, Marinated Artichoke Hearts, Provolone  _(core, 97 stores)_
@@ -23,6 +23,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#51 RANDY JOHNSON** — Chicken (Halal), Southwest Pesto, Mushrooms, Pepper Jack  _(12 stores)_
 - **#44 ROBIN WILLIAMS** — Chicken (Halal), Italian Dressing, Mushrooms, Pepper Jack  _(12 stores)_
 - **#10 STEVE NASH** — Chicken (Halal), Marinara, Provolone  _(12 stores)_
+- **#182 PHIL MICKELSON** — Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar  _(12 stores)_
 - **#16 JAKE THE SNAKE** — Chicken (Halal), Bacon, Asian Sesame Dressing, Avocado, Provolone  _(10 stores)_
 - **#7 PIZZLE** — Chicken (Halal), Bacon, Ranch, Cheddar  _(9 stores)_
 - **#176 COUGAR** — Chicken (Halal), Buffalo Wing Sauce, Ranch, Mozzarella Sticks  _(8 stores)_
@@ -31,12 +32,10 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#4 LIZZY'S LIPS** — Chicken (Halal), Italian Dressing, Pepper Jack  _(7 stores)_
 - **#30 SILICON VALLEY** — Chicken (Halal), Creamy Caesar, Marinated Artichoke Hearts, Provolone  _(7 stores)_
 - **#96 VIKINGS** — Chicken (Halal), Red Pesto, Ranch, Pepper Jack  _(7 stores)_
+- **#17 BULLDOGS** — Chicken (Halal), BBQ Sauce, Cheddar  _(7 stores)_
 - **#12 ANDREW LUCK** — Chicken (Halal), Bacon, Italian Dressing, Avocado, Gouda  _(6 stores)_
-- **#17 BULLDOGS** — Chicken (Halal), BBQ Sauce, Cheddar  _(6 stores)_
-- **#182 MICKELSON** — Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar  _(6 stores)_
 - **#11 MOZZARELLA'S BIG CHEESE** — Chicken (Halal), Honey Mustard, Real Honey, Provolone  _(6 stores)_
 - **#17 MUSTANGS** — Chicken (Halal), BBQ Sauce, Cheddar  _(6 stores)_
-- **#182 PHIL MICKELSON** — Chicken (Halal), Bacon, BBQ Sauce, Beer-Battered Onion Rings, Cheddar  _(6 stores)_
 - **#427 ALARIC** — Chicken (Halal), Green Chiles, Ranch, Cheddar  _(5 stores)_
 - **#82 NOT TONIGHT I HAVE A HEADACHE** — Chicken (Halal), Bacon, BBQ Sauce, Cheddar  _(5 stores)_
 - **#66 DAMN STRAIGHT** — Chicken (Halal), Mozzarella Sticks, Marinara  _(4 stores)_
@@ -47,7 +46,6 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#312 JOE NAMATH** — Chicken (Halal), Bacon, Asian Sesame Dressing, Provolone  _(2 stores)_
 - **#17 MCCARRAN** — Chicken (Halal), BBQ Sauce, Cheddar  _(2 stores)_
 - **#17 SANCHEZ COLLEGE PREP** — Chicken (Halal), BBQ Sauce, Cheddar  _(2 stores)_
-- **#106 THE NNEKANATOR** — Chicken (Halal), Bacon, Buffalo Wing Sauce, Ranch, Gouda  _(2 stores)_
 - **#17 TIMBER WOLF** — Chicken (Halal), BBQ Sauce, Cheddar  _(2 stores)_
 - **#17 TOP GUN** — Chicken (Halal), BBQ Sauce, Cheddar  _(2 stores)_
 - **#789 YAEL UNIVERSITY** — Chicken (Halal), Bacon, Real Honey, Honey Mustard, BBQ Sauce, Pepper Jack, Swiss, Cheddar  _(2 stores)_
@@ -56,7 +54,6 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#17 BISHOP RANCH** — Chicken (Halal), BBQ Sauce, Cheddar  _(exclusive, 1 store)_
 - **#773 BLOND BOMBER (Fremont Exclusive)** — Chicken (Halal), Ike's Spicy Wing Sauce, Real Honey, Gouda  _(exclusive, 1 store)_
 - **#17 BOBCAT** — Chicken (Halal), BBQ Sauce, Cheddar  _(exclusive, 1 store)_
-- **#17 BULLDOG** — Chicken (Halal), BBQ Sauce, Cheddar  _(exclusive, 1 store)_
 - **#576 CHARLOTTE KENSINGTON (Fresno Campus Pointe Exclusive)** — Chicken (Halal), Ike's Buffalo French Sauce, American  _(exclusive, 1 store)_
 - **#1229 DESERT ROSE** — Chicken (Halal), BBQ Sauce, Honey Mustard, Habanero, Purple Slaw, Avocado, Cheddar, Pepper Jack  _(exclusive, 1 store)_
 - **#431 FESTUS EZELI** — Chicken (Halal), BBQ Sauce, Real Honey, Habanero, Cheddar  _(exclusive, 1 store)_
@@ -148,18 +145,18 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **CHICKEN STRIPS** — 3 chicken tenders served with your choice up to 2 of sauces  _(core, 102 stores)_
 - **#146 JON PWS (Burlingame Exclusive)** — Chicken Pot Stickers, Zesty Orange Glaze, Purple Slaw  _(exclusive, 1 store)_
 
-## Turkey (72)
+## Turkey (70)
 
 *Roast turkey  -  includes multi-meat deli combos led by turkey.*
 
 - **#5577 JEFF GARCIA** — Turkey, Bacon, Avocado, Ranch, Honey Mustard, Cheddar  _(core, 105 stores)_
 - **#18 MATT CAIN** — Turkey, Roast Beef, Salami (Beef), Godfather Sauce, Provolone  _(core, 105 stores)_
 - **#2797 ROCKIN' ROENICK** — Turkey, Chicken (Halal), Bacon, Red Pesto, Honey Mustard, Sriracha, Real Honey, Gouda  _(core, 105 stores)_
+- **#34 THE HUNTER PENCE** — Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack  _(core, 104 stores)_
 - **#68 CHASE OTTNEY IS HELLA SEXY** — Turkey, Provolone  _(core, 103 stores)_
-- **#34 THE HUNTER PENCE** — Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack  _(core, 103 stores)_
 - **#65 JIM ROME** — Turkey, Red Pesto, Avocado, Cheddar  _(core, 101 stores)_
 - **#25 BARRY BONDS** — Turkey, Bacon, Swiss  _(core, 100 stores)_
-- **#75 BARRY Z.** — Turkey, Avocado, Provolone  _(core, 94 stores)_
+- **#75 BARRY Z.** — Turkey, Avocado, Provolone  _(core, 96 stores)_
 - **#118 DA VINCI** — Turkey, Ham, Salami (Beef), Italian Dressing, Provolone  _(core, 91 stores)_
 - **#19 GOING HOME FOR THANKSGIVING** — Turkey, Cranberry, Sriracha, Cheddar  _(core, 55 stores)_
 - **#6262 LOGAN WEBB** — Turkey, Bacon, Beer-Battered Onion Rings, Godfather Sauce, Teriyaki, Avocado, Pepper Jack, Cheddar  _(31 stores)_
@@ -183,7 +180,6 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#15 PRIDE OF CASTRO** — Turkey, Ham, Provolone  _(3 stores)_
 - **#345 STEPHEN HAWKING** — Turkey, Bacon, Zesty Orange Glaze, Pepper Jack  _(3 stores)_
 - **#75 B. WALSH** — Turkey, Avocado, Provolone  _(2 stores)_
-- **#75 BARRY ZITO** — Turkey, Avocado, Provolone  _(2 stores)_
 - **#195 CAT WOMAN** — Turkey, Honey Mustard, Pepper Jack  _(2 stores)_
 - **#1123 COPERNICUS** — Turkey, Red Pesto, Spinach, Swiss  _(2 stores)_
 - **#777 DAN ASHLEY** — Turkey, Avocado, (Light) Godfather, Provolone  _(2 stores)_
@@ -204,7 +200,6 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#164 GRIFFSTICK** — Turkey, Roast Beef, Salami (Beef), Bacon, Griff Sauce, Avocado  _(exclusive, 1 store)_
 - **#894 HALE-WOLF (Corona Exclusive)** — Turkey, Ham, Bacon, Ike's Lemon Citrus Sauce, Swiss, Cheddar  _(exclusive, 1 store)_
 - **#409 HUGH HEFNER** — Turkey, Roast Beef, Godfather Sauce, Provolone  _(exclusive, 1 store)_
-- **#34 HUNTER PENCE** — Turkey, Bacon, Avocado, BBQ Sauce, Honey Mustard, Swiss, Cheddar, Pepper Jack  _(exclusive, 1 store)_
 - **#232 JEANETTE POHLEN** — Turkey, Pastrami, Bacon, Honey Mustard, Avocado, Pepper Jack  _(exclusive, 1 store)_
 - **#25 JOHN ELWAY** — Turkey, Bacon, Swiss  _(exclusive, 1 store)_
 - **#121 JOSE CANSECO** — Turkey, Bacon, Creamy Caesar, Provolone  _(exclusive, 1 store)_
@@ -263,7 +258,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#860 TUCKNASTY** — Roast Beef, Cheddar  _(exclusive, 1 store)_
 - **#1818 WILD BILL** — Roast Beef, Bacon, Buffalo Wing Sauce, BBQ Sauce, Cream Cheese  _(exclusive, 1 store)_
 
-## Steak & beef (61)
+## Steak & beef (60)
 
 *Steak, cheesesteak, chicken-fried steak, brisket.*
 
@@ -271,7 +266,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#2 HOLLYWOULD'S SF CHEESESTEAK** — Steak, Mushrooms, Provolone  _(core, 104 stores)_
 - **#957 THE DAMON BRUCE** — Steak, Steak Sauce, Beer-Battered Onion Rings, Provolone  _(core, 103 stores)_
 - **#2929 J MAC- Created With Ja'Quan McMillian** — Steak, Godfather Sauce, Dirty Dressing, American, Provolone  _(core, 101 stores)_
-- **#840 MILLENNIAL FALCONS** — Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack  _(26 stores)_
+- **#840 MILLENNIAL FALCONS** — Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack  _(28 stores)_
 - **#349 THE SABERCAT** — Chicken Fried Steak, Bacon, Yellow BBQ, Ranch, Cheddar  _(17 stores)_
 - **#3003 EKELER'S SANDWICH** — Steak, Wasabi Mayo, Godfather Sauce, Pepper Jack  _(11 stores)_
 - **#40 FORTY?!** — Chicken Fried Steak, Ranch, Cheddar  _(11 stores)_
@@ -290,7 +285,6 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#940 COLT HEARTED** — Chicken Fried Steak, Dirty Dressing, Pepper Jack  _(2 stores)_
 - **#37 FOXY BOXY** — Steak, Creamy Horseradish, Gouda  _(2 stores)_
 - **#339 JAMES BAHN** — Steak, Sriracha, Cucumbers, Pepper Jack  _(2 stores)_
-- **#840 MILLENIAL FALCON** — Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack  _(2 stores)_
 - **#911 MOBILE CRISIS #23** — Chicken Fried Steak, Strawberry Preserves, Wasabi Mayo, Cheddar  _(2 stores)_
 - **#840 SCREAMING EAGLE** — Chicken Fried Steak, BBQ Sauce, Ranch, Pepper Jack  _(2 stores)_
 - **#464 TEMPETATION** — Steak, Ranch, Cheddar  _(2 stores)_
@@ -329,17 +323,16 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#745 THE AIRDROME (Monrovia Exclusive)** — Steak, Ike's Creamy Pesto, French Fries, Pepper Jack  _(exclusive, 1 store)_
 - **#778 YES I AM** — Steak, Mack Sauce, Beer-Bettered Onion Rings, Purple Slaw, American  _(exclusive, 1 store)_
 
-## Pastrami (33)
+## Pastrami (32)
 
 *Pastrami.*
 
 - **#2242 CAM BRINK** — Pastrami, Purple Slaw, Buffalo Wing Sauce, Zesty Orange Glaze, Wasabi Mayo, Avocado, American, Pepper Jack, Extra Dirty Sauce  _(core, 101 stores)_
-- **ULTIMATE FIGHTING FORREST- Created With Forrest Griffin** — Pastrami, Godfather, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar  _(core, 95 stores)_
+- **ULTIMATE FIGHTING FORREST - Created With Forrest Griffin** — Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar  _(core, 101 stores)_
 - **#91.5 IKE'S REUBEN** — Pastrami, Mack Sauce, Purple Slaw, Gouda  _(core, 66 stores)_
 - **#91 PAUL REUBEN** — Pastrami, Purple Slaw, French Dressing, Swiss  _(core, 41 stores)_
 - **#97 PASTRAMI-CHARMED LIFE** — Pastrami, Purple Slaw, Honey Mustard, Pepper Jack  _(8 stores)_
 - **#688 THE LAST DINOSAUR (COLORADO EXCLUSIVE)** — Pastrami, Ike's Chipotle Sauce, Pepper Jack  _(6 stores)_
-- **ULTIMATE FIGHTING FORREST - Created With Forrest Griffin** — Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar  _(6 stores)_
 - **#24 SAY HEY** — Pastrami, Bacon, Swiss  _(4 stores)_
 - **#562 DIRTBAGS (Long Beach Exclusive)** — Pastrami, Ike's Habanero BBQ, Purple Slaw, Cheddar  _(2 stores)_
 - **#57 TED ROBINSON** — Pastrami, Provolone  _(2 stores)_
@@ -403,7 +396,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#459 SALAMI CHARMED LIFE** — Salami (Beef), Bacon, Godfather Sauce, Cheddar  _(exclusive, 1 store)_
 - **#502 SPEED CITY (DTSJ Exclusive)** — Salami (Beef), Ike's Incredible Hulk Sauce, Purple Slaw, Cheddar  _(exclusive, 1 store)_
 
-## Meatball (25)
+## Meatball (24)
 
 *All-beef meatballs.*
 
@@ -412,13 +405,12 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#8 STEVE YOUNG** — All-Beef Meatballs, Bacon, Marinara, Pepper Jack  _(18 stores)_
 - **#85 MARIO** — All-Beef Meatballs, Marinara, Mozzarella Sticks  _(12 stores)_
 - **#168 ALEX SMITH** — All-Beef Meatballs, Ranch, Marinara, Pepper Jack  _(10 stores)_
+- **#86 KING KOOPA** — All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers  _(8 stores)_
 - **#123 JOKER** — All-Beef Meatballs, Fried Zucchini, Red Pesto, Ranch  _(7 stores)_
 - **#185 VERNON DAVIS** — All-Beef Meatballs, Marinara, Ranch, Mozzarella Sticks  _(7 stores)_
 - **#4949 THE SENIOR- Created With Michael Chiklis** — All Beef Meatballs, Salami (Beef), Ham, Pesto, Provolone  _(6 stores)_
-- **#86 KING KOOPA** — All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers  _(5 stores)_
 - **#87 LEGEND OF ZELDA** — All-Beef Meatballs, Marinara, Fried Zucchini, Pepper Jack  _(5 stores)_
 - **#93 BIG LEE-BOWSKI** — All-Beef Meatballs, Bacon, Mozzarella Sticks, Red Pesto, Ranch, Habanero  _(4 stores)_
-- **#86 KOOPA** — All-Beef Meatballs, Marinara, Mozzarella Sticks, Stuffed Jalapeno Poppers  _(3 stores)_
 - **#846 ZAMPERINI** — All-Beef Meatballs, Fries, Ike's Golden BBQ Sauce, Cheddar  _(2 stores)_
 - **#899 BEN DOVER** — All-Beef Meatballs, Marinara, Artichoke Hearts, Provolone  _(exclusive, 1 store)_
 - **#683 BUY YOUR OWN DAM RUG!** — All-Beef Meatballs, Red Pesto, Ranch, Mozzarella Sticks  _(exclusive, 1 store)_
@@ -482,7 +474,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#122 IKE'S RED HOT SOARING SAUSAGE** — Hot Link, Marinara, Provolone  _(exclusive, 1 store)_
 - **#22 WILL THE THRILL** — Hot Link (Halal), Provolone  _(exclusive, 1 store)_
 
-## Vegan - chicken (135)
+## Vegan - chicken (133)
 
 *Plant-based chicken (grilled & fried).*
 
@@ -490,14 +482,14 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#315 VEGAN BONNIE-JILL** — Vegan Fried Chicken, Marinated Artichoke Hearts, Sriracha, Marinara  _(core, 105 stores)_
 - **#414 VEGAN LITACANRANA** — Vegan Chicken, Teriyaki, Wasabi Mayo, Mushrooms, Vegan Cheese  _(core, 105 stores)_
 - **#299 VEGAN MEL-LO KITTY** — Vegan Chicken, Zesty Orange Glaze, Avocado, Vegan Cheese  _(core, 105 stores)_
+- **#892 VEGAN PIRATES OR PILATES?** — Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese  _(core, 105 stores)_
 - **#301 HANDSOME OWL** — Vegan Chicken, Teriyaki, Wasabi Mayo, Swiss  _(core, 104 stores)_
-- **#892 VEGAN PIRATES OR PILATES?** — Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese  _(core, 104 stores)_
 - **VEGAN CHICK'N NUGGETS** — 10 pieces of vegan chicken, with your choice of up to 2 sauces  _(core, 102 stores)_
 - **#205 VEGAN PUMPKIN** — Vegan Chicken, Pesto, Mushrooms, Avocado, Pepper Jack, Vegan Cheese  _(core, 99 stores)_
 - **#1122 VEGAN TAILOR'S BOOTY** — Vegan Fried Chicken, Zesty Orange Glaze, Yellow BBQ Sauce, Vegan Cheese  _(core, 98 stores)_
 - **#210 VEGAN TERMINATORS** — Vegan Chicken, Marinara, Vegan Cheese  _(core, 94 stores)_
 - **#298 JAYMEETLESS** — Vegan Fried Chicken, Yellow BBQ Sauce, Ranch, Pepper Jack  _(core, 89 stores)_
-- **#204 VEGAN SABRINA'S SMILE** — Vegan Chicken, Italian Dressing, Vegan Cheese  _(core, 87 stores)_
+- **#204 VEGAN SABRINA'S SMILE** — Vegan Chicken, Italian Dressing, Vegan Cheese  _(core, 88 stores)_
 - **#849 VEGAN TOROS** — Vegan Chicken, Buffalo Wing Sauce, Yellow BBQ Sauce, BBQ Sauce, Vegan Cheese  _(core, 76 stores)_
 - **#892 PIRATES OR PILATES?** — Vegan Chicken, Mushrooms, Zesty Orange Glaze, Pepper Jack  _(core, 57 stores)_
 - **#315 BONNIE-JILL** — Vegan Fried Chicken, Marinated Artichoke Hearts, Marinara, Sriracha  _(core, 51 stores)_
@@ -610,9 +602,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#735 VEGAN MARY ASHLEY (Sherman Oaks Exclusive)** — Vegan Chicken, Ike's Mango Habanero Teriyaki, Vegan Cheese  _(exclusive, 1 store)_
 - **#217 VEGAN NATALIE WOOD** — Vegan Chicken, BBQ Sauce, Vegan Cheese  _(exclusive, 1 store)_
 - **#838 VEGAN NEWTONARDS (Arrowhead Exclusive)** — Vegan Fried Chicken, Purple Slaw, Ike's Peoria BBQ Sauce, Vegan Cheese  _(exclusive, 1 store)_
-- **#892 VEGAN PIRATES OR PILATES** — Vegan Chicken, Mushrooms, Zesty Orange Glaze, Vegan Cheese  _(exclusive, 1 store)_
 - **#637 VEGAN ROADRUNNER (Fresno Palmdon Exclusive)** — Vegan Fried Chicken, Ike's Tangy Spicy BBQ Sauce, Vegan Cheese  _(exclusive, 1 store)_
-- **#204 VEGAN SABRINA SMILES** — Vegan Chicken, Italian Dressing, Vegan Cheese  _(exclusive, 1 store)_
 - **#960 VEGAN STRAIGHT FROM THE HEART (Marina Del Rey Exclusive)** — Vegan Chicken, Ike's Port Ballona Buffalo Sauce, Vegan Cheese  _(exclusive, 1 store)_
 - **#832 VEGAN SUNNY CAME HOME (Mueller Exclusive)** — Vegan Fried Chicken, Ike's Creamy Orange Buffalo Sauce, Vegan Cheese  _(exclusive, 1 store)_
 - **#489 VEGAN SUNNYBROOK FARM (Pleasanton Exclusive)** — Vegan Fried Chicken, Purple Slaw, Ike's Spicy Sycamore Sauce, Vegan Cheese  _(exclusive, 1 store)_
@@ -784,7 +774,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#254B MACK DADDY** — Vegan Meatloaf, Mack Slaw, American  _(4 stores)_
 - **GET DIGGIE WITH IT** — Vegan Bulgogi, Mushrooms, Yellow BBQ Sauce, American  _(exclusive, 1 store)_
 
-## Vegetarian (no meat) (82)
+## Vegetarian (no meat) (81)
 
 *Eggplant, mushrooms, cheese, avocado, etc.*
 
@@ -798,7 +788,7 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#171 JEREMY STOPPELMAN** — Breaded Eggplant, Pesto, Habanero, Grilled Tomatoes, Provolone  _(27 stores)_
 - **#71 STEVE JOBS** — Breaded Eggplant, Pesto, Ranch, Provolone  _(14 stores)_
 - **#265 READING RAINBOW** — Red Pesto, Avocado, Cheddar  _(11 stores)_
-- **#72 STUPID EGGPLANT** — Breaded Eggplant, Marinara, Provolone  _(9 stores)_
+- **#72 STUPID EGGPLANT** — Breaded Eggplant, Marinara, Provolone  _(10 stores)_
 - **#36 [YOUR FAVORITE DISNEY CHARACTER]** — Cucumbers, Avocado, Pesto, Cream Cheese  _(9 stores)_
 - **#161 VEGAN VEG NEWS** — Mushrooms, Pesto, Vegan Cheese  _(8 stores)_
 - **#272 YOSHI** — Breaded Eggplant, Marinara, Mozzarella Sticks  _(8 stores)_
@@ -825,7 +815,6 @@ All 768 named sandwiches pulled from Ike's online ordering menus across all 116 
 - **#36 [FAVORITE PEANUTS CHARACTER]** — Cream Cheese, Pesto, Cucumbers, Avocado  _(2 stores)_
 - **#897 AJALY (Torrance Exclusive)** — Breaded Eggplant, Avocado, Ike's Mango Orange Mustard, Swiss  _(exclusive, 1 store)_
 - **#538 ALIVE WITH PLEASURE (Newport Beach Exclusive)** — Beer-Battered Onion Rings, Ike's Red Ranch, Cheddar  _(exclusive, 1 store)_
-- **#72 ALRIGHT, ALRIGHT HERE'S YOUR STUPID EGGPLANT SANDWICH** — Breaded Eggplant, Marinara, Provolone  _(exclusive, 1 store)_
 - **#711 ALYSSA'S AFTER SCHOOL SPECIAL**  _(exclusive, 1 store)_
 - **#517 AMERICAN DAD (Burlingame Exclusive)** — Mushrooms, Ike's B-Game Sauce, Pepper Jack  _(exclusive, 1 store)_
 - **#572 CALIFORNICATION (The Plant Exclusive)** — Breaded Eggplant, Ike's G.E. Sauce, Provolone  _(exclusive, 1 store)_
