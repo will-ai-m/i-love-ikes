@@ -3,12 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="An unofficial fan-made catalog of every named sandwich at Ike's Love & Sandwiches — 757 sandwiches from all 116 store menus, searchable and filterable by protein, diet, and any ingredient.">
-<title>Ike's Sandwich Catalog — 757 Sandwiches</title>
+<meta name="description" content="An unofficial fan-made catalog of every named sandwich at Ike's Love & Sandwiches — 913 sandwiches from all 116 store menus, searchable and filterable by protein, diet, and any ingredient, with location exclusives marked.">
+<title>Ike's Sandwich Catalog — 913 Sandwiches</title>
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%A5%AA</text></svg>">
 <style>
   :root{
-    --red:#D6202B; --red-deep:#A9151E; --gold:#E8A13A; --gold-deep:#C9821B;
+    /* Brand colors sampled from ikessandwich.com theme css: --ike-purple:#742f8a, --ike-orange:#ffc600 */
+    --red:#742F8A; --red-deep:#5A2170; --gold:#FFC600; --gold-deep:#9C7A00;
     --cream:#FFF7EA; --paper:#FFFDF8; --ink:#241C15; --ink2:#6A5F52; --ink3:#9C9384;
     --line:rgba(36,28,21,.12); --line2:rgba(36,28,21,.22);
     --veg:#4B7A2E; --veg-bg:#4B7A2E14; --vegan:#2E7A6A; --vegan-bg:#2E7A6A14;
@@ -67,7 +68,7 @@
     width:100%;padding:11px 14px 11px 40px;border:1.5px solid var(--line2);border-radius:11px;
     background:var(--paper);font-size:15px;color:var(--ink);
   }
-  .search input:focus{outline:none;border-color:var(--red);box-shadow:0 0 0 3px var(--meat-bg)}
+  .search input:focus{outline:none;border-color:var(--red);box-shadow:0 0 0 3px #742F8A1F}
   .search .ico{position:absolute;left:13px;top:50%;transform:translateY(-50%);opacity:.5;font-size:15px}
   select{
     padding:11px 34px 11px 13px;border:1.5px solid var(--line2);border-radius:11px;background:var(--paper);
@@ -159,10 +160,14 @@
   .group{font-size:12.5px;color:var(--ink3);font-weight:600;margin-bottom:9px}
   .ingr{font-size:14px;color:var(--ink2);line-height:1.45;flex:1}
   .ingr.none{font-style:italic;color:var(--ink3)}
-  .cfoot{margin-top:12px;display:flex;align-items:center;gap:8px}
-  .pop{flex:1;height:6px;background:var(--line);border-radius:999px;overflow:hidden}
-  .pop span{display:block;height:100%;background:linear-gradient(90deg,var(--gold),var(--red));border-radius:999px}
-  .popn{font-size:11.5px;color:var(--ink3);font-weight:600;white-space:nowrap}
+  .excl{
+    margin-top:12px;align-self:flex-start;display:inline-flex;align-items:center;gap:6px;
+    background:linear-gradient(90deg,var(--gold),#FFD84D);color:var(--ink);
+    font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:.05em;
+    padding:5px 10px;border-radius:8px;border:1.5px dashed var(--ink);
+  }
+  .excl .pin{font-size:13px;line-height:1}
+  .card.is-excl{border-top-color:var(--red);box-shadow:var(--shadow),inset 0 0 0 1.5px var(--gold)}
   .empty{text-align:center;padding:70px 20px;color:var(--ink2)}
   .empty .big{font-size:40px;margin-bottom:10px}
 
@@ -205,9 +210,9 @@
   <h1>Every <span class="accent">Ike's</span> sandwich, in one place.</h1>
   <p class="lede">Ike's Love &amp; Sandwiches spreads its menu across individual store ordering pages — no single master list exists. So I pulled all 116 US location menus and merged them. Here's the whole catalog.</p>
   <div class="stats">
-    <div class="stat"><div class="n" id="s-total">757</div><div class="l">Unique sandwiches</div></div>
+    <div class="stat"><div class="n" id="s-total">913</div><div class="l">Unique sandwiches</div></div>
     <div class="stat"><div class="n">116</div><div class="l">Store menus merged</div></div>
-    <div class="stat"><div class="n">20</div><div class="l">Protein groups</div></div>
+    <div class="stat"><div class="n" id="s-excl">535</div><div class="l">📍 Location exclusives</div></div>
     <div class="stat"><div class="n">Jul&nbsp;2026</div><div class="l">Data pulled</div></div>
   </div>
 </section>
@@ -266,7 +271,7 @@
     <div>
       <h4>How this was made</h4>
       <p>Ike's online ordering menus (<code>oxb.pxsweb.com</code> / <code>orderexperience.net</code>) were pulled one location at a time and merged, deduplicated by sandwich name. Protein grouping is derived from each item's first-listed ingredient, so multi-meat combos sit under their lead protein.</p>
-      <p>Every Ike's sandwich comes hot on Dutch Crunch with dirty sauce, lettuce &amp; tomato by default, and most meat builds can be made vegan on request. The popularity bar shows how many store menus carry each item — a proxy for core vs. regional exclusives.</p>
+      <p>Every Ike's sandwich comes hot on Dutch Crunch with dirty sauce, lettuce &amp; tomato by default, and most meat builds can be made vegan on request. Sandwiches marked with the 📍 gold badge are location exclusives — they appear on exactly one store's menu.</p>
     </div>
     <div>
       <h4>Get the data</h4>
@@ -292,7 +297,7 @@
       fbadge=document.getElementById('fbadge'), drawer=document.getElementById('drawer'),
       activeEl=document.getElementById('active'), ingSecsEl=document.getElementById('ing-secs'),
       ingQEl=document.getElementById('ing-q');
-  var ALL=[], MAXPOP=1, ING={}, ingChipEls={};
+  var ALL=[], ING={}, ingChipEls={};
   var state={q:'',diet:'all',group:null,sort:'pop',inc:{},exc:{}};
 
   function dietOf(g){
@@ -414,13 +419,13 @@
         group:s.protein_group||'Other',
         ingredients:s.ingredients||'',
         pop:s.locations_count||0,
+        excl:!!s.exclusive, exclLoc:s.exclusive_location||'',
         diet:dietOf(s.protein_group||''),
         _n:(s.name||'').toLowerCase(),
         _i:(s.ingredients||'').toLowerCase(),
         _set:set
       };
     });
-    MAXPOP=ALL.reduce(function(m,s){return Math.max(m,s.pop);},1);
     ALL.forEach(function(s){
       for(var key in s._set){
         ING[key]=ING[key]||{total:0};
@@ -438,6 +443,7 @@
       ING[key].cat=catOf(key);
     }
     document.getElementById('s-total').textContent=ALL.length;
+    document.getElementById('s-excl').textContent=ALL.filter(function(s){return s.excl;}).length;
     buildChips(d.group_counts||{});
     buildIngSections();
     render();
@@ -641,18 +647,17 @@
       ing.className='ingr'+(s.ingredients?'':' none');
       ing.textContent=s.ingredients||'Ingredients not listed';
 
-      var foot=document.createElement('div'); foot.className='cfoot';
-      var pop=document.createElement('div'); pop.className='pop';
-      var bar=document.createElement('span');
-      bar.style.width=Math.max(6,Math.round(s.pop/MAXPOP*100))+'%';
-      pop.appendChild(bar);
-      var pn=document.createElement('span'); pn.className='popn';
-      pn.textContent=s.pop+' menus';
-      pn.title='Appears on '+s.pop+' store menus';
-      foot.appendChild(pop); foot.appendChild(pn);
-
       card.appendChild(top); card.appendChild(h); card.appendChild(grp);
-      card.appendChild(ing); card.appendChild(foot);
+      card.appendChild(ing);
+      if(s.excl){
+        card.classList.add('is-excl');
+        var ex=document.createElement('div'); ex.className='excl';
+        var pin=document.createElement('span'); pin.className='pin'; pin.textContent='📍';
+        ex.appendChild(pin);
+        ex.appendChild(document.createTextNode(s.exclLoc?('Only at '+s.exclLoc):'Location exclusive'));
+        ex.title='This sandwich appears on only one store menu';
+        card.appendChild(ex);
+      }
       frag.appendChild(card);
     });
     grid.innerHTML='';

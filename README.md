@@ -2,16 +2,17 @@
 
 A near-complete catalog of every named sandwich sold by **Ike's Love & Sandwiches**, compiled by pulling the online ordering menu of **all 116 US locations** and merging them into one deduplicated list — organized by the meat (or plant protein) that leads each build.
 
-- **757** unique named sandwiches
+- **913** unique named sandwiches
 - **116** store menus merged
+- **535** location exclusives (carried by exactly one store, marked 📍)
 - **20** protein groups
-- Pulled **2026-07-23**
+- Pulled **2026-07-31**
 
 Ike's is famous for a menu that reportedly spans hundreds of combinations, but no single master list is published anywhere — the flagship website shows only ~30 items, and the rest live on individual store ordering pages (many of them regional or single-store exclusives). This repo reconstructs the full picture by scraping every location.
 
 ## Live site
 
-**→ [will-ai-m.github.io/i-love-ikes](https://will-ai-m.github.io/i-love-ikes/)** — an interactive, searchable catalog of all 757 sandwiches, filterable by protein group, diet (meat / vegan / vegetarian), and any ingredient. Built from the data below.
+**→ [will-ai-m.github.io/i-love-ikes](https://will-ai-m.github.io/i-love-ikes/)** — an interactive, searchable catalog of all 913 sandwiches, filterable by protein group, diet (meat / vegan / vegetarian), and any ingredient. Built from the data below.
 
 ## Files
 
@@ -30,32 +31,34 @@ Each sandwich record has:
 - **`name`** — sandwich name (e.g. `HALSEY`)
 - **`protein_group`** — the category it's filed under (its headline protein)
 - **`ingredients`** — listed fillings/sauces/cheeses
-- **`locations_count`** — how many of the 116 stores carry it (a proxy for how core vs. regional it is)
+- **`locations_count`** — how many store menus carry it (deduplicated per store)
+- **`exclusive`** — `true` when exactly one store carries it (a location exclusive)
+- **`exclusive_location`** — which store, for exclusives (e.g. `Berkeley, CA`)
 
 ## Protein groups
 
 | Group | Count | Notes |
 |-------|------:|-------|
-| Halal chicken | 69 | All non-fried chicken at Ike's is halal |
-| Fried chicken | 56 | |
-| Chicken (other) | 2 | Tenders / odd chicken items |
-| Turkey | 70 | Includes multi-meat deli combos led by turkey |
-| Roast beef | 33 | Includes corned beef |
-| Steak & beef | 60 | Steak, cheesesteak, chicken-fried steak, brisket |
-| Pastrami | 32 | |
-| Ham | 19 | |
-| Salami | 7 | Beef salami as the lead |
-| Meatball | 24 | All-beef meatballs |
-| Bacon | 13 | Bacon as the headline protein |
-| Seafood | 19 | Tuna, wild salmon burger, lobster salad |
-| Sausage / hot link | 2 | |
-| Vegan – chicken | 133 | Plant-based chicken (grilled & fried) |
-| Vegan – turkey | 59 | |
-| Vegan – steak | 27 | Plant-based steak / brisket |
-| Vegan – meatball | 30 | |
-| Vegan – bacon | 17 | Veggie bacon |
-| Vegan – other | 4 | Vegan meatloaf, bulgogi, etc. |
-| Vegetarian (no meat) | 81 | Eggplant, mushrooms, cheese, avocado, etc. |
+| Halal chicken | 98 | All non-fried chicken at Ike's is halal |
+| Fried chicken | 63 | |
+| Chicken (other) | 7 | Tenders / odd chicken items |
+| Turkey | 86 | Includes multi-meat deli combos led by turkey |
+| Roast beef | 42 | Includes corned beef |
+| Steak & beef | 81 | Steak, cheesesteak, chicken-fried steak, brisket |
+| Pastrami | 38 | |
+| Ham | 27 | |
+| Salami | 8 | Beef salami as the lead |
+| Meatball | 28 | All-beef meatballs |
+| Bacon | 18 | Bacon as the headline protein |
+| Seafood | 23 | Tuna, wild salmon burger, lobster salad |
+| Sausage / hot link | 11 | |
+| Vegan – chicken | 140 | Plant-based chicken (grilled & fried) |
+| Vegan – turkey | 64 | |
+| Vegan – steak | 28 | Plant-based steak / brisket |
+| Vegan – meatball | 33 | |
+| Vegan – bacon | 18 | Veggie bacon |
+| Vegan – other | 9 | Vegan meatloaf, bulgogi, etc. |
+| Vegetarian (no meat) | 91 | Eggplant, mushrooms, cheese, avocado, etc. |
 
 ## Method & caveats
 
