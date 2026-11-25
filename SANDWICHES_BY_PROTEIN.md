@@ -1,9 +1,9 @@
 # Ike's sandwiches, by protein
 
-All 913 named sandwiches pulled from Ike's online ordering menus across all US locations (2026-07-31), grouped by the meat or plant protein that leads each build. 📍 marks location exclusives — sandwiches carried by exactly one store.
+All 959 named sandwiches pulled from Ike's online ordering menus across all US locations (2026-07-31), grouped by the meat or plant protein that leads each build. 📍 marks location exclusives — sandwiches carried by exactly one store.
 
 
-## Halal chicken (98)
+## Halal chicken (105)
 
 *All non-fried chicken at Ike's is halal.*
 
@@ -105,8 +105,15 @@ All 913 named sandwiches pulled from Ike's online ordering menus across all US l
 - **#665 ZACH'S HOLY MOLE** — Halal Chicken, Bacon, Habanero Salsa, Nutella, and Havarti Cheese  _(📍 exclusive to Santa  Rosa, CA)_
 - **#8675309 ZIVITY** — Chicken (Halal) , Salami (Beef), Pesto, Honey Mustard, Pepper Jack  _(📍 exclusive to Phoenix (Legacy Village), AZ)_
 - **Zeke The Freak** — Halal Chicken, Salami, Marinara, Orange Glaze, Pesto, Pepper Jack, Cheddar  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
+- **#1111 #IKE'S ANGELS** — Chicken (Halal), Zesty Orange Glaze, Honey Mustard, Avocado, Pepper Jack  _(seen at Chico, CA; not in store-menu pull — [source](https://ikesloveandsandwiches.orderexperience.net/60902b6a95b701063f8b4582/menu))_
+- **#330 JULIUS CAESAR** — Halal chicken, Caesar dressing, provolone cheese  _(historic menu, may be retired — [source](https://www.allmenus.com/az/tempe/434202-ikes-love-sandwiches/menu/))_
+- **#192 THE LITTLE MERMAID** — Halal chicken, orange glaze, pepper jack cheese  _(historic menu, may be retired — [source](https://www.allmenus.com/az/tempe/434202-ikes-love-sandwiches/menu/))_
+- **#577 GREEN ACRES** — Halal chicken, Ike's green sauce, pepper jack  _(historic menu, may be retired — [source](https://www.allmenus.com/ca/turlock/581821-ikes-love-sandwiches/menu/))_
+- **GOLLY-ZILLA** — Halal chicken, pineapple, teriyaki sauce, wasabi mayo, Swiss cheese  _(historic menu, may be retired — [source](https://www.honolulumagazine.com/?p=45085))_
+- **#585 READ MY MIND** — Halal chicken, creamy buffalo sauce, provolone  _(seen on a menu page, not in store-menu pull — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-1805688))_
+- **#141 PHANTOM ELVIS KREEP** — Chicken (Halal), Bacon, Teriyaki, Wasabi Mayo, Swiss  _(seen on a menu page, not in store-menu pull — [source](https://www.yelp.com/menu/ikes-love-and-sandwiches-torrance))_
 
-## Fried chicken (63)
+## Fried chicken (67)
 
 - **#98 JAYMEE SIREWICH** — Fried Chicken, Yellow BBQ Sauce, Ranch, Pepper Jack  _(core, 115 stores)_
 - **#201 ADAM RICHMAN** — Fried Chicken, Ham, Pesto, Real Honey, Avocado, Swiss  _(core, 112 stores)_
@@ -171,6 +178,10 @@ All 913 named sandwiches pulled from Ike's online ordering menus across all US l
 - **#979 THE TENTACLE** — Fried Chicken, Avocado, Ike's Mango Orange Mustard, Swiss  _(📍 exclusive to Torrance, CA)_
 - **#566 THE TILLER (Tustin Exclusive)** — Fried Chicken, Jalapeno Relish, American  _(📍 exclusive to Tustin, CA)_
 - **#511 WILLOW (Concord Exclusive)** — Fried Chicken, Ike's Spicy Willow Sauce, Provolone  _(📍 exclusive to Concord, CA)_
+- **THE DREAM ROTATION (Weedmaps collab)** — Fried Chicken, Dirty Sauce, Cream Cheese, Honey Drizzle, Flamin' Hot Cheetos  _(limited-time, not in store-menu pull — [source](https://www.prweb.com/releases/the-dream-rotation-ikes-and-weedmaps-roll-out-their-most-craveable-collab-yet-302744408.html))_
+- **CROCKETT** — Fried chicken, green ranch, provolone  _(historic menu, may be retired — [source](https://wsvn.com/entertainment/california-sub-shop-ikes-love-and-sandwiches-opens-aventura-location-1st-on-east-coast/))_
+- **NO, I'M NOT PITBULL** — Fried chicken, purple slaw, award-winning barbecue sauce  _(historic menu, may be retired — [source](https://wsvn.com/entertainment/california-sub-shop-ikes-love-and-sandwiches-opens-aventura-location-1st-on-east-coast/))_
+- **#1297 FAB FRED** — Fried chicken, fab sauce, pepper jack  _(seen on a menu page, not in store-menu pull — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-1805688))_
 
 ## Chicken (other) (7)
 
@@ -184,7 +195,7 @@ Vegan option substitut  _(2 stores)_
 Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive to Santa  Rosa, CA)_
 - **Vegan Chicken Nuggets** — 8 vegan chicken nuggets with your choice of dipping sauce  _(📍 exclusive to Santa  Rosa, CA)_
 
-## Turkey (86)
+## Turkey (93)
 
 - **#18 MATT CAIN** — Turkey, Roast Beef, Salami (Beef), Godfather Sauce, Provolone  _(core, 115 stores)_
 - **#65 JIM ROME** — Turkey, Red Pesto, Avocado, Cheddar  _(core, 108 stores)_
@@ -272,8 +283,15 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#471 The Boss** — Turkey, Buffalo Wing Sauce, Beer Battered Onion Rings, Cheddar, Provolone  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
 - **#852 WHAT'S MY AGE AGAIN (Poway Exclusive)** — Turkey, Bacon, Avocado, Ike's Paguay Sauce, Pepper Jack  _(📍 exclusive to Poway, CA)_
 - **#551 WILSON'S HOTEL (Vacaville Exclusive)** — Turkey, Ham, Ike's Pesto Caesar, Provolone  _(📍 exclusive to Vacaville, CA)_
+- **#1620 FRIENDSGIVING** — Turkey, Cranberry, Sriracha, Stuffing, Cheddar  _(limited-time, not in store-menu pull — [source](https://www.tastingtable.com/2306650/best-chain-thanksgiving-style-turkey-sandwiches-customers/))_
+- **#3434 HEATHER MCDONALD'S JUICY SCOOP** — Turkey, Bacon, Avocado, Jalapeno Poppers, Buffalo Sauce, Red Pesto, Gouda  _(limited-time, not in store-menu pull — [source](https://rss.globenewswire.com/news-release/2025/08/27/3140174/0/en/Ike-s-Love-Sandwiches-Spills-the-Juicy-Scoop-with-Heather-McDonald.html))_
+- **#820 TOONERVILLE TROLLEY** — Turkey, Stuffed Jalapeno Poppers, Ike's Sundried Tomato Horseradish, Provolone  _(seen at Danville, CA only; not in store-menu pull — [source](https://menupages.com/ikes-love-sandwiches/21-railroad-ave-danville))_
+- **#955 FIVE & IKE'S (Chico Exclusive)** — Turkey, Bacon, Avocado, Red Razor Pesto, Pepper Jack  _(📍 exclusive to Chico, CA — [source](https://ikesloveandsandwiches.orderexperience.net/60902b6a95b701063f8b4582/menu))_
+- **#38 THE COUNT OF MONTE CHASE-O** — Turkey, ham (turkey ham), strawberry preserves, Swiss cheese  _(historic menu, may be retired — [source](https://www.allmenus.com/az/tempe/434202-ikes-love-sandwiches/menu/))_
+- **#818 SASHA THE MACHINE** — Turkey, Bacon, Avocado, Purple Slaw, Red Pesto, Godfather Sauce, Swiss  _(seen on a menu page, not in store-menu pull — [source](https://www.yelp.com/menu/ikes-love-and-sandwiches-el-segundo))_
+- **#487 JOHN CAT (Bluff Street Exclusive)** — Turkey, Salami, Ike's Fabulous Pesto, Provolone  _(📍 exclusive to St. George (Bluff St), UT — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-24409228))_
 
-## Roast beef (42)
+## Roast beef (46)
 
 - **#150 DIRTY REUBEN** — Roast Beef, Dirty Dressing, Purple Slaw, American  _(core, 95 stores)_
 - **#155 NACHO BOY SUPREME** — Roast Beef, Bacon, Mushrooms, Avocado, Swiss  _(29 stores)_
@@ -317,8 +335,12 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#552 TRIATHLON (San Diego Midway Exclusive)** — Roast Beef, Turkey, Ike's Spicy Red Caesar, Provolone  _(📍 exclusive to San Diego (Midway), CA)_
 - **#226 TRUE GRIT** — Roast Beef, Yellow BBQ Sauce, Cheddar  _(📍 exclusive to Fort Collins (CSU), CO)_
 - **#1818 WILD BILL** — Roast Beef, Bacon, Buffalo Wing Sauce, BBQ Sauce, Cream Cheese  _(📍 exclusive to Poway, CA)_
+- **THE MUNCHIE MELT (Weedmaps collab)** — Roast Beef, Cheddar, American, Pepper Jack, Swiss, Gouda, Provolone, Dirty Sauce, BBQ Sauce, Honey Drizzle  _(limited-time, not in store-menu pull — [source](https://manilatimes.net/2025/04/02/tmt-newswire/globenewswire/ikes-love-sandwiches-blazes-a-trail-with-the-new-munchie-melt/2085423))_
+- **#1102 ALAN WONG** — Roast beef, ham, turkey, pastrami, Godfather sauce, provolone, veggies, on Dutch crunch  _(historic menu, may be retired — [source](https://www.honolulumagazine.com/?p=45085))_
+- **#569 DON'T YOU PUT ME ON THE BACKBURNER** — Roast beef, jalapeno bacon, silver BBQ sauce, cheddar, American  _(seen on a menu page, not in store-menu pull — [source](https://www.allmenus.com/nv/las-vegas/602718-ikes-love-sandwiches/menu/))_
+- **#4200 VENICE MASE** — Roast Beef, Bacon, Godfather Sauce, Wasabi Mayo, Swiss, Pepper Jack  _(seen on a menu page, not in store-menu pull — [source](https://web.archive.org/web/20250123124811id_/https://menupages.com/ikes-love-sandwiches/302-n-san-fernando-blvd-burbank))_
 
-## Steak & beef (81)
+## Steak & beef (84)
 
 - **#240 MADISON BUMGARNER** — Steak, Yellow BBQ Sauce, (Light) Habanero, Pepper Jack, American  _(core, 115 stores)_
 - **#2 HOLLYWOULD'S SF CHEESESTEAK** — Steak, Mushrooms, Provolone  _(core, 106 stores)_
@@ -401,8 +423,11 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#103 TH MACK** — Burger (Beef), Mozzarella Sticks, French Dressing, American  _(📍 exclusive to San Francisco (Mission Rock), CA)_
 - **#745 THE AIRDROME (Monrovia Exclusive)** — Steak, Ike's Creamy Pesto, French Fries, Pepper Jack  _(📍 exclusive to Monrovia, CA)_
 - **#778 YES I AM** — Steak, Mack Sauce, Beer-Bettered Onion Rings, Purple Slaw, American  _(📍 exclusive to Costa Mesa, CA)_
+- **FRIENDLY TOM (Escondido Exclusive)** — Chicken Fried Steak, Avocado, Ike's Hidden Ranch, Pepper Jack  _(📍 exclusive to Escondido, CA — [source](https://www.prweb.com/releases/ikes-love--sandwiches-falls-for-escondido-opens-first-north-county-location-302894028.html))_
+- **#1002 HOLLYWOULD'S CHICO STATE CHEESESTEAK** — Steak, Red Razor Pesto, Grilled Mushrooms, Provolone  _(seen at Chico, CA; not in store-menu pull — [source](https://ikesloveandsandwiches.orderexperience.net/60902b6a95b701063f8b4582/menu))_
+- **#92 HOT DATE FOR HIRE** — Steak, Extra Dirty Sauce, Stuffed Jalapeno Poppers  _(historic menu, may be retired — [source](https://web.archive.org/web/20230208061529id_/https://menupages.com/ikes-love-sandwiches/302-n-san-fernando-blvd-burbank))_
 
-## Pastrami (38)
+## Pastrami (40)
 
 - **#2242 CAM BRINK** — Pastrami, Purple Slaw, Buffalo Wing Sauce, Zesty Orange Glaze, Wasabi Mayo, Avocado, American, Pepper Jack, Extra Dirty Sauce  _(core, 106 stores)_
 - **ULTIMATE FIGHTING FORREST - Created With Forrest Griffin** — Pastrami, Godfather Sauce, Wasabi Mayo, Red Pesto, Pepper Jack, Cheddar  _(core, 104 stores)_
@@ -442,8 +467,10 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#24 TRITONS** — Pastrami, Bacon, Swiss  _(📍 exclusive to La Jolla, CA)_
 - **#365 ULTIMATE WARRIOR** — Pastrami, Bacon, Mushrooms, Avocado, Swiss  _(📍 exclusive to Culver City, CA)_
 - **#916 YOLO (COUNTY) (Davis Exclusive)** — Pastrami, Ham, Ike's Aggie Sauce, American  _(📍 exclusive to Davis, CA)_
+- **ARROW** — Wagyu Pastrami, Purple Slaw, Pickle Havarti, Ike's New American Dressing, Dutch Crunch, Dirty Sauce  _(historic menu, may be retired — [source](https://rss.globenewswire.com/news-release/2023/08/01/2715934/0/en/Ike-s-Love-Sandwiches-Debuts-Two-New-Ultra-Luxury-Sandwiches-with-Wagyu-Pastrami-and-Vegan-Bulgogi.html))_
+- **#317 LUCKY CHARM** — Pastrami, jalapeno bacon, purple slaw, Swiss  _(seen on a menu page, not in store-menu pull — [source](https://www.allmenus.com/nv/las-vegas/602718-ikes-love-sandwiches/menu/))_
 
-## Ham (27)
+## Ham (29)
 
 - **#668 TURKEY, TURKEY!** — Your choice of ham or turkey and American cheese  _(core, 113 stores)_
 - **#63 HELLA FAT BASTARD** — Ham, Bacon, Mozzarella Sticks, Extra Dirty Sauce, American  _(87 stores)_
@@ -472,8 +499,10 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **THE HANGOVER** — Egg, Ham or Bacon, Breaded Jalapeno Cheddar Munchers, Habanero Salsa, and American Cheese  _(📍 exclusive to Santa  Rosa, CA)_
 - **THE McLOVIN** — Egg, Ham or Bacon, Sriracha, and American Cheese  _(📍 exclusive to Santa  Rosa, CA)_
 - **THE WRIGHT MEAL** — Egg, Bacon, Ham, Avocado, Sriracha, and Cheddar  _(📍 exclusive to Santa  Rosa, CA)_
+- **#9999 MR. IRRELEVANT** — Ham, Bacon, Godfather Sauce, Honey Mustard, American, Chips  _(limited-time, not in store-menu pull — [source](https://www.manilatimes.net/2025/04/24/tmt-newswire/globenewswire/ikes-love-sandwiches-and-cat-cora-launch-mr-irrelevant/2098815))_
+- **LORD OF THE FLIES** — Ham, pineapple, barbecue sauce, provolone  _(historic menu, may be retired — [source](https://www.honolulumagazine.com/?p=45085))_
 
-## Salami (8)
+## Salami (9)
 
 - **#601 NINJA TURTLE** — The best pizza (sandwich) you'll ever try: Salami (Beef), Marinara, Dirty Sauce and Provolone  _(core, 106 stores)_
 - **#343 CABLE CAR** — Salami, Bacon, Provolone Cheese  _(6 stores)_
@@ -483,6 +512,7 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#227 EX-BOYFRIEND** — All-Beef Salami, Bacon, Avocado, and Cheddar Cheese. All sandwiches are served hot with dirty sauce  _(📍 exclusive to Santa  Rosa, CA)_
 - **#459 SALAMI CHARMED LIFE** — Salami (Beef), Bacon, Godfather Sauce, Cheddar  _(📍 exclusive to Pleasanton, CA)_
 - **#502 SPEED CITY (DTSJ Exclusive)** — Salami (Beef), Ike's Incredible Hulk Sauce, Purple Slaw, Cheddar  _(📍 exclusive to San Jose Downtown, CA)_
+- **#1020 RAZOR RAMON (Chico Exclusive)** — Beef Salami, Ham, Red Razor Pesto, Godfather Sauce, Provolone  _(📍 exclusive to Chico, CA — [source](https://ikesloveandsandwiches.orderexperience.net/60902b6a95b701063f8b4582/menu))_
 
 ## Meatball (28)
 
@@ -576,7 +606,7 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **Vampirate** — Patton's Hot Sausage, Garlic Cranberry, Stuffing, American  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
 - **#22 WILL THE THRILL** — Hot Link (Halal), Provolone  _(📍 exclusive to San Francisco (Mission Rock), CA)_
 
-## Vegan - chicken (140)
+## Vegan - chicken (146)
 
 - **#301 HANDSOME OWL** — Vegan Chicken, Teriyaki, Wasabi Mayo, Swiss  _(core, 113 stores)_
 - **#301 VEGAN HANDSOME OWL** — Vegan Chicken, Teriyaki, Wasabi Mayo, Vegan Cheese  _(core, 108 stores)_
@@ -718,8 +748,14 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#639 VEGAN WHAT'S POPPING?! (Fresno Campus Pointe Exclusive)** — Vegan Chicken, Ike's Buffalo French Sauce, Vegan Cheese  _(📍 exclusive to Fresno 1 (Campus), CA)_
 - **#693 WE'RE NOT NORMAL (Great Hills Exclusive)** — Vegan Fried Chicken, Ike's Orange Buffalo BBQ Sauce, Gouda  _(📍 exclusive to Great Hills, TX)_
 - **#639 WHAT'S POPPING?! (Fresno Campus Pointe Exclusive)** — Vegan Chicken, Ike's Buffalo French Sauce, American  _(📍 exclusive to Fresno 1 (Campus), CA)_
+- **#800 BBL IKE** — Vegan Fried Chicken, Dirty Dressing, Pepper Jack  _(seen at Chico, CA; not in store-menu pull — [source](https://ikesloveandsandwiches.orderexperience.net/60902b6a95b701063f8b4582/menu))_
+- **TUBBS** — Vegan chicken fingers, provolone, green ranch sauce  _(historic menu, may be retired — [source](https://wsvn.com/entertainment/california-sub-shop-ikes-love-and-sandwiches-opens-aventura-location-1st-on-east-coast/))_
+- **JOE VS. THE VOLCANO** — Vegan fried chicken, pineapple, marinara sauce, provolone  _(historic menu, may be retired — [source](https://www.honolulumagazine.com/?p=45085))_
+- **LANIĀKEA** — Vegan fried chicken, pineapple, teriyaki, cucumbers, provolone  _(historic menu, may be retired — [source](https://www.honolulumagazine.com/?p=45085))_
+- **#677 SILVER SLIPPER** — Vegan fried chicken, silver BBQ sauce, American  _(seen on a menu page, not in store-menu pull — [source](https://www.allmenus.com/nv/las-vegas/602718-ikes-love-sandwiches/menu/))_
+- **#749 KNIGHTS OF GOLD** — Vegan fried chicken, fab sauce, pepper jack  _(seen on a menu page, not in store-menu pull — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-1805688))_
 
-## Vegan - turkey (64)
+## Vegan - turkey (69)
 
 - **#291 PEE WEE** — Vegan Turkey, Purple Slaw, French Dressing, Swiss  _(core, 111 stores)_
 - **#202 VEGAN GRAMPS** — Vegan Turkey, Mushrooms, Vegan Cheese  _(core, 107 stores)_
@@ -785,8 +821,13 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **Vegan Easter Bunny** — Vegan Turkey, Stuffing, Cranberry Sauce, Sriracha, Vegan Cheese  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
 - **#275 Vegan Sally R.** — Vegan Turkey, Avocado, Vegan Cheese  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
 - **#220 WAIKIKI** — Vegan Turkey, Pineapple, Marinara, Provolone  _(📍 exclusive to San Francisco (Mission Rock), CA)_
+- **#646 MITCHELLVILLE** — Vegan turkey, Ike's green sauce, provolone  _(historic menu, may be retired — [source](https://www.allmenus.com/ca/turlock/581821-ikes-love-sandwiches/menu/))_
+- **#215 STEINBECK** — Vegan turkey, melted Brie  _(historic menu, may be retired — [source](https://www.allmenus.com/ca/turlock/581821-ikes-love-sandwiches/menu/))_
+- **#685 DESERT BREEZE** — Vegan turkey, creamy buffalo sauce, provolone  _(seen on a menu page, not in store-menu pull — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-1805688))_
+- **THE MEADOWS** — Vegan Turkey, Ft Apache BBQ, Pepperjack  _(seen on a menu page, not in store-menu pull — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-1805688))_
+- **#486 RED CLIFFS (Bluff Street Exclusive)** — Vegan Turkey, Ike's Fabulous Pesto, Provolone  _(📍 exclusive to St. George (Bluff St), UT — [source](https://page-service.doordash.com/store/ikes-love-&-sandwiches-24409228))_
 
-## Vegan - steak (28)
+## Vegan - steak (30)
 
 - **#750 VEGAN HADES** — Vegan Steak, Yellow BBQ Sauce, Habanero, Vegan Cheese  _(core, 106 stores)_
 - **#600 VEGAN PERSEPHONE** — Vegan Steak, Yellow BBQ Sauce, Mushrooms, Vegan Cheese  _(core, 106 stores)_
@@ -816,8 +857,10 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#792 VEGAN OZ (Hollywood Exclusive)** — Vegan Steak, Ike's Sweet Sticky BBQ Sauce, Vegan Cheese  _(📍 exclusive to Hollywood (Sunset & Vine), CA)_
 - **#244 VEGAN ZENOBIA** — Vegan Steak, Hummus  _(📍 exclusive to San Francisco (Polk), CA)_
 - **#244 ZENOBIA** — Vegan Steak, Hummus  _(📍 exclusive to San Francisco (Polk), CA)_
+- **QUIET HILL (Escondido Exclusive)** — Vegan Steak, Avocado, Ike's Hidden Ranch, Pepper Jack  _(📍 exclusive to Escondido, CA — [source](https://www.prweb.com/releases/ikes-love--sandwiches-falls-for-escondido-opens-first-north-county-location-302894028.html))_
+- **#841 THE BAD JANET** — Vegan Steak, Ike's Sundried Tomato Horseradish, Provolone  _(seen at Danville, CA only; not in store-menu pull — [source](https://menupages.com/ikes-love-sandwiches/21-railroad-ave-danville))_
 
-## Vegan - meatball (33)
+## Vegan - meatball (34)
 
 - **#70 MEATLESS MIKE** — Vegan Meatballs, Marinara, Pepper Jack  _(core, 115 stores)_
 - **#70 VEGAN MEATLESS MIKE** — Vegan Meatballs, Marinara, Vegan Cheese  _(core, 108 stores)_
@@ -852,6 +895,7 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **VEGAN Laveau ( New Orleans Exclusive)** — Vegan Meatballs, Mushrooms, Sweet Bourbon Glaze, Vegan Cheese  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
 - **#821 VEGAN MOBRO'S TACOS** — Vegan Meatballs, Southwest Sauce , Avocado, Vegan Cheese  _(📍 exclusive to Gilbert, AZ)_
 - **#686 VEGAN PICKET POST CREEK (Queen Creek Exclusive)** — Vegan Meatballs, Ike's Horseshoe BBQ Sauce, Vgean Cheese  _(📍 exclusive to Round Rock, TX)_
+- **#295 BRANDO CALRISSIAN** — Vegan meatballs, mushrooms, marinara, pepper jack cheese  _(historic menu, may be retired — [source](https://www.allmenus.com/az/tempe/434202-ikes-love-sandwiches/menu/))_
 
 ## Vegan - bacon (18)
 
@@ -874,7 +918,7 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#931 THE CITY IN THE COUNTY (Poway Exclusive)** — Veggie Bacon, Avocado, Ike's Paguay Sauce, Pepper Jack  _(📍 exclusive to Poway, CA)_
 - **#654 TONY THE DUCK (Sunnyvale Exclusive)** — Veggie Bacon, Ike's Orange Tomato Pesto, Cream Cheese  _(📍 exclusive to Sunnyvale, CA)_
 
-## Vegan - other (9)
+## Vegan - other (10)
 
 - **#254B KROC** — Vegan Meatloaf, Mack Slaw, American  _(6 stores)_
 - **#219 PILGRIM** — Vegan Tofurkey, Cranberry Sauce, Sriracha, and Havarti  _(2 stores)_
@@ -885,8 +929,9 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#278 SHANANDOAH** — Boca Burger, French Dressing, Mozzarella Sticks, American  _(📍 exclusive to San Francisco (Mission Rock), CA)_
 - **#211 VEGAN BIG MOUTH BOCA BURGER** — Plant-Based Boca Burger, Vegan Cheese  _(📍 exclusive to San Francisco (Mission Rock), CA)_
 - **#254B VEGAN MACK DADDY** — Vegan Meatloaf, Vegan Mack Slaw, Vegan Cheese  _(📍 exclusive to Fort Collins (CSU), CO)_
+- **FLORYN** — Vegan Bulgogi, Purple Slaw, Pickle Havarti, Ike's Asian BBQ Sauce, Dutch Crunch, Dirty Sauce  _(historic menu, may be retired — [source](https://rss.globenewswire.com/news-release/2023/08/01/2715934/0/en/Ike-s-Love-Sandwiches-Debuts-Two-New-Ultra-Luxury-Sandwiches-with-Wagyu-Pastrami-and-Vegan-Bulgogi.html))_
 
-## Vegetarian (no meat) (91)
+## Vegetarian (no meat) (92)
 
 - **#61 SOMETIMES I'M A VEGETARIAN** — Marinated Artichoke Hearts, Mushrooms, Pesto, Provolone  _(core, 115 stores)_
 - **#304 CHESTER THE CHEETAH** — Grilled Cheese (Choose up to 4 kinds of cheese!)  _(core, 114 stores)_
@@ -979,3 +1024,4 @@ Vegan option substitutes vegan mozzarella cheese and vegan di  _(📍 exclusive 
 - **#137 WINNIE** — Cream Cheese, Zesty Orange Glaze, Cucumbers  _(📍 exclusive to San Diego (Hillcrest), CA)_
 - **#272 Yoshi's Super Island Eggplant Parm** — Breaded Eggplant, Mozzarella Sticks, Marinara  _(📍 exclusive to Ike's Cafe (New Orleans), LA)_
 - **#229 ZOIDBERG (Monterey Exclusive)** — Mushrooms, Ike's Red Pepper Pesto, Honey Mustard, Provolone  _(📍 exclusive to Monterey, CA)_
+- **#962 I'M THE BAD GUY (Chico Exclusive)** — Avocado, Red Razor Pesto, Cheddar  _(📍 exclusive to Chico, CA — [source](https://ikesloveandsandwiches.orderexperience.net/60902b6a95b701063f8b4582/menu))_
